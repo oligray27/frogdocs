@@ -1,6 +1,6 @@
 ---
 leafwiki_id: fl-home
-leafwiki_title: FrogLog Wiki
+leafwiki_title: FrogDocs
 leafwiki_created_at: "2026-10-02T10:23:17.616093631Z"
 leafwiki_updated_at: "2026-10-02T10:23:17.616093631Z"
 leafwiki_creator_id: system
