@@ -17,7 +17,7 @@ You can attach up to 10 screenshots to each game in your library.
 3. In **Tag Screenshot**, tick **Contains spoilers** or **NSFW** if they apply, and add an optional **Caption**.
 4. Click **Upload**.
 
-![The Screenshots window for a game, with the Add Photo tile](/assets/fl-library-screenshots/screenshotwindow.png)
+![The Screenshots window for a game, with the Add Photo tile](/assets/fl-library-screenshots/screenshotwindow.webp)
 
 ## Viewing
 

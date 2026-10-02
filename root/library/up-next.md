@@ -14,7 +14,7 @@ leafwiki_last_author_id: system
 
 On the Search page, click **Add to Up Next** on any result. It's added straight away, with no form to fill in. Games coming out soon work too: the details card counts down the days until release.
 
-![The Up Next page with a few games and a details card](/assets/fl-library-up-next/upnext.png)
+![The Up Next page with a few games and a details card](/assets/fl-library-up-next/upnext.webp)
 
 ## Ordering your list
 

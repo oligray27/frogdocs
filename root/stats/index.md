@@ -22,7 +22,7 @@ At the top of the page:
 - **Games**, **Live Service** and **Combined** switch between your regular games, your [live service games](/library/live-service-games), or both together.
 - The year menu narrows everything to one year. **All Time** shows your whole history.
 
-![The top of the Stats page, showing the Games/Live Service/Combined tabs, the year menu and the stat cards](/assets/fl-stats/statstoolbar.png)
+![The top of the Stats page, showing the Games/Live Service/Combined tabs, the year menu and the stat cards](/assets/fl-stats/statstoolbar.webp)
 
 ## Games tab
 
@@ -57,7 +57,7 @@ Four lists show where your games come from: **Platforms**, **Developers**, **Cou
 - **Show all** lists everything, not just the top five.
 - The expand button opens the list in a larger window, where you can also **exclude** values. For example, exclude "Indie" from Genres to see what else you play most. Percentages still include the excluded values. Exclusions reset when you leave the page.
 
-![The Genres top list as a bar chart, with the exclude box open](/assets/fl-stats/chartexlclude.png)
+![The Genres top list as a bar chart, with the exclude box open](/assets/fl-stats/chartexlclude.webp){width=80%}
 
 ## Live Service tab
 

@@ -23,7 +23,7 @@ For games on PC outside these platforms, use [LilyPad](/lilypad), FrogLog's desk
 
 Link platforms from your **Profile**. Under your profile card there's a button for each one: **Link Steam**, **Link PSN**, **Link Switch** and **Link Xbox**. Each platform's page explains the steps.
 
-![The profile card with every platform linked, each showing its account name with Import and Unlink buttons](/assets/fl-platforms/linkedplatforms.png)
+![The profile card with every platform linked, each showing its account name with Import and Unlink buttons](/assets/fl-platforms/linkedplatforms.webp)
 
 Once linked, the button shows your name on that platform, with two smaller buttons beside it:
 
@@ -58,7 +58,7 @@ If a game being imported is already in your library, the import asks what to do 
 
 **Skip All** sets every game to "Do nothing". Click **Confirm Choices** when you're done.
 
-![The import conflict step, with one game showing the three choices](/assets/fl-platforms/importconflict.png)
+![The import conflict step, with one game showing the three choices](/assets/fl-platforms/importconflict.webp){width=85%}
 
 You can import again whenever you like. Games already in your library are recognised rather than duplicated.
 
@@ -75,7 +75,7 @@ Open **Profile > Settings > Autonomous Tracking** and pick a platform's tab. Eac
 
 The settings are greyed out until that platform is linked.
 
-![The Autonomous Tracking settings, showing the platform tabs and the four settings](/assets/fl-platforms/platformtracking.png)
+![The Autonomous Tracking settings, showing the platform tabs and the four settings](/assets/fl-platforms/platformtracking.webp)
 
 ### How it works
 

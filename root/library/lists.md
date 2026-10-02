@@ -17,7 +17,7 @@ Open **Lists** from the navigation. It has two tabs:
 
 Use **Search lists...** to find a list by name.
 
-![The Lists page showing a couple of lists with their cover grids](/assets/fl-library-lists/lists.png)
+![The Lists page showing a couple of lists with their cover grids](/assets/fl-library-lists/lists.webp)
 
 ## Creating a list
 
@@ -57,4 +57,4 @@ Use **Compare against** on a list to pick someone you follow. Their avatar then 
 
 You can only compare against people you follow. Follow people from the **Social** page.
 
-![A list being compared against another user, showing both avatars on the covers and both played counts](/assets/fl-library-lists/listcompare.png)
+![A list being compared against another user, showing both avatars on the covers and both played counts](/assets/fl-library-lists/listcompare.webp)

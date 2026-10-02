@@ -14,7 +14,7 @@ This guide takes you from a new account to your first logged game.
 
 Go to [froglog.co.uk](https://froglog.co.uk) and click **Create Account**. There are two ways to sign up.
 
-![The Create an account form, showing the Sign Up and Sign Up with Steam buttons](/assets/fl-getting-started/signup.png)
+![The Create an account form, showing the Sign Up and Sign Up with Steam buttons](/assets/fl-getting-started/signup.webp){width=50%}
 
 ### Sign up normally
 
@@ -35,7 +35,7 @@ If you play on Steam, this is the fastest way to fill your library.
    - **Mirror my Steam activity on FrogLog** records your sessions automatically whenever you play on Steam.
 5. Click **Sign Up**.
 
-![The sign-up form after Steam verification, with the Import my Steam Library and Mirror my Steam activity checkboxes](/assets/fl-getting-started/steamsignup.png)
+![The sign-up form after Steam verification, with the Import my Steam Library and Mirror my Steam activity checkboxes](/assets/fl-getting-started/steamsignup.webp)
 
 For the import and tracking to work, your Steam profile's game details must be public:
 
@@ -47,7 +47,7 @@ For the import and tracking to work, your Steam profile's game details must be p
 
 A new account opens on the **Games** page with the message "Your FrogLog is empty!" and three ways to get started:
 
-![The Games page for a new account, showing the "Your FrogLog is empty!" message and its three buttons](/assets/fl-getting-started/emtpylog.png)
+![The Games page for a new account, showing the "Your FrogLog is empty!" message and its three buttons](/assets/fl-getting-started/emtpylog.webp)
 
 - **Add a game** opens Search.
 - **Import from Steam** opens your profile, where you can link your platforms.
@@ -63,7 +63,7 @@ The message disappears once you've added your first game.
    - **Add to Up Next** adds it to your wishlist straight away.
    - **Add to Games** opens the **Add New Game** form. Fill in the platform you played it on, its status, and anything else you want to record, then save.
 
-![Search results for a game, showing the Add to Up Next and Add to Games buttons on a result card](/assets/fl-getting-started/searchresults.png)
+![Search results for a game, showing the Add to Up Next and Add to Games buttons on a result card](/assets/fl-getting-started/searchresults.webp)
 
 Can't find your game? Click **Add Custom Game (Mod/Fork)** to add one by hand. You can start from an existing game as a template, or click **Skip** to start blank.
 
@@ -77,7 +77,7 @@ If you've played a lot already, importing is quicker than adding games one at a 
 2. Under your profile card, click **Link Steam**, **Link PSN** or **Link Xbox** and follow the steps.
 3. Once a platform is linked, click its **Import** button to bring in your games.
 
-![The bottom of the profile card, showing the Link Steam, Link PSN, Link Switch and Link Xbox buttons](/assets/fl-getting-started/profilecard.png)
+![The bottom of the profile card, showing the Link Steam, Link PSN, Link Switch and Link Xbox buttons](/assets/fl-getting-started/profilecard.webp)
 
 To have FrogLog record your sessions automatically from then on, turn on tracking for that platform under **Settings > Autonomous Tracking** on your profile. Nintendo Switch can be linked for automatic tracking too, though it has no import.
 

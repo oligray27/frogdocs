@@ -28,11 +28,11 @@ Choose a theme from **Appearance**. It changes the colours of the whole site.
 | **Nord** | The Nord palette |
 | **Terminal** | Green on black |
 
-![The Dark theme](/assets/fl-settings-appearance/darktheme.png)
+![The Dark theme](/assets/fl-settings-appearance/darktheme.webp)
 
-![The FrogLog 2077 theme](/assets/fl-settings-appearance/froglog2077theme.png)
+![The FrogLog 2077 theme](/assets/fl-settings-appearance/froglog2077theme.webp)
 
-![The Gruvbox theme](/assets/fl-settings-appearance/gruvboxtheme.png)
+![The Gruvbox theme](/assets/fl-settings-appearance/gruvboxtheme.webp)
 
 Your theme also shows when other people visit your profile, unless you turn off **Make Theme Public** in **Social Visibility**.
 

@@ -29,7 +29,7 @@ Because it's a third-party service, Switch tracking depends on it being up. If i
 
 The button now shows your Switch name and avatar.
 
-![The Link Nintendo Switch Account dialog](/assets/fl-platforms-nintendo-switch/linknintendo.png)
+![The Link Nintendo Switch Account dialog](/assets/fl-platforms-nintendo-switch/linknintendo.webp){width=65%}
 
 ## Automatic tracking
 

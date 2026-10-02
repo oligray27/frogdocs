@@ -21,6 +21,6 @@ In Showcases you can:
 - Reorder each one with its reorder button (**Reorder badges**, **Reorder trophies**, **Reorder screenshots**), then drag things into place. Click it again when you're done.
 - Remove anything with **Unpin**.
 
-![The Showcases settings, showing pinned badges, the Trophy Cabinet and the Screenshot Showcase](/assets/fl-settings-showcases/showcasessettings.png)
+![The Showcases settings, showing pinned badges, the Trophy Cabinet and the Screenshot Showcase](/assets/fl-settings-showcases/showcasessettings.webp)
 
 Hidden trophies you've pinned show as **Hidden Achievement** to visitors until they click to reveal them.

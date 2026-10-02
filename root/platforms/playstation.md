@@ -22,7 +22,7 @@ Sony doesn't offer a "sign in with PlayStation" button for other sites, so linki
 
 The button now shows your PSN name and avatar.
 
-![The Link PSN Account dialog with its three steps](/assets/fl-platforms-playstation/linkpsn.png)
+![The Link PSN Account dialog with its three steps](/assets/fl-platforms-playstation/linkpsn.webp){width=65%}
 
 Treat the NPSSO token like a password. FrogLog stores the access it grants encrypted, and only uses it to read your games, trophies and what you're playing.
 

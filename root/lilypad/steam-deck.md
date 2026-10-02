@@ -27,7 +27,7 @@ Open LilyPad in the Quick Access Menu and use **Log in to FrogLog** with your Fr
 
 ## The LilyPad panel
 
-![The LilyPad panel in the Quick Access Menu while a game is being tracked](/assets/fl-lilypad-steam-deck/steamdecktracking.jpg)
+![The LilyPad panel in the Quick Access Menu while a game is being tracked](/assets/fl-lilypad-steam-deck/steamdecktracking.webp)
 
 | Section | What's there |
 |---|---|

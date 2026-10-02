@@ -16,7 +16,7 @@ The card at the top shows your photo, username, when you joined, and how many pe
 
 Along the bottom of the card are the buttons for linking your gaming accounts (**Link Steam**, **Link PSN**, **Link Switch**, **Link Xbox**), each with **Import** and **Unlink** buttons once linked, and **Download LilyPad**. See [Platforms & Automatic Tracking](/platforms) and [LilyPad](/lilypad).
 
-![The profile card at the top of the Profile page](/assets/fl-getting-started/profilecard.png)
+![The profile card at the top of the Profile page](/assets/fl-getting-started/profilecard.webp)
 
 ## Settings
 

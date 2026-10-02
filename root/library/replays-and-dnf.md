@@ -29,7 +29,7 @@ Replays show a circular arrow icon in your library. The details card shows each 
 
 By default each playthrough is its own row. To tuck replays under the original instead, set **Profile > Settings > Library Defaults > Group Replays in Table** to **Grouped**. Click the arrow next to a game's title to expand or collapse its replays.
 
-![A game in the table with its replays expanded underneath it](/assets/fl-library-replays-and-dnf/replay.png)
+![A game in the table with its replays expanded underneath it](/assets/fl-library-replays-and-dnf/replay.webp)
 
 ## DNF
 

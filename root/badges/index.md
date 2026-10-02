@@ -12,7 +12,7 @@ Badges reward you for how you use FrogLog: games logged and finished, sessions p
 
 The [Badge Catalogue](/badges/catalogue) lists every badge and what it takes.
 
-![The Badges page, showing the summary, leaderboard and a few ladder cards](/assets/fl-badges/badgespage.png)
+![The Badges page, showing the summary, leaderboard and a few ladder cards](/assets/fl-badges/badgespage.webp)
 
 ## Two kinds of badge
 

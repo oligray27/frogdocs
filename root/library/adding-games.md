@@ -25,13 +25,13 @@ Each result shows the game's cover, release date, genre and developer. It also s
 - A **Steam** or **IGDB** link to the game's store or database page.
 - An expand button that shows the full description.
 
-![A search result card, showing the Add to Up Next and Add to Games buttons](/assets/fl-library-adding-games/searchresultcard.png)
+![A search result card, showing the Add to Up Next and Add to Games buttons](/assets/fl-library-adding-games/searchresultcard.webp){width=80%}
 
 ## The Add New Game form
 
 Most fields are already filled in from the game's database entry. Change anything you like before saving.
 
-![The Add New Game form](/assets/fl-library-adding-games/addnewgameform.png)
+![The Add New Game form](/assets/fl-library-adding-games/addnewgameform.webp)
 
 ### About the game
 

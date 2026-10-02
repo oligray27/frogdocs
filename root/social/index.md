@@ -26,7 +26,7 @@ Open **Social** from the navigation. It has two tabs:
 
 Use **Search users...** to find someone by name.
 
-![The Social page, showing a few user cards](/assets/fl-social/socialpage.png)
+![The Social page, showing a few user cards](/assets/fl-social/socialpage.webp)
 
 ### User cards
 
@@ -49,7 +49,7 @@ At the bottom of each card:
 
 Click a card to see their **profile card**, with their bio, stats, favourite games, Trophy Cabinet, Screenshot Showcase, and follower and like counts.
 
-![A user's profile card opened from the Social page](/assets/fl-social/customprofilecard.png)
+![A user's profile card opened from the Social page](/assets/fl-social/customprofilecard.webp)
 
 ### Following
 

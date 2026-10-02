@@ -39,7 +39,7 @@ When it's done, FrogLog shows how many games were imported. Click **View Games**
 
 Signing up with Steam and ticking **Import my Steam Library** does the same thing.
 
-![The Import From Steam dialog](/assets/fl-platforms-steam/importfromsteam.png)
+![The Import From Steam dialog](/assets/fl-platforms-steam/importfromsteam.webp){width=65%}
 
 ## Automatic tracking
 

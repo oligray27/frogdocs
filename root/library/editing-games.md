@@ -10,7 +10,7 @@ leafwiki_last_author_id: system
 
 To change anything about a game, select it and click **Edit** on its details card. The **Edit Game Details** form has the same fields as when you [added it](/library/adding-games), plus a few more.
 
-![The Edit Game Details form](/assets/fl-library-editing-games/editgamedetailsform.png)
+![The Edit Game Details form](/assets/fl-library-editing-games/editgamedetailsform.webp)
 
 ## Status
 

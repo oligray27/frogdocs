@@ -36,7 +36,7 @@ Write a few lines about yourself under **Bio**. It shows on your profile card.
 
 Pick up to 4 favourite games to show on your profile card. Use **Reorder favourites** to change their order.
 
-![The Bio and Favourite Games settings](/assets/fl-settings-profile/biosettings.png)
+![The Bio and Favourite Games settings](/assets/fl-settings-profile/biosettings.webp)
 
 ## Bottom Navigation (Mobile)
 

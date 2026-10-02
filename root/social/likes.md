@@ -18,7 +18,7 @@ Show some love for other people's gaming by liking it. Look for the heart button
 
 Click the heart to like something, and click it again to take your like back.
 
-![A details card with the heart button, and the "Liked by" list showing](/assets/fl-social-likes/detailscardshowinglikes.png)
+![A details card with the heart button, and the "Liked by" list showing](/assets/fl-social-likes/detailscardshowinglikes.webp)
 
 ## Likes on your own things
 

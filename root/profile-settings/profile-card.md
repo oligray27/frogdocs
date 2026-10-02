@@ -12,7 +12,7 @@ Your **profile card** is what people see when they click on you, for example on 
 
 Use **Preview Profile Card** and **Preview Mini Profile Card** to see how they look to other people.
 
-![A customised profile card, with a banner, profile colours and an avatar decoration](/assets/fl-social/customprofilecard.png)
+![A customised profile card, with a banner, profile colours and an avatar decoration](/assets/fl-social/customprofilecard.webp)
 
 ## Banner
 
