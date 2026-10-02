@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-stats-trends
+leafwiki_title: Trends
+leafwiki_created_at: "2026-10-02T11:18:17.688297472Z"
+leafwiki_updated_at: "2026-10-02T11:18:17.688297472Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Trends
 

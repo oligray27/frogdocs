@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-stats-comparing
+leafwiki_title: Comparing Stats
+leafwiki_created_at: "2026-10-02T11:18:17.687297447Z"
+leafwiki_updated_at: "2026-10-02T11:18:17.687297447Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Comparing Stats
 
