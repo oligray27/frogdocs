@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-api
+leafwiki_title: API & Integrations
+leafwiki_created_at: "2026-10-02T11:47:09.405032296Z"
+leafwiki_updated_at: "2026-10-02T11:47:09.405032296Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # API & Integrations
 
