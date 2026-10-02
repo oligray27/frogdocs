@@ -43,7 +43,7 @@ Both modes store the same rating, so switching back and forth doesn't change any
 
 ## Review
 
-Write your review in **Your Review**. It appears on the **Your Review** tab of the details card, and other users can read and ribbit it if the game is public.
+Write your review in **Your Review**. It appears on the **Your Review** tab of the details card, and other users can read and like it if the game is public.
 
 To hide a spoiler, wrap it in double pipes: `||Aerith dies||`. Readers see a blurred block until they click it.
 

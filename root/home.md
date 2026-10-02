@@ -19,7 +19,7 @@ This wiki explains how each part of FrogLog works. New here? Start with [Getting
 - **[Live service games](/library/live-service-games)**: ongoing games with no real ending, tracked [session by session](/library/sessions) instead of start-to-finish.
 - **[Automatic tracking](/platforms)**: link Steam, PlayStation, Xbox or Nintendo Switch to record your play sessions without lifting a finger, and import your history from Steam, PlayStation and Xbox.
 - **[LilyPad](/lilypad)**: a desktop companion app that tracks any game you play on PC, including ones outside Steam.
-- **Social**: follow friends, see what they're playing in Activity, like their sessions, reviews and screenshots, and compare stats.
+- **[Social](/social)**: follow friends, see what they're playing in [Activity](/social/activity), [like](/social/likes) their sessions, reviews and screenshots, and compare stats.
 - **Stats and Trends**: charts and breakdowns of your gaming history.
 - **[Lists](/library/lists), badges, [screenshots](/library/screenshots) and [trophies](/library/trophies)**: organise your games, earn badges, and show off your favourite moments on your profile.
 
