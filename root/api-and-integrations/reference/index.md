@@ -22,7 +22,7 @@ Every endpoint, grouped by what it does. Read [Conventions](/api-and-integration
 | [Trophies](/api-and-integrations/reference/trophies) | Trophies and your Trophy Cabinet |
 | [Stats](/api-and-integrations/reference/stats) | Your stats |
 | [Activity](/api-and-integrations/reference/activity) | The feed, Online Now, New From Friends and Highlights |
-| [Users](/api-and-integrations/reference/users) | Your account, other profiles, following, presence and privacy |
+| [Users](/api-and-integrations/reference/users-and-profiles) | Your account, other profiles, following, presence and privacy |
 | [Likes](/api-and-integrations/reference/likes) | Liking things |
 | [Notifications](/api-and-integrations/reference/notifications) | Your notifications, including a live stream |
 | [Badges](/api-and-integrations/reference/badges) | Badges, pins and the leaderboard |

@@ -46,7 +46,7 @@ Your [lists](/library/lists). In the API they live under `/collections/lists`. G
 | `DELETE /collections/lists/:id` | Deletes a list |
 | `POST /collections/lists/reorder` | Sets the order of your lists: `{ "ids": [3, 1, 2] }` |
 
-Other people's lists are under [Users](/api-and-integrations/reference/users).
+Other people's lists are under [Users](/api-and-integrations/reference/users-and-profiles).
 
 ## Members
 
