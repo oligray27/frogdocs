@@ -67,6 +67,8 @@ The message disappears once you've added your first game.
 
 Can't find your game? Click **Add Custom Game (Mod/Fork)** to add one by hand. You can start from an existing game as a template, or click **Skip** to start blank.
 
+[Adding Games](/library/adding-games) explains every field in the form, and [Your Library](/library) covers the rest of the Games page.
+
 ## Import your existing history
 
 If you've played a lot already, importing is quicker than adding games one at a time.
