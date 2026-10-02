@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-library-sessions
 leafwiki_title: Sessions
 leafwiki_created_at: "2026-10-02T10:38:03.21649587Z"
-leafwiki_updated_at: "2026-10-02T10:38:03.21649587Z"
+leafwiki_updated_at: "2026-10-02T14:10:44.02997098Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Sessions
 
@@ -20,7 +21,7 @@ With session tracking on, the game's hours are the total of all its sessions. Yo
 2. Pick the **Date**, enter the **Hours** (for example `2.5`), and add any **Notes**.
 3. Save.
 
-![The Add Session form](/assets/fl-library-sessions/addsessionform.webp){width=65%}
+![The Add Session form](/assets/fl-library-sessions/addsessionform.webp){width=40%}
 
 ## Viewing and editing sessions
 

@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-platforms
 leafwiki_title: Platforms & Automatic Tracking
 leafwiki_created_at: "2026-10-02T10:46:51.402757666Z"
-leafwiki_updated_at: "2026-10-02T10:46:51.402757666Z"
+leafwiki_updated_at: "2026-10-02T14:11:54.917516987Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Platforms & Automatic Tracking
 
@@ -58,7 +59,7 @@ If a game being imported is already in your library, the import asks what to do 
 
 **Skip All** sets every game to "Do nothing". Click **Confirm Choices** when you're done.
 
-![The import conflict step, with one game showing the three choices](/assets/fl-platforms/importconflict.webp){width=85%}
+![The import conflict step, with one game showing the three choices](/assets/fl-platforms/importconflict.webp){width=50%}
 
 You can import again whenever you like. Games already in your library are recognised rather than duplicated.
 
@@ -75,7 +76,7 @@ Open **Profile > Settings > Autonomous Tracking** and pick a platform's tab. Eac
 
 The settings are greyed out until that platform is linked.
 
-![The Autonomous Tracking settings, showing the platform tabs and the four settings](/assets/fl-platforms/platformtracking.webp)
+![The Autonomous Tracking settings, showing the platform tabs and the four settings](/assets/fl-platforms/platformtracking.webp){width=75%}
 
 ### How it works
 

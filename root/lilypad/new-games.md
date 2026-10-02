@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-lilypad-new-games
 leafwiki_title: New Games
 leafwiki_created_at: "2026-10-02T10:52:08.230591981Z"
-leafwiki_updated_at: "2026-10-02T10:52:08.230591981Z"
+leafwiki_updated_at: "2026-10-02T14:12:58.906526277Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # New Games
 
@@ -24,7 +25,7 @@ Open **New Games** from the tray menu (or the Steam Deck panel). Each game shows
 
 On Steam Deck, **Create New** is called **Add to FrogLog**, and **Create and log to new entry (replay)** is called **New entry (replay)**. They work the same way.
 
-![The New Games window with one game, showing Create New, Map to Existing and Dismiss](/assets/fl-lilypad-new-games/lilypadnewgame.webp){width=80%}
+![The New Games window with one game, showing Create New, Map to Existing and Dismiss](/assets/fl-lilypad-new-games/lilypadnewgame.webp){width=50%}
 
 ### Create New
 

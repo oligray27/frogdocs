@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-library-screenshots
 leafwiki_title: Screenshots
 leafwiki_created_at: "2026-10-02T10:38:03.21649587Z"
-leafwiki_updated_at: "2026-10-02T10:38:03.21649587Z"
+leafwiki_updated_at: "2026-10-02T14:11:13.831679325Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Screenshots
 
@@ -17,7 +18,7 @@ You can attach up to 10 screenshots to each game in your library.
 3. In **Tag Screenshot**, tick **Contains spoilers** or **NSFW** if they apply, and add an optional **Caption**.
 4. Click **Upload**.
 
-![The Screenshots window for a game, with the Add Photo tile](/assets/fl-library-screenshots/screenshotwindow.webp)
+![The Screenshots window for a game, with the Add Photo tile](/assets/fl-library-screenshots/screenshotwindow.webp){width=75%}
 
 ## Viewing
 

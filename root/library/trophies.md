@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-library-trophies
 leafwiki_title: Trophies
 leafwiki_created_at: "2026-10-02T10:38:03.21649587Z"
-leafwiki_updated_at: "2026-10-02T10:38:03.21649587Z"
+leafwiki_updated_at: "2026-10-02T14:11:28.515551712Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Trophies
 
@@ -18,7 +19,7 @@ Click it to see every trophy, with its icon, description and the date you unlock
 
 If a game has trophies on more than one platform, buttons at the top switch between them.
 
-![The Trophies window for a game, with some unlocked and some locked trophies](/assets/fl-library-trophies/trophieswindow.webp)
+![The Trophies window for a game, with some unlocked and some locked trophies](/assets/fl-library-trophies/trophieswindow.webp){width=60%}
 
 ### Hidden trophies
 

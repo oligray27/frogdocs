@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-getting-started
 leafwiki_title: Getting Started
 leafwiki_created_at: "2026-10-02T10:23:17.615093608Z"
-leafwiki_updated_at: "2026-10-02T10:23:17.615093608Z"
+leafwiki_updated_at: "2026-10-02T14:08:57.486482486Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Getting Started
 
@@ -14,7 +15,7 @@ This guide takes you from a new account to your first logged game.
 
 Go to [froglog.co.uk](https://froglog.co.uk) and click **Create Account**. There are two ways to sign up.
 
-![The Create an account form, showing the Sign Up and Sign Up with Steam buttons](/assets/fl-getting-started/signup.webp){width=50%}
+![The Create an account form, showing the Sign Up and Sign Up with Steam buttons](/assets/fl-getting-started/signup.webp){width=30%}
 
 ### Sign up normally
 
@@ -35,7 +36,7 @@ If you play on Steam, this is the fastest way to fill your library.
    - **Mirror my Steam activity on FrogLog** records your sessions automatically whenever you play on Steam.
 5. Click **Sign Up**.
 
-![The sign-up form after Steam verification, with the Import my Steam Library and Mirror my Steam activity checkboxes](/assets/fl-getting-started/steamsignup.webp)
+![The sign-up form after Steam verification, with the Import my Steam Library and Mirror my Steam activity checkboxes](/assets/fl-getting-started/steamsignup.webp){width=60%}
 
 For the import and tracking to work, your Steam profile's game details must be public:
 

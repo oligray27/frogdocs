@@ -1,16 +1,17 @@
 ---
+tags: []
 leafwiki_id: fl-library-editing-games
 leafwiki_title: Editing Games
 leafwiki_created_at: "2026-10-02T10:38:03.215495847Z"
-leafwiki_updated_at: "2026-10-02T10:38:03.215495847Z"
+leafwiki_updated_at: "2026-10-02T14:10:25.949715347Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Editing Games
 
 To change anything about a game, select it and click **Edit** on its details card. The **Edit Game Details** form has the same fields as when you [added it](/library/adding-games), plus a few more.
 
-![The Edit Game Details form](/assets/fl-library-editing-games/editgamedetailsform.webp)
+![The Edit Game Details form](/assets/fl-library-editing-games/editgamedetailsform.webp){width=50%}
 
 ## Status
 

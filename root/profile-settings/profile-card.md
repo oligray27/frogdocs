@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-settings-profile-card
 leafwiki_title: Profile Card
 leafwiki_created_at: "2026-10-02T11:26:37.444293855Z"
-leafwiki_updated_at: "2026-10-02T11:26:37.444293855Z"
+leafwiki_updated_at: "2026-10-02T14:14:18.455947069Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Profile Card
 
@@ -12,7 +13,7 @@ Your **profile card** is what people see when they click on you, for example on 
 
 Use **Preview Profile Card** and **Preview Mini Profile Card** to see how they look to other people.
 
-![A customised profile card, with a banner, profile colours and an avatar decoration](/assets/fl-social/customprofilecard.webp)
+![A customised profile card, with a banner, profile colours and an avatar decoration](/assets/fl-social/customprofilecard.webp){width=60%}
 
 ## Banner
 

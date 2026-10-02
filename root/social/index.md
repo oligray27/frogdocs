@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-social
 leafwiki_title: Social
 leafwiki_created_at: "2026-10-02T10:56:49.512808204Z"
-leafwiki_updated_at: "2026-10-02T10:56:49.512808204Z"
+leafwiki_updated_at: "2026-10-02T14:13:21.264304755Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Social
 
@@ -49,7 +50,7 @@ At the bottom of each card:
 
 Click a card to see their **profile card**, with their bio, stats, favourite games, Trophy Cabinet, Screenshot Showcase, and follower and like counts.
 
-![A user's profile card opened from the Social page](/assets/fl-social/customprofilecard.webp)
+![A user's profile card opened from the Social page](/assets/fl-social/customprofilecard.webp){width=60%}
 
 ### Following
 

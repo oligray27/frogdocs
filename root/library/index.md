@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-library
 leafwiki_title: Your Library
 leafwiki_created_at: "2026-10-02T10:38:03.21649587Z"
-leafwiki_updated_at: "2026-10-02T10:38:03.21649587Z"
+leafwiki_updated_at: "2026-10-02T14:09:58.944545861Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Your Library
 
@@ -64,7 +65,7 @@ Type in the **Search games...** box to narrow the list by title.
 
 **Clear All** resets every filter. If nothing matches, the table says so and offers a **Clear filters** button.
 
-![The Filters panel with a few filters selected](/assets/fl-library/filterform.webp){width=85%}
+![The Filters panel with a few filters selected](/assets/fl-library/filterform.webp){width=50%}
 
 ### Row icons
 

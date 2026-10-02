@@ -1,10 +1,11 @@
 ---
+tags: []
 leafwiki_id: fl-stats
 leafwiki_title: Stats
 leafwiki_created_at: "2026-10-02T11:18:17.688297472Z"
-leafwiki_updated_at: "2026-10-02T11:18:17.688297472Z"
+leafwiki_updated_at: "2026-10-02T14:13:45.099594463Z"
 leafwiki_creator_id: system
-leafwiki_last_author_id: system
+leafwiki_last_author_id: 6AZN8grDR
 ---
 # Stats
 
@@ -57,7 +58,7 @@ Four lists show where your games come from: **Platforms**, **Developers**, **Cou
 - **Show all** lists everything, not just the top five.
 - The expand button opens the list in a larger window, where you can also **exclude** values. For example, exclude "Indie" from Genres to see what else you play most. Percentages still include the excluded values. Exclusions reset when you leave the page.
 
-![The Genres top list as a bar chart, with the exclude box open](/assets/fl-stats/chartexlclude.webp){width=80%}
+![The Genres top list as a bar chart, with the exclude box open](/assets/fl-stats/chartexlclude.webp){width=50%}
 
 ## Live Service tab
 
