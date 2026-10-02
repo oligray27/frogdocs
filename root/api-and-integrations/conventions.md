@@ -11,11 +11,11 @@ How requests and responses work across the whole API.
 https://api.froglog.co.uk/api
 ```
 
-Every endpoint in the [reference](/api/reference) is relative to this. For example, `GET /games` means `GET https://api.froglog.co.uk/api/games`.
+Every endpoint in the [reference](/api-and-integrations/reference) is relative to this. For example, `GET /games` means `GET https://api.froglog.co.uk/api/games`.
 
 ## Authentication
 
-Every endpoint needs your [API key](/api) in the `Authorization` header:
+Every endpoint needs your [API key](/api-and-integrations) in the `Authorization` header:
 
 ```
 Authorization: Bearer flk_your_key_here

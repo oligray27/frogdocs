@@ -5,7 +5,7 @@ leafwiki_id: fl-api-ref-sessions
 
 Endpoints for listing all your sessions at once, and for running a [Quick Session](/library/sessions): a timer that FrogLog keeps on its side, so you can start and stop it from anywhere. They're handy for Stream Deck buttons, phone shortcuts or your own tracker.
 
-To add, change or delete a single session, use the game's own endpoints in [Games](/api/reference/games) or [Live Service](/api/reference/live-service).
+To add, change or delete a single session, use the game's own endpoints in [Games](/api-and-integrations/reference/games) or [Live Service](/api-and-integrations/reference/live-service).
 
 ## All sessions
 

@@ -3,7 +3,7 @@ leafwiki_id: fl-api-ref-live-service
 ---
 # Live Service
 
-Your [live service games](/library/live-service-games). These work like [Games](/api/reference/games), with a few differences:
+Your [live service games](/library/live-service-games). These work like [Games](/api-and-integrations/reference/games), with a few differences:
 
 - They have no end date, DNF, replay or status override. Hours always come from sessions.
 - Their status is `"active"` or `"dormant"`, set with `live_service_status`.
@@ -11,7 +11,7 @@ Your [live service games](/library/live-service-games). These work like [Games](
 
 ## The live service game object
 
-The same as the [game object](/api/reference/games), without `end_date`, `hours_played`, `dnf`, `status_override`, `session_tracking`, `no_achievements` and the replay fields, plus:
+The same as the [game object](/api-and-integrations/reference/games), without `end_date`, `hours_played`, `dnf`, `status_override`, `session_tracking`, `no_achievements` and the replay fields, plus:
 
 | Field | Notes |
 |---|---|
@@ -48,7 +48,7 @@ Moves live service games into your regular games, keeping their sessions (with s
 
 ## Sessions
 
-Session objects and fields are the same as for [games](/api/reference/games).
+Session objects and fields are the same as for [games](/api-and-integrations/reference/games).
 
 | Endpoint | Does |
 |---|---|
@@ -59,8 +59,8 @@ Session objects and fields are the same as for [games](/api/reference/games).
 
 ## Platforms
 
-`POST /live-service/:id/platform-links` and `DELETE /live-service/:id/platform-links/:linkId` work the same as for [games](/api/reference/games).
+`POST /live-service/:id/platform-links` and `DELETE /live-service/:id/platform-links/:linkId` work the same as for [games](/api-and-integrations/reference/games).
 
 ## Trophies
 
-`GET /live-service/:id/achievements` returns the game's trophies. See [Trophies](/api/reference/trophies).
+`GET /live-service/:id/achievements` returns the game's trophies. See [Trophies](/api-and-integrations/reference/trophies).

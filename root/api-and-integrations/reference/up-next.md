@@ -12,7 +12,7 @@ Your [Up Next](/library/up-next) wishlist. In the API it's called the **wishlist
 | `id` | |
 | `title`, `description`, `img`, `cover_image` | |
 | `genre`, `dev`, `studio_country` | |
-| `rel_date`, `rel_date_category` | See [release date precision](/api/conventions) |
+| `rel_date`, `rel_date_category` | See [release date precision](/api-and-integrations/conventions) |
 | `steam_app_id`, `igdb_slug`, `igdb_id` | |
 | `sort_order` | Position in your list |
 | `is_public` | |
@@ -35,7 +35,7 @@ curl -X POST https://api.froglog.co.uk/api/wishlist \
   -d '{"title": "Hollow Knight: Silksong", "steam_app_id": 1030300}'
 ```
 
-Tip: use [`GET /search/fetch`](/api/reference/search) to fill in a game's details from its title first.
+Tip: use [`GET /search/fetch`](/api-and-integrations/reference/search) to fill in a game's details from its title first.
 
 ## PUT /wishlist/:id
 
@@ -55,7 +55,7 @@ Sets the order of your list, first to last. Returns `{ "success": true }`.
 
 ## POST /wishlist/:id/move-to-games
 
-Moves an item into your games, as when you click **Add to Games**. Send the new game's fields, as for [`POST /games`](/api/reference/games): for example `start_date`, `hours_played`, `rating`, `session_tracking`. Returns `{ "success": true }`.
+Moves an item into your games, as when you click **Add to Games**. Send the new game's fields, as for [`POST /games`](/api-and-integrations/reference/games): for example `start_date`, `hours_played`, `rating`, `session_tracking`. Returns `{ "success": true }`.
 
 ## POST /wishlist/:id/move-to-live-service
 

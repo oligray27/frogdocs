@@ -3,7 +3,7 @@ leafwiki_id: fl-api-ref-games
 ---
 # Games
 
-Your library of regular games. For live service games, see [Live Service](/api/reference/live-service).
+Your library of regular games. For live service games, see [Live Service](/api-and-integrations/reference/live-service).
 
 ## The game object
 
@@ -15,7 +15,7 @@ Your library of regular games. For live service games, see [Live Service](/api/r
 | `img` | string | Hero artwork URL |
 | `cover_image` | string | Cover art URL |
 | `title_img` | string | Logo URL |
-| `rel_date`, `rel_date_category` | date, number | See [release date precision](/api/conventions) |
+| `rel_date`, `rel_date_category` | date, number | See [release date precision](/api-and-integrations/conventions) |
 | `start_date`, `end_date` | date | |
 | `hours_played` | number | The game's hours, for games without session tracking |
 | `rating` | number | 0–100, each star is 20 |
@@ -119,7 +119,7 @@ Moves several games, keeping their sessions and screenshots. Returns `{ "moved":
 
 ## Sessions
 
-Sessions for one game. For all your sessions at once, see [Sessions](/api/reference/sessions).
+Sessions for one game. For all your sessions at once, see [Sessions](/api-and-integrations/reference/sessions).
 
 ### The session object
 
@@ -185,4 +185,4 @@ Removes a link. Returns `{ "success": true }`.
 
 ### GET /games/:id/achievements
 
-The game's trophies. See [Trophies](/api/reference/trophies).
+The game's trophies. See [Trophies](/api-and-integrations/reference/trophies).

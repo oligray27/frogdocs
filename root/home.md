@@ -23,7 +23,7 @@ This wiki explains how each part of FrogLog works. New here? Start with [Getting
 - **[Stats](/stats) and [Trends](/stats/trends)**: charts and breakdowns of your gaming history.
 - **[Lists](/library/lists), [badges](/badges), [screenshots](/library/screenshots) and [trophies](/library/trophies)**: organise your games, earn badges, and show off your favourite moments on your profile.
 
-Building something of your own? See [API & Integrations](/api).
+Building something of your own? See [API & Integrations](/api-and-integrations).
 
 ## Links
 

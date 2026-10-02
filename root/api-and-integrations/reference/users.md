@@ -48,7 +48,7 @@ Tell FrogLog what you're playing from your own tracker, so you show in Online No
 
 **Send it again at least every few minutes while playing.** Presence that hasn't been updated for 12 minutes is treated as stale and hidden.
 
-This only sets presence. It doesn't log a session. To log one, use [Quick Session](/api/reference/sessions) or post a session yourself.
+This only sets presence. It doesn't log a session. To log one, use [Quick Session](/api-and-integrations/reference/sessions) or post a session yourself.
 
 ### DELETE /users/me/now-playing
 
@@ -64,7 +64,7 @@ Clears your presence, unless a Quick Session or automatic tracking session is ru
 | `GET /users/:username/games/:id/sessions` | A game's public sessions |
 | `GET /users/:username/live-service` | Their public live service games |
 | `GET /users/:username/live-service/:id/sessions` | A live service game's public sessions |
-| `GET /users/:username/stats` | Their [stats](/api/reference/stats) |
+| `GET /users/:username/stats` | Their [stats](/api-and-integrations/reference/stats) |
 | `GET /users/:username/lists` | Their public lists |
 | `GET /users/:username/lists/:id` | One public list, with `members` |
 

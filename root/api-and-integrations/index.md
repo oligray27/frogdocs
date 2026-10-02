@@ -8,9 +8,9 @@ FrogLog has a REST API, the same one the website and LilyPad use. You can use it
 This section covers:
 
 - **API keys** (this page): how to get one and keep it safe
-- [Conventions](/api/conventions): base URL, request format, errors and rate limits
-- [Homepage Widget](/api/homepage-widget): showing FrogLog on a gethomepage.dev dashboard
-- [API Reference](/api/reference): every endpoint, grouped by what it does
+- [Conventions](/api-and-integrations/conventions): base URL, request format, errors and rate limits
+- [Homepage Widget](/api-and-integrations/homepage-widget): showing FrogLog on a gethomepage.dev dashboard
+- [API Reference](/api-and-integrations/reference): every endpoint, grouped by what it does
 
 ## Creating an API key
 

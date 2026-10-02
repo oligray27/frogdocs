@@ -9,7 +9,7 @@ Show what you're playing, and which of the people you follow are playing right n
 
 ## Setting it up
 
-1. In FrogLog, create an [API key](/api) named `Homepage` and copy it.
+1. In FrogLog, create an [API key](/api-and-integrations) named `Homepage` and copy it.
 2. Add this to Homepage's `services.yaml`, replacing the key:
 
 ```yaml
@@ -46,7 +46,7 @@ Show what you're playing, and which of the people you follow are playing right n
 - "Playing" means FrogLog's play tracking (Quick Session, LilyPad or automatic tracking), not just having the website open.
 - Your own game always shows, even if you've hidden it from other people.
 - The people listed respect privacy settings, hidden users and nicknames. You're never listed yourself.
-- Anyone who can see your Homepage dashboard can see the widget. Your key has [full access to your account](/api), so keep it in Homepage's server-side configuration and revoke it when you stop using it.
+- Anyone who can see your Homepage dashboard can see the widget. Your key has [full access to your account](/api-and-integrations), so keep it in Homepage's server-side configuration and revoke it when you stop using it.
 
 ## The endpoint
 

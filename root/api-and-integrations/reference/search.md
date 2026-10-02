@@ -46,7 +46,7 @@ Returns an array of results, best match first. An empty `q` returns `[]`.
 |---|---|
 | `title` | Required. The game's title. |
 
-Returns the best match's details, in the same field names as a [game](/api/reference/games), ready to send to `POST /games` or `POST /wishlist`:
+Returns the best match's details, in the same field names as a [game](/api-and-integrations/reference/games), ready to send to `POST /games` or `POST /wishlist`:
 
 ```json
 {
