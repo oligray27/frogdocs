@@ -6,6 +6,7 @@
     "fl-platforms",
     "fl-lilypad",
     "fl-social",
-    "fl-stats"
+    "fl-stats",
+    "fl-badges"
   ]
 }
