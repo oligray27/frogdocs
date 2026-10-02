@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-library-sessions
+leafwiki_title: Sessions
+leafwiki_created_at: "2026-10-02T10:38:03.21649587Z"
+leafwiki_updated_at: "2026-10-02T10:38:03.21649587Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Sessions
 

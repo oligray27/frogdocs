@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-library-adding-games
+leafwiki_title: Adding Games
+leafwiki_created_at: "2026-10-02T10:38:03.215495847Z"
+leafwiki_updated_at: "2026-10-02T10:38:03.215495847Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Adding Games
 
