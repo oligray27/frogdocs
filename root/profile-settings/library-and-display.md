@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-settings-library-and-display
+leafwiki_title: Library & Display
+leafwiki_created_at: "2026-10-02T11:26:37.444293855Z"
+leafwiki_updated_at: "2026-10-02T11:26:37.444293855Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Library & Display
 
