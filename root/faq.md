@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-faq
+leafwiki_title: FAQ & Troubleshooting
+leafwiki_created_at: "2026-10-02T12:21:50.75429424Z"
+leafwiki_updated_at: "2026-10-02T12:21:50.75429424Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # FAQ & Troubleshooting
 
