@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-social-likes
+leafwiki_title: Likes
+leafwiki_created_at: "2026-10-02T10:56:49.512808204Z"
+leafwiki_updated_at: "2026-10-02T10:56:49.512808204Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Likes
 
