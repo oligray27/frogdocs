@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-badges
+leafwiki_title: Badges
+leafwiki_created_at: "2026-10-02T11:21:51.756488343Z"
+leafwiki_updated_at: "2026-10-02T11:21:51.756488343Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Badges
 
