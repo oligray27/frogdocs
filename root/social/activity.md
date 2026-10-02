@@ -12,7 +12,7 @@ The **Activity** page shows what you and the people you follow have been playing
 
 If you don't follow anyone yet, you'll only see your own activity. Follow people from the [Social](/social) page to fill it up.
 
-> **[Screenshot]** The Activity page on desktop, with Online Now, the feed and Highlights.
+![The Activity page on desktop, with Online Now, the feed and Highlights](/assets/fl-social-activity/activitypage.png)
 
 ## Online Now
 
@@ -44,7 +44,7 @@ Your own activity is included. To see only other people's, set **Profile > Setti
 
 **Highlights** gathers leaderboards and totals across you and the people you follow. Click a person's name in a tile to see their profile card.
 
-> **[Screenshot]** The Highlights tab.
+![The Highlights tab](/assets/fl-social-activity/highlights.png)
 
 ### Last 7 Days
 

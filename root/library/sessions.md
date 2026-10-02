@@ -20,7 +20,7 @@ With session tracking on, the game's hours are the total of all its sessions. Yo
 2. Pick the **Date**, enter the **Hours** (for example `2.5`), and add any **Notes**.
 3. Save.
 
-> **[Screenshot]** The Add Session form.
+![The Add Session form](/assets/fl-library-sessions/addsessionform.png)
 
 ## Viewing and editing sessions
 
@@ -32,7 +32,7 @@ Each session has buttons to:
 - **Mark as spoiler**: hides the notes behind "Spoiler — click to reveal".
 - **Edit** or **Delete** the session.
 
-> **[Screenshot]** The sessions table, showing the visibility, spoiler, edit and delete buttons on a row.
+![The sessions table, showing the visibility, spoiler, edit and delete buttons on a row](/assets/fl-library-sessions/sessiontable.png)
 
 ## Quick Session
 
@@ -45,7 +45,7 @@ Quick Session is a stopwatch for when you're about to play.
    - **Manual** lets you add notes, tick **Contains spoilers** or **Hide from public**, then click **Save Session**.
    - **Discard** throws the session away. Click it twice to confirm.
 
-> **[Screenshot]** The Quick Session bar at the top of the page, with the Stop menu open.
+![The Quick Session bar at the top of the page](/assets/fl-library-sessions/quicksessiontoolbar.png)
 
 You can only run one Quick Session at a time.
 

@@ -12,7 +12,7 @@ leafwiki_last_author_id: system
 
 Trends is only available on desktop.
 
-> **[Screenshot]** The Trends page with a few pens plotted on a time chart.
+![The Trends page with a few pens plotted on a time chart](/assets/fl-stats-trends/trends.png)
 
 ## Setting up a chart
 

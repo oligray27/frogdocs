@@ -18,7 +18,7 @@ You can also open someone's FrogLog and go to their **Stats** tab, which shows t
 
 Pick **No comparison** to go back to just your own.
 
-> **[Screenshot]** The Stats page comparing two users in Overlay mode.
+![The Stats page comparing two users in Overlay mode](/assets/fl-stats-comparing/statsoverlay.png)
 
 ## Overlay or Split
 

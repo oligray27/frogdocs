@@ -25,7 +25,7 @@ FrogLog lets you know when something happens that involves you.
 
 On desktop, click the **bell** in the navigation bar. A red badge on it shows how many notifications you haven't read.
 
-> **[Screenshot]** The notifications dropdown open from the bell.
+![The notifications dropdown open from the bell](/assets/fl-social-notifications/notificationstray.png)
 
 - Click a notification to mark it as read, and to go to whatever it's about.
 - **Delete notification** removes it.

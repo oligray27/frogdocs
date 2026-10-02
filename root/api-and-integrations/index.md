@@ -26,7 +26,7 @@ This section covers:
 
 **The key is only shown once.** If you lose it, revoke it and generate a new one.
 
-> **[Screenshot]** The API Keys settings, with one key listed and the New API Key window open.
+![The API Keys settings, with one key listed and the New API Key window open](/assets/fl-api/apipage.png)
 
 ## Using a key
 

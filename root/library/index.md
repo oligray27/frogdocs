@@ -26,7 +26,7 @@ This section covers:
 
 The Games page has two parts: your games, shown as a table or a grid of covers, and a **details card** for whichever game you've selected.
 
-> **[Screenshot]** The Games page on desktop, with the table on one side and a game's details card on the other.
+![The Games page on desktop, with the table on one side and a game's details card on the other](/assets/fl-library/gamespage.png)
 
 On a phone, tapping a game opens its details on their own screen. Use the back button to return to your library.
 
@@ -64,7 +64,7 @@ Type in the **Search games...** box to narrow the list by title.
 
 **Clear All** resets every filter. If nothing matches, the table says so and offers a **Clear filters** button.
 
-> **[Screenshot]** The Filters panel with a few filters selected.
+![The Filters panel with a few filters selected](/assets/fl-library/filterform.png)
 
 ### Row icons
 
@@ -100,7 +100,7 @@ Selecting a game shows its details card, with:
 - **Add Session**, **Quick Session** and **View Sessions** for games that use [sessions](/library/sessions).
 - A **Steam** or **IGDB** link to the game's store or database page.
 
-> **[Screenshot]** A details card, labelled: badges, date badge, Description/Your Review tabs, Trophies/Screenshots buttons, and the Edit/session buttons.
+![A game's details card](/assets/fl-library/detailscard.png)
 
 ## Moving games between Games and Live Service
 

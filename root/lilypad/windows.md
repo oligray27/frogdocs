@@ -20,7 +20,7 @@ Enter your FrogLog **Username** and **Password** and click **Log in**. Leave **R
 
 LilyPad then runs in the system tray. If you can't see its icon, check the hidden-icons arrow at the end of the taskbar.
 
-> **[Screenshot]** The LilyPad login window.
+![The LilyPad login window](/assets/fl-lilypad-windows/lilypadlogin.png)
 
 ## The tray menu
 
@@ -36,7 +36,7 @@ Right-click the tray icon for:
 | **Update to (x.y.z)...** | Shown when a new version is out |
 | **About**, **Logout**, **Quit** | |
 
-> **[Screenshot]** The LilyPad tray menu while a game is being tracked.
+![The LilyPad tray menu while a game is being tracked](/assets/fl-lilypad-windows/lilypadtracking.png)
 
 ## Linking games
 
@@ -47,7 +47,7 @@ LilyPad recognises a game by its program file (its `.exe`). Steam games already 
 3. In the game's **exe** column, type the program's file name (for example `hl2.exe`), or click **Browse…** to pick it.
 4. Click **Apply**.
 
-> **[Screenshot]** The Configuration window with a game's exe filled in.
+![The Configuration window with a game's exe filled in](/assets/fl-lilypad-windows/lilypadexemapping.png)
 
 ### Games that share a program
 
@@ -80,7 +80,7 @@ Some Steam apps install like games but aren't, such as Wallpaper Engine. Add the
 
 **With auto-submit off**, a **Session Ended** window shows the game, date and session length. Add **Session Notes** if you like, tick **Contains spoilers** or **Hide from public**, then click **Submit to FrogLog** or **Do not record session**.
 
-> **[Screenshot]** The Session Ended window.
+![The Session Ended window](/assets/fl-lilypad-windows/sessionended.png)
 
 ## Pending Submissions
 

@@ -35,7 +35,7 @@ You can change someone's mode or **Remove** them from the list at any time.
 
 People aren't told when you add them. If you're invisible to someone, following or liking their things doesn't send them a notification either, so you don't give yourself away.
 
-> **[Screenshot]** The Invisible To setting, with one user added in Online & Sessions mode.
+![The Invisible To setting, with one user added in Online & Sessions mode](/assets/fl-social-privacy/invisibleto.png)
 
 ## Your profile's look
 

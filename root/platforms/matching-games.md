@@ -16,7 +16,7 @@ Each game in your library can be linked to one or more platforms. The details ca
 
 A link to a real platform (Steam, PSN, Xbox or Switch) is how FrogLog recognises the game next time. Anything else you type, such as `Epic Games` or `PS5`, is a label for your own reference.
 
-> **[Screenshot]** The Platforms field in the edit form, showing a Steam chip and a free-text chip.
+![The Platforms field in the edit form, showing a Steam chip and a free-text chip](/assets/fl-platforms-matching-games/platformeditdialog.png)
 
 ## How FrogLog picks a game
 

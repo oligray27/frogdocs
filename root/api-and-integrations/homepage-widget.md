@@ -10,7 +10,7 @@ leafwiki_last_author_id: system
 
 Show what you're playing, and which of the people you follow are playing right now, on a [Homepage](https://gethomepage.dev/) dashboard, using its built-in [Custom API widget](https://gethomepage.dev/widgets/services/customapi/).
 
-> **[Screenshot]** The FrogLog widget on a Homepage dashboard.
+![The FrogLog widget on a Homepage dashboard](/assets/fl-api-homepage-widget/homepageexample.png)
 
 ## Setting it up
 

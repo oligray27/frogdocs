@@ -31,7 +31,7 @@ Set a live service game to **Dormant** in its edit form when you drift away from
 
 Everything else works the same: ratings, reviews, screenshots, trophies, Quick Session and privacy.
 
-> **[Screenshot]** The Live Service tab, showing hours, sessions and last played columns.
+![The Live Service tab, showing hours, sessions and last played columns](/assets/fl-library-live-service-games/liveservicetab.png)
 
 ## One library instead of two tabs
 

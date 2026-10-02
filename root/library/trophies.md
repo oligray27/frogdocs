@@ -18,7 +18,7 @@ Click it to see every trophy, with its icon, description and the date you unlock
 
 If a game has trophies on more than one platform, buttons at the top switch between them.
 
-> **[Screenshot]** The Trophies window for a game, with some unlocked and some locked trophies.
+![The Trophies window for a game, with some unlocked and some locked trophies](/assets/fl-library-trophies/trophieswindow.png)
 
 ### Hidden trophies
 

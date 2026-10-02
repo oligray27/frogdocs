@@ -24,7 +24,7 @@ Open **New Games** from the tray menu (or the Steam Deck panel). Each game shows
 
 On Steam Deck, **Create New** is called **Add to FrogLog**, and **Create and log to new entry (replay)** is called **New entry (replay)**. They work the same way.
 
-> **[Screenshot]** The New Games window with one game, showing Create New, Map to Existing and Dismiss.
+![The New Games window with one game, showing Create New, Map to Existing and Dismiss](/assets/fl-lilypad-new-games/lilypadnewgame.png)
 
 ### Create New
 
