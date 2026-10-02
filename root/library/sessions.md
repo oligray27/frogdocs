@@ -57,7 +57,7 @@ While a Quick Session is running, you show as playing that game in the Online No
 
 You don't have to log every session yourself. FrogLog can record them for you:
 
-- **Automatic tracking** for Steam, PlayStation, Xbox and Nintendo Switch, turned on per platform in **Profile > Settings > Autonomous Tracking**.
+- **Automatic tracking** for Steam, PlayStation, Xbox and Nintendo Switch, turned on per platform in **Profile > Settings > Autonomous Tracking**. See [Platforms & Automatic Tracking](/platforms).
 - **LilyPad**, FrogLog's desktop app, which detects games you launch on your PC.
 
 Use only one of these for any given game. Running two at once can log the same session twice.

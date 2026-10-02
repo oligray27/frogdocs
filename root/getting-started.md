@@ -74,12 +74,14 @@ Can't find your game? Click **Add Custom Game (Mod/Fork)** to add one by hand. Y
 If you've played a lot already, importing is quicker than adding games one at a time.
 
 1. Open your **Profile**.
-2. Under your profile card, click **Link Steam**, **Link PSN**, **Link Switch** or **Link Xbox** and follow the steps.
+2. Under your profile card, click **Link Steam**, **Link PSN** or **Link Xbox** and follow the steps.
 3. Once a platform is linked, click its **Import** button to bring in your games.
 
 > **[Screenshot]** The bottom of the profile card, showing the Link Steam, Link PSN, Link Switch and Link Xbox buttons.
 
-To have FrogLog record your sessions automatically from then on, turn on tracking for that platform under **Settings > Autonomous Tracking** on your profile.
+To have FrogLog record your sessions automatically from then on, turn on tracking for that platform under **Settings > Autonomous Tracking** on your profile. Nintendo Switch can be linked for automatic tracking too, though it has no import.
+
+[Platforms & Automatic Tracking](/platforms) explains importing and tracking in full, with a step-by-step page for each platform.
 
 ## Track PC games with LilyPad
 

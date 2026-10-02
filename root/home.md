@@ -17,7 +17,7 @@ This wiki explains how each part of FrogLog works. New here? Start with [Getting
 - **[Your library](/library)**: log every game you've played, with status, dates, hours, platform, rating and review. [Replays and DNFs](/library/replays-and-dnf) are tracked too.
 - **[Up Next](/library/up-next)**: a wishlist of games you want to play.
 - **[Live service games](/library/live-service-games)**: ongoing games with no real ending, tracked [session by session](/library/sessions) instead of start-to-finish.
-- **Automatic tracking**: link Steam, PlayStation, Xbox or Nintendo Switch to import your history and record your play sessions without lifting a finger.
+- **[Automatic tracking](/platforms)**: link Steam, PlayStation, Xbox or Nintendo Switch to record your play sessions without lifting a finger, and import your history from Steam, PlayStation and Xbox.
 - **LilyPad**: a desktop companion app that tracks any game you play on PC, including ones outside Steam.
 - **Social**: follow friends, see what they're playing in Activity, like their sessions, reviews and screenshots, and compare stats.
 - **Stats and Trends**: charts and breakdowns of your gaming history.
