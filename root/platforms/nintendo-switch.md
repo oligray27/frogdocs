@@ -37,7 +37,7 @@ Turn on **Automatic Nintendo Switch Session Tracking** in **Profile > Settings >
 
 Your Switch must be connected to the internet for FrogLog to see what you're playing.
 
-To show what you're playing without logging sessions, use **Mirror Switch In-Game Presence to FrogLog** instead.
+To show what you're playing without logging sessions, use **Mirror Nintendo Switch In-Game Presence to FrogLog** instead.
 
 ## Unlinking
 

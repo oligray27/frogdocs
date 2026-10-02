@@ -6,11 +6,11 @@ leafwiki_updated_at: "2026-10-02T10:23:17.616093631Z"
 leafwiki_creator_id: system
 leafwiki_last_author_id: system
 ---
-# FrogLog Wiki
+# FrogDocs
 
 FrogLog keeps a record of every game you play: what you played, when, on which platform, for how long, and what you thought of it. Think Letterboxd, but for games.
 
-This wiki explains how each part of FrogLog works. New here? Start with [Getting Started](/getting-started).
+FrogDocs is the FrogLog wiki: it explains how each part of FrogLog works. New here? Start with [Getting Started](/getting-started).
 
 ## What FrogLog does
 
