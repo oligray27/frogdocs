@@ -62,7 +62,7 @@ The checkboxes at the top of **Configure...**:
 | **Auto-submit play time to games without session tracking** | Adds the time to the game's hours without asking |
 | **Auto-submit sessions to games with session tracking** | Logs sessions without asking |
 | **Auto-submit live service sessions** | Logs live service sessions without asking |
-| **Enable online presence on FrogLog** | Shows what you're playing in Online Now on the Activity page |
+| **Enable online presence on FrogLog** | Shows what you're playing in Online Now on the [Activity](/social/activity) page |
 | **Detect games not in your FrogLog library** | Records Steam and watched-folder games you haven't added yet, under [New Games](/lilypad/new-games) |
 | **Check for LilyPad updates automatically** | Checks for new versions on start and once a day |
 

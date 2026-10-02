@@ -9,6 +9,7 @@
     "fl-stats",
     "fl-badges",
     "fl-settings",
-    "fl-api"
+    "fl-api",
+    "fl-faq"
   ]
 }

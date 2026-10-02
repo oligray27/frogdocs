@@ -79,7 +79,7 @@ Private games and private sessions never appear. See [Privacy](/social/privacy).
 
 ### Their theme and background
 
-People can give their profile its own theme, background and theme music. When you visit their FrogLog, you see their choices instead of yours, unless you've turned that off. The settings are in **Profile > Settings > Social Visibility**:
+People can give their profile its own theme, background and theme music. When you visit their FrogLog, you see their choices instead of yours, unless you've turned that off. (To set your own, see [Appearance](/profile-settings/appearance).) The settings are in **Profile > Settings > Social Visibility**:
 
 - **View Others' Themes**
 - **View Others' Custom Backgrounds**

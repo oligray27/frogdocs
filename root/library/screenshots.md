@@ -35,6 +35,6 @@ Each of your screenshots has three buttons:
 
 ## Who can see them
 
-Other users can see the screenshots on any of your public games, from the game's details card on your profile or from your profile's **Screenshots** tab, which gathers every screenshot you've uploaded, grouped by game. Screenshots on [private](/library/editing-games) games stay hidden.
+Other users can see the screenshots on any of your public games, from the game's details card on your profile or from your profile's **Screenshots** tab (see [Social](/social)), which gathers every screenshot you've uploaded, grouped by game. Screenshots on [private](/library/editing-games) games stay hidden.
 
 Other users can [like](/social/likes) your screenshots.

@@ -49,7 +49,7 @@ In table view, click a column heading to sort by it, and click it again to rever
 
 You can sort by title, hours played, rating, status, last played, release date, start date or end date. Live service games can also be sorted by number of sessions.
 
-Your default sort for each table is set in **Profile > Settings > Library Defaults**.
+Your default sort for each table is set in **Profile > Settings > Library Defaults**. See [Library & Display](/profile-settings/library-and-display) for every library setting.
 
 ### Searching and filtering
 

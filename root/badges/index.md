@@ -49,7 +49,7 @@ When you earn a badge or a new tier, you get a [notification](/social/notificati
 Show off up to 5 badges on your profile card.
 
 - On the Badges page, click the pin button on any badge you've earned (**Pin badge**). Click it again to unpin it.
-- Reorder or unpin your badges in **Profile > Settings > Showcases**, under **Pinned Badges**.
+- Reorder or unpin your badges in **Profile > Settings > Showcases**, under **Pinned Badges**. See [Showcases](/profile-settings/showcases).
 
 ## The leaderboard
 

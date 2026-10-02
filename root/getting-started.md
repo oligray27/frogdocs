@@ -97,15 +97,15 @@ The bar at the top of the page (on a phone, the bar at the bottom) takes you to 
 
 | Page | What it's for |
 |---|---|
-| Games | Your library |
-| Up Next | Your wishlist |
-| Search / Add New | Find games to add |
-| Activity | What you and the people you follow have been playing |
-| Lists | Collections of games you've put together |
-| Stats | Charts of your gaming history |
-| Trends | Your play over time (desktop only) |
-| Social | Other users and their profiles |
-| Badges | Badges you can earn |
+| [Games](/library) | Your library |
+| [Up Next](/library/up-next) | Your wishlist |
+| [Search / Add New](/library/adding-games) | Find games to add |
+| [Activity](/social/activity) | What you and the people you follow have been playing |
+| [Lists](/library/lists) | Collections of games you've put together |
+| [Stats](/stats) | Charts of your gaming history |
+| [Trends](/stats/trends) | Your play over time (desktop only) |
+| [Social](/social) | Other users and their profiles |
+| [Badges](/badges) | Badges you can earn |
 | What's New | Recent changes to FrogLog |
 
-On a phone, you can choose which five pages appear in the bottom bar from your profile settings.
+On a phone, you can choose which five pages appear in the bottom bar. See [Profile](/profile-settings/profile).

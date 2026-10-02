@@ -39,7 +39,7 @@ People aren't told when you add them. If you're invisible to someone, following 
 
 ## Your profile's look
 
-These settings in **Profile > Settings > Social Visibility** control whether other people see your profile's customisations:
+These settings in **Profile > Settings > Social Visibility** control whether other people see your profile's customisations (see [Appearance](/profile-settings/appearance)):
 
 | Setting | What it does |
 |---|---|

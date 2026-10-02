@@ -51,7 +51,7 @@ You can only run one Quick Session at a time.
 
 Quick Session also works for games without session tracking: the time is simply added to the game's **Hours Played**. **Manual** isn't available for those games, since there's no session to attach notes to.
 
-While a Quick Session is running, you show as playing that game in the Online Now list on the Activity page.
+While a Quick Session is running, you show as playing that game in Online Now on the [Activity](/social/activity) page.
 
 ## Sessions recorded automatically
 

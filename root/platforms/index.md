@@ -81,7 +81,7 @@ The settings are greyed out until that platform is linked.
 
 FrogLog checks each linked platform about every two minutes.
 
-1. When it sees you playing something, it starts a session, just like a Quick Session. You show as playing in Online Now on the Activity page.
+1. When it sees you playing something, it starts a session, just like a Quick Session. You show as playing in Online Now on the [Activity](/social/activity) page.
 2. It finds the game in your library (see [Matching Games](/platforms/matching-games)). If it isn't there, it adds it for you, with its details and cover art. If it's on your Up Next list, it's moved to Games.
 3. When you stop playing, FrogLog waits for a couple more checks to be sure, then saves the session with the hours played and your Auto-Submit Note.
 

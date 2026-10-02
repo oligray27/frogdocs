@@ -38,7 +38,7 @@ Until a platform is linked, the Trophies window shows every trophy as locked, wi
 
 Your profile has a **Trophy Cabinet** showing up to 12 trophies you're proud of.
 
-Click the pin button on any unlocked trophy to add it (**Pin to profile**), and click it again to remove it (**Unpin**). Once the cabinet is full, unpin one first. You can reorder your pinned trophies in **Profile > Settings > Showcases**.
+Click the pin button on any unlocked trophy to add it (**Pin to profile**), and click it again to remove it (**Unpin**). See also [Showcases](/profile-settings/showcases). Once the cabinet is full, unpin one first. You can reorder your pinned trophies in **Profile > Settings > Showcases**.
 
 ## Hiding trophies
 

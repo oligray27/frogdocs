@@ -22,6 +22,9 @@ This wiki explains how each part of FrogLog works. New here? Start with [Getting
 - **[Social](/social)**: follow friends, see what they're playing in [Activity](/social/activity), [like](/social/likes) their sessions, reviews and screenshots, and [compare stats](/stats/comparing).
 - **[Stats](/stats) and [Trends](/stats/trends)**: charts and breakdowns of your gaming history.
 - **[Lists](/library/lists), [badges](/badges), [screenshots](/library/screenshots) and [trophies](/library/trophies)**: organise your games, earn badges, and show off your favourite moments on your profile.
+- **[Your profile](/profile-settings)**: [themes](/profile-settings/appearance), a [customisable profile card](/profile-settings/profile-card), and settings for how FrogLog works for you.
+
+Something not working? Try the [FAQ & Troubleshooting](/faq).
 
 Building something of your own? See [API & Integrations](/api-and-integrations).
 
