@@ -32,8 +32,6 @@ For ladders, the numbers are what you need to reach each tier. For example, **Li
 | **Devotee** | The most games you've logged from a single developer. | 5 | 10 | 20 | 30 | 50 |
 | **No Shame** | Games you've DNF'd. Knowing when to quit is a skill. | 5 | 10 | 25 | 50 | 100 |
 | **Replayer** | Games you've come back to for another playthrough. | 3 | 5 | 10 | 20 | 40 |
-| **Forklift Certified** | Games you've found forklifts in. | 5 | 10 | 25 | 50 | 100 |
-| **Frog Spotter** | Games you've found frogs in. | 3 | 5 | 10 | 25 | 50 |
 
 ## Genres
 

@@ -44,12 +44,6 @@ Badges are checked whenever you change something, so new ones appear straight aw
 
 When you earn a badge or a new tier, you get a [notification](/social/notifications).
 
-## Keeping your badges
-
-Once you've had a badge for 7 days, it's yours for good, whatever you change later.
-
-Within those first 7 days, a badge can be taken back if the thing that earned it is undone. For example, if you log a huge session, earn the Hours badge, then delete the session. This only applies to ladder tiers and Moments. Connections, Commemorative and Secret badges are never taken back.
-
 ## Pinning badges
 
 Show off up to 5 badges on your profile card.
