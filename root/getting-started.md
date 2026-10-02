@@ -14,6 +14,8 @@ This guide takes you from a new account to your first logged game.
 
 Go to [froglog.co.uk](https://froglog.co.uk) and click **Create Account**. There are two ways to sign up.
 
+> **[Screenshot]** The Create an account form, showing the Sign Up and Sign Up with Steam buttons.
+
 ### Sign up normally
 
 1. Enter a username and password, then confirm the password.
@@ -33,6 +35,8 @@ If you play on Steam, this is the fastest way to fill your library.
    - **Mirror my Steam activity on FrogLog** records your sessions automatically whenever you play on Steam.
 5. Click **Sign Up**.
 
+> **[Screenshot]** The sign-up form after Steam verification, with the Import my Steam Library and Mirror my Steam activity checkboxes.
+
 For the import and tracking to work, your Steam profile's game details must be public:
 
 1. On your Steam profile, click **Edit Profile**.
@@ -42,6 +46,8 @@ For the import and tracking to work, your Steam profile's game details must be p
 ## Your empty FrogLog
 
 A new account opens on the **Games** page with the message "Your FrogLog is empty!" and three ways to get started:
+
+> **[Screenshot]** The Games page for a new account, showing the "Your FrogLog is empty!" message and its three buttons.
 
 - **Add a game** opens Search.
 - **Import from Steam** opens your profile, where you can link your platforms.
@@ -57,6 +63,8 @@ The message disappears once you've added your first game.
    - **Add to Up Next** adds it to your wishlist straight away.
    - **Add to Games** opens the **Add New Game** form. Fill in the platform you played it on, its status, and anything else you want to record, then save.
 
+> **[Screenshot]** Search results for a game, showing the Add to Up Next and Add to Games buttons on a result card.
+
 Can't find your game? Click **Add Custom Game (Mod/Fork)** to add one by hand. You can start from an existing game as a template, or click **Skip** to start blank.
 
 ## Import your existing history
@@ -66,6 +74,8 @@ If you've played a lot already, importing is quicker than adding games one at a 
 1. Open your **Profile**.
 2. Under your profile card, click **Link Steam**, **Link PSN**, **Link Switch** or **Link Xbox** and follow the steps.
 3. Once a platform is linked, click its **Import** button to bring in your games.
+
+> **[Screenshot]** The bottom of the profile card, showing the Link Steam, Link PSN, Link Switch and Link Xbox buttons.
 
 To have FrogLog record your sessions automatically from then on, turn on tracking for that platform under **Settings > Autonomous Tracking** on your profile.
 
