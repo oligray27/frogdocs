@@ -34,4 +34,4 @@ On desktop, the settings sections are listed down the left. Click one to open it
 | **Social Visibility** | What other people see of you, and what you see of them | [Privacy](/social/privacy) and [Social](/social) |
 | **Logout & Other** | Log out, export your data, or delete your account | [Account](/profile-settings/account) |
 
-Settings save to your account as soon as you change them. On a new device, open your Profile page once to pick them all up.
+Settings save to your account as soon as you change them, and follow you to any device you log in on.
