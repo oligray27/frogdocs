@@ -85,9 +85,9 @@ To have FrogLog record your sessions automatically from then on, turn on trackin
 
 ## Track PC games with LilyPad
 
-LilyPad is FrogLog's desktop companion. It sits in your system tray, notices when you launch a game that's in your FrogLog, and logs the session when you stop. It works for games outside Steam too.
+LilyPad is FrogLog's companion app for Windows, Linux and Steam Deck. It sits in your system tray, notices when you launch a game, and logs the session when you stop. It works for games outside Steam too.
 
-[Download LilyPad](https://github.com/oligray27/lilypad/releases/latest), or use the **Download LilyPad** button on your profile.
+[Download LilyPad](https://github.com/oligray27/lilypad/releases/latest), or use the **Download LilyPad** button on your profile. [LilyPad](/lilypad) has setup guides for each version.
 
 If you use LilyPad for a game, leave automatic tracking off for that platform. Running both can log the same session twice.
 

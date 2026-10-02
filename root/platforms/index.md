@@ -17,7 +17,7 @@ FrogLog supports:
 - [Xbox](/platforms/xbox)
 - [Nintendo Switch](/platforms/nintendo-switch)
 
-For games on PC outside these platforms, use LilyPad, FrogLog's desktop app.
+For games on PC outside these platforms, use [LilyPad](/lilypad), FrogLog's desktop app.
 
 ## Linking a platform
 
