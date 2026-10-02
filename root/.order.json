@@ -5,6 +5,7 @@
     "fl-library",
     "fl-platforms",
     "fl-lilypad",
-    "fl-social"
+    "fl-social",
+    "fl-stats"
   ]
 }
