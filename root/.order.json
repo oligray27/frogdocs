@@ -8,6 +8,7 @@
     "fl-social",
     "fl-stats",
     "fl-badges",
-    "fl-settings"
+    "fl-settings",
+    "fl-api"
   ]
 }

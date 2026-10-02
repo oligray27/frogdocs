@@ -1,0 +1,19 @@
+{
+  "ordered_ids": [
+    "fl-api-ref-games",
+    "fl-api-ref-live-service",
+    "fl-api-ref-sessions",
+    "fl-api-ref-up-next",
+    "fl-api-ref-search",
+    "fl-api-ref-lists",
+    "fl-api-ref-screenshots",
+    "fl-api-ref-trophies",
+    "fl-api-ref-stats",
+    "fl-api-ref-activity",
+    "fl-api-ref-users",
+    "fl-api-ref-likes",
+    "fl-api-ref-notifications",
+    "fl-api-ref-badges",
+    "fl-api-ref-export"
+  ]
+}
