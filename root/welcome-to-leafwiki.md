@@ -1,6 +1,6 @@
 ---
 leafwiki_id: x-WHUg9DR
-leafwiki_title: Welcome to LeafWiki
+leafwiki_title: Welcome to LeafWiki 2
 leafwiki_created_at: "2026-10-02T09:44:08.050275334Z"
 leafwiki_updated_at: "2026-10-02T09:44:08.054098344Z"
 leafwiki_creator_id: system
