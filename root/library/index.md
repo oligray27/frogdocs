@@ -91,6 +91,7 @@ On desktop, the up and down arrow keys move through the table.
 Selecting a game shows its details card, with:
 
 - The game's artwork. Click the cover to expand or shrink it. **Profile > Settings > Display & Layout > Default Details Card Image Size** sets which size it starts at.
+- When the artwork is expanded, the game's logo in place of its name, if it has one. Turn this off with **Profile > Settings > Social Visibility > Show Steam Title Image**.
 - Badges for your rating, platform, hours, genre, developer and release date.
 - A date badge showing when you started and finished, or how long you've been playing. Click it to switch between the start date and "started N days ago".
 - **Description** and **Your Review** tabs.

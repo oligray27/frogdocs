@@ -42,7 +42,7 @@ Most fields are already filled in from the game's database entry. Change anythin
 | **Description** | The game's summary |
 | **Genre**, **Studio/Developer**, **Studio Country**, **Release Date** | Used for filtering and in your stats |
 | **Hero Image URL** | The large artwork at the top of the details card |
-| **Title Image URL** | A logo shown over the artwork (only when **Show Steam Title Image** is on, in **Profile > Settings > Social Visibility**) |
+| **Title Image URL** | The game's logo. When the details card's artwork is expanded, the logo is shown over it in place of the game's name. Only used when **Show Steam Title Image** is on, in **Profile > Settings > Social Visibility**. |
 
 ### Your playthrough
 
