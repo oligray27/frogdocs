@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-getting-started
+leafwiki_title: Getting Started
+leafwiki_created_at: "2026-10-02T10:23:17.615093608Z"
+leafwiki_updated_at: "2026-10-02T10:23:17.615093608Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Getting Started
 
