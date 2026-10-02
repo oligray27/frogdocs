@@ -19,14 +19,14 @@ On desktop, the settings sections are listed down the left. Click one to open it
 
 | Section | What's in it | Guide |
 |---|---|---|
-| **Profile** | Photo, username, password, background, theme music, appearance, bottom bar, bio and favourite games | [Profile](/settings/profile) and [Appearance](/settings/appearance) |
-| **Profile Card** | Banner, profile colours and avatar decoration | [Profile Card](/settings/profile-card) |
-| **Showcases** | Your pinned badges, trophies and screenshots | [Showcases](/settings/showcases) |
+| **Profile** | Photo, username, password, background, theme music, appearance, bottom bar, bio and favourite games | [Profile](/profile-settings/profile) and [Appearance](/profile-settings/appearance) |
+| **Profile Card** | Banner, profile colours and avatar decoration | [Profile Card](/profile-settings/profile-card) |
+| **Showcases** | Your pinned badges, trophies and screenshots | [Showcases](/profile-settings/showcases) |
 | **API Keys** | Personal API keys for using FrogLog's API | |
 | **Autonomous Tracking** | Automatic session tracking and presence for each platform | [Platforms & Automatic Tracking](/platforms) |
-| **Library Defaults** | How your library opens and sorts | [Library & Display](/settings/library-and-display) |
-| **Display & Layout** | Rating style, widescreen layout, the navigation bars | [Library & Display](/settings/library-and-display) |
+| **Library Defaults** | How your library opens and sorts | [Library & Display](/profile-settings/library-and-display) |
+| **Display & Layout** | Rating style, widescreen layout, the navigation bars | [Library & Display](/profile-settings/library-and-display) |
 | **Social Visibility** | What other people see of you, and what you see of them | [Privacy](/social/privacy) and [Social](/social) |
-| **Logout & Other** | Log out, export your data, or delete your account | [Account](/settings/account) |
+| **Logout & Other** | Log out, export your data, or delete your account | [Account](/profile-settings/account) |
 
 Settings save to your account as soon as you change them. On a new device, open your Profile page once to pick them all up.

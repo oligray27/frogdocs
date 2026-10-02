@@ -3,7 +3,7 @@ leafwiki_id: fl-settings-profile
 ---
 # Profile
 
-The **Profile** section of your settings covers who you are on FrogLog. Themes, backgrounds and theme music are also here, and are covered in [Appearance](/settings/appearance).
+The **Profile** section of your settings covers who you are on FrogLog. Themes, backgrounds and theme music are also here, and are covered in [Appearance](/profile-settings/appearance).
 
 ## Photo
 

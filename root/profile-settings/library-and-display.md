@@ -40,4 +40,4 @@ The Games and Live Service sorts are greyed out while Unify is on, and the merge
 | **Pin Bottom Bar** | Auto-hide / Pinned | The same for the bottom bar on a phone |
 | **Show Steam Title Image** | Show / Hide | Shows a game's logo over its artwork on the details card, in place of its name |
 
-To choose which pages are in the bottom bar on a phone, see **Bottom Navigation (Mobile)** in [Profile](/settings/profile).
+To choose which pages are in the bottom bar on a phone, see **Bottom Navigation (Mobile)** in [Profile](/profile-settings/profile).
