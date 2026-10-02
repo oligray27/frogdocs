@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-lilypad-steam-deck
+leafwiki_title: LilyPad on Steam Deck
+leafwiki_created_at: "2026-10-02T10:52:08.230591981Z"
+leafwiki_updated_at: "2026-10-02T10:52:08.230591981Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # LilyPad on Steam Deck
 
