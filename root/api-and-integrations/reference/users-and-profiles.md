@@ -53,6 +53,11 @@ Tell FrogLog what you're playing from your own tracker, so you show in Online No
 
 **Send it again at least every few minutes while playing.** Presence that hasn't been updated for 12 minutes is treated as stale and hidden.
 
+**Stop sending it when the session ends.** A heartbeat is ignored, with `{ "success": true, "ignored": "…" }` sent back, when:
+
+- you've already logged a session for that game with a `sync_ref` since `started_at` (`session_already_logged`). Your presence is cleared.
+- its `started_at` is more than 12 hours ago (`session_too_old`). Your presence goes stale as above.
+
 This only sets presence. It doesn't log a session. To log one, use [Quick Session](/api-and-integrations/reference/sessions) or post a session yourself.
 
 ### DELETE /users/me/now-playing
