@@ -55,6 +55,8 @@ To hide a spoiler, wrap it in double pipes: `||Aerith dies||`. Readers see a blu
 | **Cover Image URL** | The cover art used in grid view, lists and elsewhere |
 | **Platforms** | Add or remove platforms. Changes save straight away. |
 | **Fetch Missing Data** | Fills in any empty fields (description, genre, developer, release date and artwork) from the game's database entry. Fields you've already filled in are left alone. Click **Save Changes** afterwards to keep them. |
+| **Hide HLTB** | Hides the HowLongToBeat badge on this game's details card, for example if it shows the wrong game's times |
+| **Hide Metacritic** | Hides the Metacritic badge on this game's details card |
 
 ## Turning session tracking on or off
 

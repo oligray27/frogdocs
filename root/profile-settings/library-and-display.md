@@ -44,5 +44,8 @@ The Games and Live Service sorts are greyed out while Unify is on, and the merge
 | **Pin Navbar** | Auto-hide / Pinned | Keeps the top bar on screen instead of sliding it away as you scroll |
 | **Pin Bottom Bar** | Auto-hide / Pinned | The same for the bottom bar on a phone |
 | **Show Steam Title Image** | Show / Hide | Shows a game's logo over its artwork on the details card, in place of its name |
+| **HowLongToBeat** | Show / Hide | Shows the HLTB badge, with how long a game usually takes, on details cards and search results |
+| **HowLongToBeat on Live Service** | Show / Hide | The same for live service games. Greyed out while **HowLongToBeat** is hidden. |
+| **Metacritic** | Show / Click to Reveal / Hide | How the Metascore badge on details cards and search results works. **Click to Reveal**, the default, keeps the score hidden until you click the badge, so a low score isn't the first thing you see. **Show** puts the score on the badge. |
 
 To choose which pages are in the bottom bar on a phone, see **Bottom Navigation (Mobile)** in [Profile](/profile-settings/profile).
