@@ -41,6 +41,7 @@ Your library of regular games. For live service games, see [Live Service](/api-a
 |---|---|
 | `platform_links` | Array of `{ id, platform_key, external_id, label }`. `platform_key` is `steam`, `psn`, `xbox`, `switch` or `other` (free text in `label`). |
 | `total_hours`, `session_count`, `last_session_date` | Totals from the game's sessions |
+| `last_session_logged_at` | When the most recent session was logged, as a full timestamp. Use it to order games played on the same day. |
 | `like_count`, `liked_by_me`, `review_like_count`, `review_liked_by_me` | Likes on the game and its review |
 | `screenshot_count` | |
 

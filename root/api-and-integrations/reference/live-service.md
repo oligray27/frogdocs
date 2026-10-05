@@ -23,7 +23,7 @@ The same as the [game object](/api-and-integrations/reference/games), without `e
 | `status` | `"active"` or `"dormant"` |
 | `start_date` | When you started playing |
 
-`GET /live-service` also includes `platform_links`, `total_hours`, `session_count`, `last_session_date`, the like fields and `screenshot_count`.
+`GET /live-service` also includes `platform_links`, `total_hours`, `session_count`, `last_session_date`, `last_session_logged_at` (when the most recent session was logged, as a full timestamp), the like fields and `screenshot_count`.
 
 ---
 
