@@ -48,7 +48,7 @@ Tell FrogLog what you're playing from your own tracker, so you show in Online No
 |---|---|
 | `game_id`, `game_type` | Required. `game_type` is `"game"` or `"live_service"`. |
 | `title` | Shown to others |
-| `started_at` | Defaults to now |
+| `started_at` | When the session began, shown in Online Now as how long you've been playing. If you leave it out, it's kept from your previous heartbeat for the same game, or set to now for a new one. |
 | `platform` | A short name for your tracker: lowercase letters, numbers, `-` and `_`, up to 32 characters. `steam`, `psn`, `xbox`, `switch` and `quicksession` are reserved. Anything invalid is shown as `lilypad`. |
 
 **Send it again at least every few minutes while playing.** Presence that hasn't been updated for 12 minutes is treated as stale and hidden.

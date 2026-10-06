@@ -16,11 +16,11 @@ If you don't follow anyone yet, you'll only see your own activity. Follow people
 
 ## Online Now
 
-**Online Now** lists the people you follow, with who's playing what right now and when the others were last seen. Click someone to see their profile card.
+**Online Now** lists the people you follow, with who's playing what right now and how long they've been playing, and when the others were last seen. Click someone to see their profile card.
 
 People show as playing when they're running a Quick Session, using LilyPad, or have automatic tracking or presence mirroring turned on.
 
-On a phone, a scrolling strip under the navigation bar shows who's playing right now.
+On a phone, a scrolling strip under the navigation bar shows who's playing right now, and for how long.
 
 ## Feed
 

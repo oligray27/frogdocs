@@ -58,10 +58,12 @@ Online Now: the people you follow, and who's playing what.
 
 ```json
 [
-  { "username": "alex", "displayUsername": "Alex", "avatarUrl": null, "online": true, "title": "Balatro", "platform": "steam", "lastSeenAt": null },
-  { "username": "sam", "displayUsername": "Sam", "avatarUrl": null, "online": false, "title": null, "platform": null, "lastSeenAt": "2026-10-01T22:40:00.000Z" }
+  { "username": "alex", "displayUsername": "Alex", "avatarUrl": null, "online": true, "title": "Balatro", "platform": "steam", "startedAt": "2026-10-01T21:05:00.000Z", "lastSeenAt": null },
+  { "username": "sam", "displayUsername": "Sam", "avatarUrl": null, "online": false, "title": null, "platform": null, "startedAt": null, "lastSeenAt": "2026-10-01T22:40:00.000Z" }
 ]
 ```
+
+`startedAt` is when the current session began, for people who are online.
 
 ## GET /activity/trending
 
