@@ -30,6 +30,7 @@ Treat the NPSSO token like a password. FrogLog stores the access it grants encry
 
 PlayStation's access expires after about two months. When that happens:
 
+- You get a [notification](/social/notifications) telling you to re-link.
 - The button on your profile changes to **Relink PSN**, and **Import** is unavailable.
 - Automatic tracking and presence pause for PlayStation.
 

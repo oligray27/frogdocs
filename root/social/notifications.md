@@ -20,6 +20,7 @@ FrogLog lets you know when something happens that involves you.
 | **You lost the Weekly Playtime Crown** | Someone else has overtaken you |
 | **You earned the … badge!** | You've earned a new badge, or a higher tier of one |
 | **New update: …** | FrogLog has a new release. Click to read what's changed. |
+| **Your PlayStation/Xbox account needs re-linking …** | FrogLog's access to that account has expired, so tracking for it is paused. Click to go to your profile and use **Relink PSN** or **Relink Xbox**. The notification disappears once you've re-linked. |
 
 ## Reading notifications
 
@@ -69,6 +70,7 @@ Untick anything you don't want under **Notify Me About**. This applies to all yo
 | **New Updates** | A new FrogLog update is posted |
 | **Sessions Logged** | A session is logged for you automatically, by [LilyPad](/lilypad) or a [linked platform](/platforms) |
 | **Friends Playing** | Someone you follow starts playing a game |
+| **Re-link Needed** | Your PlayStation or Xbox account stops working and needs linking again |
 
 **Sessions Logged** and **Friends Playing** only come as push notifications. They don't appear in your Inbox.
 

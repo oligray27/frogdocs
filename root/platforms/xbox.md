@@ -18,7 +18,7 @@ Linking your Xbox account lets FrogLog import your Xbox history, track your sess
 
 FrogLog never sees your Microsoft password.
 
-If Microsoft ever stops accepting FrogLog's access, the button changes to **Relink Xbox**. Click it and sign in again.
+If Microsoft ever stops accepting FrogLog's access, you get a [notification](/social/notifications), automatic tracking and presence pause for Xbox, and the button changes to **Relink Xbox**. Click it and sign in again, and your settings carry on where they left off.
 
 ## Importing
 
