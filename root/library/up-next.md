@@ -23,6 +23,8 @@ Up Next keeps whatever order you put it in, so you can use it as a play queue.
 1. Click **Reorder** in the toolbar.
 2. Drag games (rows in table view, covers in grid view) into the order you want.
 
+Your order is the default sort, shown as **Custom order** in the toolbar's sort menu. You can also sort by **Title**, **Release date** or **Date added**, and the arrow button next to the menu flips the direction. Clicking **Reorder** switches back to **Custom order**.
+
 ## Starting a game
 
 When you start playing something on your list:

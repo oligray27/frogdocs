@@ -32,6 +32,7 @@ On desktop, the settings sections are listed down the left. Click one to open it
 | **Library Defaults** | How your library opens and sorts | [Library & Display](/profile-settings/library-and-display) |
 | **Display & Layout** | Rating style, widescreen layout, the navigation bars | [Library & Display](/profile-settings/library-and-display) |
 | **Social Visibility** | What other people see of you, and what you see of them | [Privacy](/social/privacy) and [Social](/social) |
+| **Notifications** | Push notifications on this device, which kinds you get, and your other devices | [Notifications](/social/notifications) |
 | **Logout & Other** | Log out, export your data, or delete your account | [Account](/profile-settings/account) |
 
 Settings save to your account as soon as you change them, and follow you to any device you log in on.
