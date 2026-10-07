@@ -8,7 +8,7 @@ leafwiki_last_author_id: system
 ---
 # Screenshots
 
-Screenshots on your games. Each game can have up to 10, and you can pin up to 10 in total to your profile's Screenshot Showcase.
+Screenshots on your games. Each game can have up to 10, and you can pin up to 10 items in total, screenshots and clips together, to your profile's Media Showcase.
 
 ## The screenshot object
 
@@ -20,7 +20,7 @@ Screenshots on your games. Each game can have up to 10, and you can pin up to 10
 | `file_url` | Path to the image. Add it to `https://api.froglog.co.uk`, for example `https://api.froglog.co.uk/uploads/screenshots/…`. |
 | `caption` | |
 | `spoiler`, `nsfw` | |
-| `pinned`, `pin_order` | Whether it's in your Screenshot Showcase, and where |
+| `pinned`, `pin_order` | Whether it's in your Media Showcase, and where |
 | `display_order` | Position among the game's screenshots |
 | `created_at` | |
 | `like_count`, `liked_by_me` | In list responses |
@@ -63,18 +63,28 @@ Changes any of `caption`, `spoiler` and `nsfw`. Only send what you're changing. 
 
 ## PATCH /screenshots/:id/pin
 
-Pins the screenshot to your showcase, or unpins it if it's already pinned. Returns the updated screenshot. `400` if you already have 10 pinned.
+Pins the screenshot to your Media Showcase, or unpins it if it's already pinned. A new pin goes at the end. Returns the updated screenshot. `400` if you already have 10 items pinned, counting clips.
 
 ## DELETE /screenshots/:id
 
 Deletes a screenshot.
 
-## Your showcase
+## Media Showcase
+
+The showcase holds pinned screenshots and clips in one order. Each item has a `kind`, `"screenshot"` or `"clip"`, and IDs are only unique within a kind. Screenshots have `file_url`; clips have `video_url`, `poster_url` and `name`. Both have `game_title`, `parent_title`, `caption`, `spoiler`, `nsfw`, `pin_order`, `like_count` and `liked_by_me`.
+
+| Endpoint | Does |
+|---|---|
+| `GET /showcase/me` | Your showcase, in order |
+| `GET /showcase/user/:username` | Someone else's showcase |
+| `PUT /showcase/me/reorder` | Sets the order: `{ "items": [{ "kind": "clip", "id": 4 }, { "kind": "screenshot", "id": 12 }] }`, up to 10 |
+
+The older screenshot-only endpoints below still work, but only see the screenshots in the showcase.
 
 | Endpoint | Does |
 |---|---|
 | `GET /screenshots/me/pinned` | Your pinned screenshots, in showcase order |
-| `PUT /screenshots/me/pinned/reorder` | Sets the showcase order: `{ "ids": [up to 10 screenshot IDs] }` |
+| `PUT /screenshots/me/pinned/reorder` | Sets the order of your pinned screenshots: `{ "ids": [up to 10 screenshot IDs] }` |
 
 ## Other people's screenshots
 
@@ -84,4 +94,4 @@ Only screenshots on their public games are returned.
 |---|---|
 | `GET /screenshots/user/:username/all` | All their screenshots. Each also has `is_live_service` and `parent_title`. |
 | `GET /screenshots/user/:username/game/:gameId` | Their screenshots for one game |
-| `GET /screenshots/user/:username/pinned` | Their Screenshot Showcase |
+| `GET /screenshots/user/:username/pinned` | The screenshots in their Media Showcase |

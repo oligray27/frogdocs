@@ -26,6 +26,7 @@ For ladders, the numbers are what you need to reach each tier. For example, **Li
 | **Critic** | Games you've given a rating. | 25 | 75 | 150 | 300 | 600 |
 | **Reviewer** | Games you've written a review for. | 5 | 10 | 25 | 50 | 100 |
 | **Photographer** | Screenshots you've uploaded. | 20 | 50 | 100 | 250 | 500 |
+| **Cinematographer** | Clips you've uploaded. | 5 | 10 | 25 | 50 | 100 |
 | **Curator** | Lists you've made with at least 5 games in them. | 3 | 5 | 10 | 20 | 40 |
 | **Genre Traveller** | Different genres across your log. | 10 | 15 | 20 | 25 | 30 |
 | **Globetrotter** | Different countries the studios behind your games come from. | 10 | 20 | 30 | 40 | 50 |
