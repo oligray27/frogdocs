@@ -8,7 +8,17 @@ leafwiki_last_author_id: system
 ---
 # Privacy
 
-Your FrogLog is public by default, so other users can see your library, reviews, lists and what you're playing. You can keep any part of it to yourself.
+Your FrogLog is public to other FrogLog users by default, so they can see your library, reviews, lists and what you're playing. You can keep any part of it to yourself. People without a FrogLog account can't see any of it unless you turn on [Profile Visible Outside FrogLog](#profile-visible-outside-froglog).
+
+## Profile Visible Outside FrogLog
+
+Turn on **Profile Visible Outside FrogLog** in **Profile > Settings > Social Visibility** to let anyone see your profile, without logging in. It's off until you turn it on.
+
+Once it's on, a **Share Link** appears beside the setting (`froglog.co.uk/u/yourname`). Posted in Discord, a message or a social post, it previews as a card showing your avatar, name, game and hour counts, your four favourite games and your most recently played game, over your profile banner. The card only uses your public games and sessions, and updates when they change. Anyone who opens it sees your profile's Games, Stats, Lists, Screenshots, Clips, Trophies and Badges tabs, read-only. They can't like anything, and they never see whether you're online, what you're playing or when you were last seen.
+
+You can also share a single game or list. Click the **Share** button on a game's details or on a list: on a phone it opens your share menu, on a computer it copies the link. Shared games and lists preview with their own card, and the link opens straight to that game or list. Share buttons only appear while **Profile Visible Outside FrogLog** is on (on someone else's things, while theirs is on), and only on public games and lists. Your profile's own **Share** button is in the row of buttons under your profile card.
+
+Everything else on this page still applies: private games, sessions and lists stay private. Visitors see your theme if you've made it public, but your theme audio isn't played for them. Search engines are asked not to index these pages.
 
 ## Private games and sessions
 

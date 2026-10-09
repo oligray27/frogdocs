@@ -17,7 +17,7 @@ Use **Preview Profile Card** and **Preview Mini Profile Card** to see how they l
 
 ## Banner
 
-The banner is the image across the top of your card. Click **Upload Banner** (or **Change Banner**), choose or drag in an image (JPG, PNG, GIF or WebP, up to 10 MB), drag to choose which part to show, and click **Save**. **Remove Banner** takes it off.
+The banner is the image across the top of your card. Click **Upload Banner** (or **Change Banner**), choose or drag in an image (JPG, PNG, GIF or WebP, up to 20 MB), drag to choose which part to show, and click **Save**. **Remove Banner** takes it off.
 
 ## Profile Colours
 

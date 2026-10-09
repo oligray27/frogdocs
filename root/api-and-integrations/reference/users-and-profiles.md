@@ -80,6 +80,8 @@ Clears your presence, unless a Quick Session or automatic tracking session is ru
 
 If someone has hidden their online status and sessions from you, their session fields come back empty.
 
+All of these except `GET /users` also work without a token, but only for people who have turned on [Profile Visible Outside FrogLog](/social/privacy). Anyone else is a `404`. Without a token, `now_playing` and `last_seen_at` are always empty, `liked_by_me` is always `false`, and `compareAs` on a list is ignored. Requests without a token are rate-limited per IP address.
+
 ## Following
 
 | Endpoint | Does |

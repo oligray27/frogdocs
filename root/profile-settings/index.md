@@ -14,7 +14,7 @@ Open **Profile** from the navigation (on a phone, it's in the bottom bar or the 
 
 The card at the top shows your photo, username, when you joined, and how many people you follow, how many follow you, and how many likes you've received.
 
-Along the bottom of the card are the buttons for linking your gaming accounts (**Link Steam**, **Link PSN**, **Link Switch**, **Link Xbox**), each with **Import** and **Unlink** buttons once linked, and **Download LilyPad**. See [Platforms & Automatic Tracking](/platforms) and [LilyPad](/lilypad).
+Along the bottom of the card are the buttons for linking your gaming accounts (**Link Steam**, **Link PSN**, **Link Switch**, **Link Xbox**), each with **Import** and **Unlink** buttons once linked (on a phone, tap the button for a menu with these instead), then **Download LilyPad** and, while **Profile Visible Outside FrogLog** is on, **Share**, which shares your profile's link. See [Platforms & Automatic Tracking](/platforms) and [LilyPad](/lilypad).
 
 ![The profile card at the top of the Profile page](/assets/fl-getting-started/profilecard.webp)
 
@@ -31,7 +31,7 @@ On desktop, the settings sections are listed down the left. Click one to open it
 | **Autonomous Tracking** | Automatic session tracking and presence for each platform | [Platforms & Automatic Tracking](/platforms) |
 | **Library Defaults** | How your library opens and sorts | [Library & Display](/profile-settings/library-and-display) |
 | **Display & Layout** | Rating style, widescreen layout, the navigation bars | [Library & Display](/profile-settings/library-and-display) |
-| **Social Visibility** | What other people see of you, and what you see of them | [Privacy](/social/privacy) and [Social](/social) |
+| **Social Visibility** | What other people see of you, whether people without an account can see your profile, and what you see of them | [Privacy](/social/privacy) and [Social](/social) |
 | **Notifications** | Push notifications on this device, which kinds you get, and your other devices | [Notifications](/social/notifications) |
 | **Logout & Other** | Log out, export your data, or delete your account | [Account](/profile-settings/account) |
 

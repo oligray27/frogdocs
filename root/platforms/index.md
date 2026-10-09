@@ -31,6 +31,8 @@ Once linked, the button shows your name on that platform, with two smaller butto
 - **Import** brings in your play history (not available for Switch).
 - **Unlink** disconnects the account.
 
+On a phone, tap the button itself instead: a menu opens with **Import Games** and **Unlink**, plus **Relink** when a PSN or Xbox account needs relinking.
+
 ## Three things a linked platform can do
 
 | | What it does | Where to turn it on |
