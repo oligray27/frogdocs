@@ -25,6 +25,24 @@ At the top of the page:
 
 ![The top of the Stats page, showing the Games/Live Service/Combined tabs, the year menu and the stat cards](/assets/fl-stats/statstoolbar.webp)
 
+## Weekly Summary
+
+Above the tabs, the **Weekly Summary** covers your past week (today and the six days before), counting your games and live service games together. It isn't affected by the tabs or the year menu. Click the **Weekly Summary** heading to collapse it; FrogLog remembers whether it's open on that device. On a phone, **Summary** and **Stats** at the top of the page switch between the Weekly Summary and the rest of your stats.
+
+| Card | Shows |
+|---|---|
+| **Hours in the Last 7 Days** | Your recent playtime, compared with the 7 days before |
+| **Sessions in the Last 7 Days** | How many sessions you logged, compared with the 7 days before |
+
+Beside the cards, **Hours per Day** charts each day's playtime, with each bar split into the games you played that day. The colours match the bars in **Played This Week**.
+
+Below them:
+
+- **Played This Week** lists every game you played, most hours first, with how many sessions.
+- **Weekly Leaderboard** ranks you and the people you follow by hours played in the last 7 days. Whoever's on top wears the same gold crown as on the [Social](/social) page. Click a name to open their profile card. This only appears on your own stats.
+
+On someone else's stats, the Weekly Summary follows the [Compare](/stats/comparing) menu, so each card and each day shows both of you. On your own stats it always shows just you.
+
 ## Games tab
 
 ### Stat cards
@@ -36,7 +54,6 @@ At the top of the page:
 | **Total Hours** | Hours across your games |
 | **Average Rating** | The average of the ratings you've given |
 | **Games Started This Month** / **This Year** | Games started recently |
-| **Hours in the Last 7 Days** | Your recent playtime, compared with the 7 days before |
 
 ### Library Status
 
@@ -67,7 +84,6 @@ Four lists show where your games come from: **Platforms**, **Developers**, **Cou
 | **Total Live Service Games** | How many live service games you track |
 | **Total Hours** | Hours across all their sessions |
 | **Live Service Sessions This Month** / **This Year** | Sessions logged recently |
-| **Hours in the Last 7 Days** | Recent playtime, compared with the 7 days before |
 
 Below the cards are a **Sessions by Month** (or **by Year**) chart and a **Session Activity** calendar.
 
@@ -79,4 +95,4 @@ Your games and live service games together: **Total Titles**, **Total Hours**, a
 
 - **Games with session tracking** count each session in the year it was played. A game you played across two years has its hours split between them.
 - **Games without session tracking** have only one total, so when you pick a year, all their hours count towards the year you started them. That's what the **†** next to **Total Hours in [year]** refers to.
-- **Very long sessions:** a single session of more than 24 hours is almost always a lump of earlier playtime added in one go, such as "Pre-tracked hours". These still count towards your totals and top lists, but are left out of anything measured by day: the activity calendars, **Hours in the Last 7 Days**, and **This Month** / **This Year**.
+- **Very long sessions:** a single session of more than 24 hours is almost always a lump of earlier playtime added in one go, such as "Pre-tracked hours". These still count towards your totals and top lists, but are left out of anything measured by day: the activity calendars, the **Weekly Summary**, and **This Month** / **This Year**.
