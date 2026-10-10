@@ -25,6 +25,7 @@ Each result shows the game's cover, release date, genre and developer. It also s
 - A **Steam** or **IGDB** link to the game's store or database page.
 - A **Metacritic** badge with the game's Metascore. If nobody has looked the game up before, it shows **Metascore** instead: click it to look the score up.
 - An **HLTB** badge. Click it to see how long the game usually takes, from [HowLongToBeat](https://howlongtobeat.com). If nobody has looked the game up before, it's fetched when you click, which can take a few seconds.
+- A **Played by** badge when people you follow have the game, the same as on a game's [details card](/library).
 - An expand button that shows the full description.
 
 ![A search result card, showing the Add to Up Next and Add to Games buttons](/assets/fl-library-adding-games/searchresultcard.webp){width=80%}
