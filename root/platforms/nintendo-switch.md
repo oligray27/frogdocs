@@ -35,6 +35,10 @@ The button now shows your Switch name and avatar.
 
 Turn on **Automatic Nintendo Switch Session Tracking** in **Profile > Settings > Autonomous Tracking > Switch**. Games you play that aren't in your library are added automatically. See [How it works](/platforms).
 
+A game added this way brings its history with it: its **Start Date** is the day you first played it on your Switch, and the time you'd already played becomes a "Pre-tracked hours" session. A game added as a replay of one already in your library starts from today instead, since that earlier time is already logged.
+
+If you play while FrogLog can't see you (offline, or with your presence hidden), it catches up next time it does. Each time a session starts, FrogLog compares how much your Switch play time for that game has grown since your last session with what it logged, and adds anything it missed as a "Catch-up from Nintendo Switch" session. Differences under 15 minutes are ignored. These sessions have no date, so they count towards your hours but not the session heatmap.
+
 Your Switch must be connected to the internet for FrogLog to see what you're playing.
 
 To show what you're playing without logging sessions, use **Mirror Nintendo Switch In-Game Presence to FrogLog** instead.

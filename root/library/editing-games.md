@@ -26,6 +26,8 @@ A game's status is worked out from its dates, unless you set it yourself:
 | **Dormant** | The status is set to Dormant |
 | **Imported** | Imported from a platform with no dates yet |
 
+For a game with session tracking, the **End Date** picker has a **Set to last session date** button, which fills in the date of your most recent session.
+
 ### Setting the status yourself
 
 **Game Status (Override)** has three options:
@@ -54,6 +56,8 @@ To hide a spoiler, wrap it in double pipes: `||Aerith dies||`. Readers see a blu
 |---|---|
 | **Cover Image URL** | The cover art used in grid view, lists and elsewhere |
 | **Platforms** | Add or remove platforms. Changes save straight away. |
+| **Fix Match** | Tells FrogLog which game this entry really is, for example when you move from a demo to the full game or a game was added as the wrong title. Pick the right game from the search and its details replace the entry's (your hours, sessions, dates, rating and review stay). If its Steam version is different, you can choose whether to switch the entry's Steam link too. Click **Save Changes** to keep it. |
+| **Merge Into…** | Folds this entry into another game in your library and deletes it, for example a beta into the full game. Its sessions move across as they are (dates, notes and likes included), along with its hours, screenshots, clips, pinned trophies and list places. The game you merge into keeps its own details and fills any blanks from the merged one, and the earlier start date wins. If LilyPad was tracking the merged entry, it lists that game under [New Games](/lilypad/new-games) the next time you play it, so you can map it to the kept one. |
 | **Fetch Missing Data** | Fills in any empty fields (description, genre, developer, release date and artwork) from the game's database entry. Fields you've already filled in are left alone. Click **Save Changes** afterwards to keep them. |
 | **Hide HLTB** | Hides the HowLongToBeat badge on this game's details card, for example if it shows the wrong game's times |
 | **Hide Metacritic** | Hides the Metacritic badge on this game's details card |
@@ -66,6 +70,19 @@ To hide a spoiler, wrap it in double pipes: `||Aerith dies||`. Readers see a blu
 - **Turning it off** deletes every session. Their combined total is copied into **Hours Played** first, so you keep the hours but lose the individual entries.
 
 The form warns you before either happens.
+
+## Catching up on missed playtime
+
+If you played somewhere FrogLog couldn't see, such as Steam in offline mode, **Catch Up** compares your playtime on Steam, PlayStation or Xbox with what FrogLog has, and adds the difference.
+
+It shows up in the edit form for any game with a Steam, PlayStation or Xbox platform. Click **Fetch Playtime** to see each platform's total next to FrogLog's. If a platform has more, you can add the extra time:
+
+- For a game with session tracking (and live service games), **Add Session** logs it straight away as one session, dated when you last played on that platform. Change the date first if you like.
+- For other games, it's added to **Hours Played**. Click **Save Changes** to keep it.
+
+For a replay, FrogLog's side counts every playthrough of the game, because Steam, PlayStation and Xbox only keep one total across all of them.
+
+A platform's total only covers play on that platform. PlayStation counts PS4 and PS5 only, and Steam needs your game details set to public. If FrogLog already has as much time as the platforms (or more), there's nothing to add.
 
 ## Privacy
 
