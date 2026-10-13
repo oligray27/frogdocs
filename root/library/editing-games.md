@@ -71,16 +71,21 @@ To hide a spoiler, wrap it in double pipes: `||Aerith dies||`. Readers see a blu
 
 The form warns you before either happens.
 
-## Catching up on missed playtime
+## Syncing missed playtime
 
-If you played somewhere FrogLog couldn't see, such as Steam in offline mode, **Catch Up** compares your playtime on Steam, PlayStation or Xbox with what FrogLog has, and adds the difference.
+If you played somewhere FrogLog couldn't see, such as Steam in offline mode, **Sync Playtime** compares your total playtime from somewhere else with what FrogLog has, and adds the difference.
 
-It shows up in the edit form for any game with a Steam, PlayStation or Xbox platform. Click **Fetch Playtime** to see each platform's total next to FrogLog's. If a platform has more, you can add the extra time:
+Click **Sync Playtime** next to **Hours Played** in the edit form. If there's more than one place to sync from, it opens a menu:
 
-- For a game with session tracking (and live service games), **Add Session** logs it straight away as one session, dated when you last played on that platform. Change the date first if you like.
-- For other games, it's added to **Hours Played**. Click **Save Changes** to keep it.
+- **via Steam**, **via PlayStation** or **via Xbox**: for a game with one of these platforms, fetches that platform's total. A game with more than one of them shows one option for them all (such as **via Steam & PlayStation**), because their totals are added together.
+- **via Custom Source**: for any game. Type in your total from anywhere else, such as the game's own stats screen. Only include hours for the playthrough you're editing, because it's compared with that playthrough's hours alone.
 
-For a replay, FrogLog's side counts every playthrough of the game, because Steam, PlayStation and Xbox only keep one total across all of them.
+A Sync Playtime section opens below Hours Played. If the other total is higher, click **Add ... and Save** to add the extra time and save your changes, the same as **Save Changes**:
+
+- For a game with session tracking (and live service games), it's logged as one "Catch-up" session with no date, since the time could have been played on any number of days. It counts towards your hours but not the session heatmap or per-day stats.
+- For other games, it's added to **Hours Played**.
+
+When syncing via Steam, PlayStation or Xbox for a replay, FrogLog's side counts every playthrough of the game by default, because those platforms only keep one total across all of them. If your other playthroughs were somewhere else, untick **Include my other playthroughs** to compare with this playthrough only.
 
 A platform's total only covers play on that platform. PlayStation counts PS4 and PS5 only, and Steam needs your game details set to public. If FrogLog already has as much time as the platforms (or more), there's nothing to add.
 

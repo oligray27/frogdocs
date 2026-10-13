@@ -52,7 +52,7 @@ Your own activity is included. To see only other people's, set **Profile > Setti
 |---|---|
 | **Most Active** | Who played the most hours |
 | **Longest Session** | The single longest session |
-| **Total Hours** | Everyone's hours added together |
+| **Total Hours** | Everyone's hours added together. Click the chart button in the corner to flip the tile and see the hours for each day |
 | **Sessions Logged** | How many sessions were logged |
 | **Most Sessions** | Who logged the most sessions |
 | **Busiest Day** | The day with the most play |
