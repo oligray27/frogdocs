@@ -82,7 +82,7 @@ Click **Sync Playtime** next to **Hours Played** in the edit form. If there's mo
 
 A Sync Playtime section opens below Hours Played. If the other total is higher, click **Add ... and Save** to add the extra time and save your changes, the same as **Save Changes**:
 
-- For a game with session tracking (and live service games), it's logged as one "Catch-up" session with no date, since the time could have been played on any number of days. It counts towards your hours but not the session heatmap or per-day stats.
+- For a game with session tracking (and live service games), it's logged as one "Playtime sync" session with no date, since the time could have been played on any number of days. It counts towards your hours but not the session heatmap or per-day stats.
 - For other games, it's added to **Hours Played**.
 
 When syncing via Steam, PlayStation or Xbox for a replay, FrogLog's side counts every playthrough of the game by default, because those platforms only keep one total across all of them. If your other playthroughs were somewhere else, untick **Include my other playthroughs** to compare with this playthrough only.
