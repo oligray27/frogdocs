@@ -39,9 +39,10 @@ Each session has buttons to:
 
 Quick Session is a stopwatch for when you're about to play.
 
-1. Select a game and click the **Quick Session** button (the timer icon) on its details card.
+1. Select a game and click the **Quick Session** button (the timer icon) on its details card. On a phone, you can also press and hold a game's title in your Games list and choose **Quick Session**.
 2. A bar with the game's name and a running timer appears at the top of the page. It keeps running if you close the tab or switch devices, so you can start it on your phone and stop it on your computer.
-3. When you're done, click **Stop** and choose:
+3. To take a break, click **Pause** in the bar. The timer stops until you click **Resume**, and paused time doesn't count towards the session's hours.
+4. When you're done, click **Stop** and choose:
    - **Auto Save** saves the session straight away with the note "Session auto submitted with Quick Session".
    - **Manual** lets you add notes, tick **Contains spoilers** or **Hide from public**, then click **Save Session**.
    - **Discard** throws the session away. Click it twice to confirm.
@@ -52,7 +53,15 @@ You can only run one Quick Session at a time.
 
 Quick Session also works for games without session tracking: the time is simply added to the game's **Hours Played**. **Manual** isn't available for those games, since there's no session to attach notes to.
 
-While a Quick Session is running, you show as playing that game in Online Now on the [Activity](/social/activity) page.
+While a Quick Session is running, you show as playing that game in Online Now on the [Activity](/social/activity) page. You drop off Online Now while it's paused.
+
+### Without a connection
+
+Quick Session keeps working if you lose your connection. You can start, pause, resume, stop and discard a session as usual, and a **No connection** bar shows at the bottom of the screen.
+
+FrogLog keeps those changes on your device, even if you close the app, and sends them once you're back online. Each one keeps the time it really happened, so a session played entirely offline logs the same hours as one played online. It's dated by the day you stopped it, even if it's sent the next day. A message confirms once your sessions have gone through.
+
+If a change can't be saved when it's sent, for example because a different session was started on another device in the meantime, a notice appears in the Quick Session bar.
 
 ## Sessions recorded automatically
 
