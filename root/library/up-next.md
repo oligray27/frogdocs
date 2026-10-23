@@ -34,7 +34,7 @@ When you start playing something on your list:
 
 The game leaves Up Next and appears in your library. If you've played it before, it's offered as a [replay](/library/replays-and-dnf).
 
-To remove a game without moving it, click **Edit**, then **Delete**.
+To remove a game without moving it, click **Delete** on its details card, then click it again (it changes to **Confirm?**). **Delete** is also in the **Edit** form.
 
 ## Syncing your Steam wishlist
 

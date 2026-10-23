@@ -22,6 +22,8 @@ Along the bottom of the card are the buttons for linking your gaming accounts (*
 
 On desktop, the settings sections are listed down the left. Click one to open it. On a phone, every section is a card you can expand. You can have several open at once.
 
+To find a setting without knowing its section, type in **Search settings…** (above the section list, or above the cards on a phone). Click a result to open its section and jump to it.
+
 | Section | What's in it | Guide |
 |---|---|---|
 | **Profile** | Photo, username, password, background, theme music, appearance, bottom bar, bio and favourite games | [Profile](/profile-settings/profile) and [Appearance](/profile-settings/appearance) |

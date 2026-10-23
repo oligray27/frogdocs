@@ -103,7 +103,7 @@ Updates a game.
 
 Turning `session_tracking` off deletes the game's sessions. Turning it on creates a "Pre-tracked hours" session; send `initial_session_hours` to set how many hours it holds.
 
-Returns the updated game object.
+Returns the updated game object, plus `just_completed`: `true` when this update moved the game into Completed (it wasn't before), otherwise `false`.
 
 ## DELETE /games/:id
 
