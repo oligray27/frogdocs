@@ -58,7 +58,7 @@ Session objects and fields are the same as for [games](/api-and-integrations/ref
 | Endpoint | Does |
 |---|---|
 | `GET /live-service/:id/sessions` | Lists the game's sessions, newest first |
-| `POST /live-service/:id/sessions` | Logs a session: `date`, `hours`, `notes`, `is_public`, `spoiler`, `sync_ref` |
+| `POST /live-service/:id/sessions` | Logs a session: `date`, `hours`, `notes`, `is_public`, `spoiler`, `sync_ref`, `ended_at` (see [Games](/api-and-integrations/reference/games)) |
 | `PUT /live-service/:id/sessions/:sessionId` | Replaces a session's `date`, `hours`, `notes`, `is_public` and `spoiler` |
 | `DELETE /live-service/:id/sessions/:sessionId` | Deletes a session |
 

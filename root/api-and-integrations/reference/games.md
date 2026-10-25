@@ -154,15 +154,18 @@ The game's sessions, newest first.
 | `is_public` | Defaults to `true` |
 | `spoiler` | Defaults to `false` |
 | `sync_ref` | Your own unique ID. Sending the same one again returns the existing session instead of logging it twice. |
+| `ended_at` | Optional timestamp of when the session finished, for example `2026-10-01T21:30:00Z` or with a UTC offset. Followers' [Activity](/social/activity) feed shows the session from then ("3h ago"), instead of from when you sent it. A time in the future counts as now. |
 
 ```bash
 curl -X POST https://api.froglog.co.uk/api/games/12/sessions \
   -H "Authorization: Bearer flk_your_key_here" \
   -H "Content-Type: application/json" \
-  -d '{"date": "2026-10-01", "hours": 2.5, "notes": "Beat the second boss"}'
+  -d '{"date": "2026-10-01", "hours": 2.5, "notes": "Beat the second boss", "ended_at": "2026-10-01T21:30:00+01:00"}'
 ```
 
 Returns the new session. The game needs session tracking on for its sessions to count towards its hours.
+
+If you're sending sessions some time after they were played, send `ended_at` with each one. Without it, a session dated today shows in the feed as "Just now", and one from an earlier day shows from midnight that day. `date` is still the day the session counts towards, so send both.
 
 ### PUT /games/:id/sessions/:sessionId
 
