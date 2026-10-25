@@ -57,7 +57,7 @@ Click **View Sessions** on the details card to see every session for the game, w
 Each session has buttons to:
 
 - **Show to public / Hide from public**: whether other users can see this session. Other users only see sessions at all if the game has **Public Sessions** turned on.
-- **Mark as spoiler**: hides the notes behind "Spoiler — click to reveal".
+- **Mark as spoiler**: hides the notes behind "Note may contain spoilers. Click to reveal anyway." ("Spoilers inside. Tap to reveal." on a phone).
 - **Edit** or **Delete** the session.
 
 ![The sessions table, showing the visibility, spoiler, edit and delete buttons on a row](/assets/fl-library-sessions/sessiontable.webp)

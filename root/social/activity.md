@@ -50,30 +50,32 @@ Your own activity is included. To see only other people's, set **Profile > Setti
 
 | Tile | Shows |
 |---|---|
-| **Most Active** | Who played the most hours |
-| **Longest Session** | The single longest session |
+| **Most Active** | Who played the most hours, and who came second. Click the list button in the corner to flip the tile and see the top 5 |
+| **Longest Session** | Who played the single longest session, and who came second. Flip it for the top 5, counting each person's longest session once |
 | **Total Hours** | Everyone's hours added together. Click the chart button in the corner to flip the tile and see the hours for each day |
-| **Sessions Logged** | How many sessions were logged |
-| **Most Sessions** | Who logged the most sessions |
+| **Sessions Logged** | How many sessions were logged. Flip it for the sessions logged each day |
+| **Most Sessions** | Who logged the most sessions, and who came second. Flip it for the top 5 |
 | **Busiest Day** | The day with the most play |
-| **Most Played** | The game played the most |
-| **Most Popular** | The game the most people played |
-| **Week over Week** | Who increased their playtime the most compared with the week before |
+| **Most Played** | The game played the most. Flip it for the top 5 games by hours |
+| **Most Popular** | The game the most people played. Flip it for the top 5 games by number of players |
+| **Week over Week** | Who increased their playtime the most compared with the week before. Flip it for the top 5, with how much each person's hours went up (or down) |
 
 ### Last 30 Days
 
 | Tile | Shows |
 |---|---|
-| **Completions** | Who finished the most games |
-| **Library Growth** | Who added the most games |
-| **Sessions Logged** | How many sessions were logged |
-| **Streak** | The longest run of days in a row with a session |
-| **Total Hours** | Everyone's hours added together |
-| **Top Platform** | The platform played most |
+| **Completions** | Who finished the most games. Flip it for the top 5 |
+| **Library Growth** | Who added the most games. Flip it for the top 5 |
+| **Sessions Logged** | How many sessions were logged. Flip it for the sessions logged each day |
+| **Streak** | The longest run of days in a row with a session. Flip it for the top 5 |
+| **Total Hours** | Everyone's hours added together. Flip it for the hours each day |
+| **Top Platform** | The platform played most. Flip it for the top 5 platforms by hours |
 
 ### All Time
 
-**Total Hours**, **Sessions**, **Streak** and **Completions**, across you and everyone you follow, since you all joined.
+**Total Hours**, **Sessions**, **Streak** and **Completions**, across you and everyone you follow, since you all joined. **Streak** and **Completions** flip over for the top 5, and **Total Hours** and **Sessions** for a month-by-month chart of the last year.
+
+Tiles with a button in the corner flip over: a list button shows a top 5, and a chart button shows a chart. Click a name in a top 5 to see that person's profile card.
 
 There are a few secrets hidden around FrogLog for you to find, and Highlights is one place to look.
 
