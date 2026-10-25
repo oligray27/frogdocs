@@ -15,11 +15,11 @@ Your [notifications](/social/notifications).
 | Field | Notes |
 |---|---|
 | `id` | |
-| `type` | `follow`, `like`, `crown_earned`, `crown_lost`, `badge_earned` or `changelog` |
-| `data` | Details for the type, for example the liked item's `target_type`, `game_title` and IDs, or a badge's `name` and `tier_name` |
+| `type` | `follow`, `like`, `session_mention`, `crown_earned`, `crown_lost`, `badge_earned` or `changelog` |
+| `data` | Details for the type, for example the liked item's `target_type`, `game_title` and IDs, a tagged session's `game_title`, `game_id`, `is_live_service` and `session_id`, or a badge's `name` and `tier_name` |
 | `read_at` | Timestamp, or `null` if unread |
 | `created_at` | |
-| `actor_username`, `actor_display_username`, `actor_nickname`, `actor_avatar_url` | Who did it, for follows and likes |
+| `actor_username`, `actor_display_username`, `actor_nickname`, `actor_avatar_url` | Who did it, for follows, likes and session tags |
 
 ## GET /notifications
 

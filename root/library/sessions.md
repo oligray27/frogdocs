@@ -23,6 +23,33 @@ With session tracking on, the game's hours are the total of all its sessions. Yo
 
 ![The Add Session form](/assets/fl-library-sessions/addsessionform.webp){width=40%}
 
+## Tagging people in notes
+
+Type **@** followed by someone's username in a session's notes, for example "Played with @Reayon". Typing **@** lists the people you follow, and as you carry on typing, FrogLog suggests matching users. Use the arrow keys and **Enter**, or click a name, to fill it in.
+
+Each person you tag gets a [notification](/social/notifications) linking to the session. They're only notified if they can see it, so a session that's hidden from public, or in a game without **Public Sessions**, doesn't notify anyone. If you make it public later and save it, they're notified then. Editing a session never notifies the same person twice.
+
+Tag people by the name you see for them, including a nickname you've given them. Everyone reading the note sees each tagged person under the name they know them by, and tagged names link to that person's profile.
+
+### Mirroring a session you're tagged in
+
+If someone tags you, you can copy their session into your own FrogLog. Open the session from the notification (or find it in their sessions), and click the **Mirror to my FrogLog** button next to the heart.
+
+The session form opens with their date and hours, and the notes "Played with @their name", which tags them back. Change anything you like, then save, and FrogLog takes you to your copy.
+
+**Game** at the top shows which of your games the session goes on. FrogLog picks your matching game for you, even if it's in Live Service for you and Games for them. Click it to search for a different game of yours, or choose **Add … as a new game** to add a separate entry.
+
+- If the game's session tracking is off, the hours are added to its **Hours Played** instead.
+- If you haven't started the game yet (for example it's **Imported**), it moves to In Progress, starting on the session's date.
+- If you've finished the game (Completed or DNF), it moves back to In Progress. To keep a finished playthrough as it is, choose **Add … as a new game** instead.
+
+The line under the title tells you which of these will happen before you save.
+- If you don't have the game, or choose to add it as new, it's added to your FrogLog as In Progress, with session tracking on.
+
+You can mirror each session once. Afterwards the button shows a tick.
+
+A mirrored session can't be mirrored back. When someone mirrors your session, their copy tags you, and you'll get a notification for it, but there's no mirror button on it. The same goes for any other copy of a session you've already mirrored.
+
 ## Viewing and editing sessions
 
 Click **View Sessions** on the details card to see every session for the game, with its date, hours and notes. On a wide screen, the sessions show under the details card instead.
@@ -39,7 +66,7 @@ Each session has buttons to:
 
 Quick Session is a stopwatch for when you're about to play.
 
-1. Select a game and click the **Quick Session** button (the timer icon) on its details card. On a phone, you can also press and hold a game's title in your Games list and choose **Quick Session**.
+1. Select a game and click the **Quick Session** button (the timer icon) on its details card. You can also right-click a game in your Games list, or press and hold it, and choose **Quick Session**.
 2. A bar with the game's name and a running timer appears at the top of the page. It keeps running if you close the tab or switch devices, so you can start it on your phone and stop it on your computer.
 3. To take a break, click **Pause** in the bar. The timer stops until you click **Resume**, and paused time doesn't count towards the session's hours.
 4. When you're done, click **Stop** and choose:

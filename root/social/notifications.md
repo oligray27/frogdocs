@@ -16,6 +16,7 @@ FrogLog lets you know when something happens that involves you.
 |---|---|
 | **[Name] followed you** | Someone starts following you |
 | **[Name] liked your …** | Someone likes one of your games, sessions, reviews, screenshots or lists. Click the link to go straight to it. |
+| **[Name] tagged you in a session note in …** | Someone [tagged you with @](/library/sessions) in the notes of one of their sessions. Click the game to go straight to the session. |
 | **You earned the Weekly Playtime Crown!** | You've played the most hours of anyone on FrogLog in the last 7 days |
 | **You lost the Weekly Playtime Crown** | Someone else has overtaken you |
 | **You earned the … badge!** | You've earned a new badge, or a higher tier of one |
@@ -64,6 +65,7 @@ Untick anything you don't want under **Notify Me About**. This applies to all yo
 |---|---|
 | **Follows** | Someone follows you |
 | **Likes** | Someone likes one of your sessions, reviews, screenshots, lists or games |
+| **Session Tags** | Someone tags you with @ in their session notes |
 | **Weekly Crown Earned** | You take the Weekly Playtime Crown |
 | **Weekly Crown Lost** | Someone takes the Weekly Playtime Crown from you |
 | **Badges Earned** | You earn a new badge or reach a new tier |

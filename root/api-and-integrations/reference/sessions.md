@@ -42,6 +42,52 @@ Every session across your regular games, newest first, a page at a time.
 
 The same for your live service games.
 
+## Tags in notes
+
+Session notes can tag people with `@`. Send a tag as the name you see for that person (their username, or the display name or nickname you see), and FrogLog stores it so it keeps pointing at them. Wherever notes come back, each tag shows as the name that you know the person by, and every session object also has:
+
+| Field | Notes |
+|---|---|
+| `mentions` | `[{ "label": "Reayon", "username": "reayon" }]`, one per person tagged, where `label` is how the tag reads in `notes` |
+| `tagged_me` | `true` if you're one of the people tagged |
+
+## Mirroring a session you're tagged in
+
+Copies someone else's session that tags you into your own FrogLog. `:type` is the session's kind, `game` or `live_service`, and `:id` is its ID. Both endpoints return `404` if you can't see the session or aren't tagged in it.
+
+A session and every copy made from it count as one session for this. You can't mirror one if the original is yours, or if you've already mirrored any copy of it: the GET returns `404` and the POST `409`.
+
+### GET /sessions/mirror/:type/:id
+
+What mirroring would do:
+
+```json
+{
+  "target": { "game_type": "game", "game_id": 12, "title": "Hades II", "session_tracking": true },
+  "library": [{ "game_type": "game", "game_id": 12, "title": "Hades II", "session_tracking": true }],
+  "title": "Hades II",
+  "prefill": { "date": "2026-10-01", "hours": "2.5", "notes": "Played with @Ollie", "spoiler": false }
+}
+```
+
+`target` is the game in your library it goes on by default, or `null` if you don't have that game, in which case it's added to your library first. `library` lists all your games, regular and live service, for choosing a different one.
+
+### POST /sessions/mirror/:type/:id
+
+| Field | Notes |
+|---|---|
+| `date` | |
+| `hours` | Required if the target game doesn't track sessions |
+| `notes` | |
+| `spoiler` | Default `false` |
+| `is_public` | Default `true` |
+| `target` | Optional. `{ "game_type", "game_id" }` for one of your games, or `"new"` to add the game as a new entry. Left out, it goes on the default `target` from the GET. `400` if the game isn't yours. |
+
+
+A regular target game ends up In Progress: one you haven't started yet (no start date) starts on the session's `date`, and a completed or DNF one is reopened (its end date and DNF flag are cleared).
+
+Returns where it went: `{ "game_type", "game_id", "title", "session_id", "created_game" }`. If the target game doesn't track sessions, the hours are added to its `hours_played` and `session_id` is `null`. `409` if you've already mirrored that session.
+
 ## Quick Session
 
 ### The active session object
