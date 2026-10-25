@@ -37,7 +37,7 @@ If someone tags you, you can copy their session into your own FrogLog. Open the 
 
 The session form opens with their date and hours, and the notes "Played with @their name", which tags them back. Change anything you like, then save, and FrogLog takes you to your copy.
 
-**Game** at the top shows which of your games the session goes on. FrogLog picks your matching game for you, even if it's in Live Service for you and Games for them. Click it to search for a different game of yours, or choose **Add … as a new game** to add a separate entry.
+**Game** at the top shows which of your games the session goes on. FrogLog picks your matching game for you, even if it's in Live Service for you and Games for them. Search there for a different game of yours, or choose **Add … as a new game** at the top of the list to add a separate entry. The box then shows the game with a **+** in front; click the **✕** to search again.
 
 - If the game's session tracking is off, the hours are added to its **Hours Played** instead.
 - If you haven't started the game yet (for example it's **Imported**), it moves to In Progress, starting on the session's date.
