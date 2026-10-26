@@ -35,7 +35,7 @@ Tag people by the name you see for them, including a nickname you've given them.
 
 If someone tags you, you can copy their session into your own FrogLog. Open the session from the notification (or find it in their sessions), and click the **Mirror to my FrogLog** button next to the heart.
 
-The session form opens with their date and hours, and the notes "Played with @their name", which tags them back. Change anything you like, then save, and FrogLog takes you to your copy.
+The session form opens with their date and hours, and the notes "Played with @their name", which tags them back. If they tagged other people too, they're added as well, for example "Played with @Ollie, @Reayon and @Sam". Everyone you tag can mirror your copy, but only once: if they've already mirrored the original, there's no mirror button on yours. Change anything you like, then save, and FrogLog takes you to your copy.
 
 **Game** at the top shows which of your games the session goes on. FrogLog picks your matching game for you, even if it's in Live Service for you and Games for them. Search there for a different game of yours, or choose **Add … as a new game** at the top of the list to add a separate entry. The box then shows the game with a **+** in front; click the **✕** to search again.
 
