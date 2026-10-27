@@ -30,6 +30,7 @@ Right-click the tray icon for:
 | Item | What it does |
 |---|---|
 | **Now Tracking: [game] ([time])** | Shown while a game is being tracked |
+| **Pause Tracking** / **Resume Tracking** | Pauses the session for a break. Paused time isn't logged as play. You can also pause from FrogLog's [Quick Session](/library/sessions) bar with remote control on. |
 | **Stop Tracking Current Session** | Ends a session tracked against the wrong game. You then choose what to do with the time. |
 | **New Games (N)** | Games LilyPad noticed that aren't in your FrogLog. See [New Games](/lilypad/new-games). |
 | **Pending Submissions (N)** | Sessions waiting to be sent |
@@ -64,6 +65,8 @@ The checkboxes at the top of **Configure...**:
 | **Auto-submit sessions to games with session tracking** | Logs sessions without asking |
 | **Auto-submit live service sessions** | Logs live service sessions without asking |
 | **Enable online presence on FrogLog** | Shows what you're playing in Online Now on the [Activity](/social/activity) page |
+| **Enable remote control from FrogLog** | Shows the game you're playing in FrogLog's [Quick Session](/library/sessions) bar, where you can pause and resume it from any device |
+| **Device name** | The name the Quick Session bar shows for this computer, e.g. "Tracked by LilyPad on Gaming PC". Leave blank for none. |
 | **Detect games not in your FrogLog library** | Records Steam and watched-folder games you haven't added yet, under [New Games](/lilypad/new-games) |
 | **Check for LilyPad updates automatically** | Checks for new versions on start and once a day |
 

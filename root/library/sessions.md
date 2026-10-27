@@ -82,6 +82,15 @@ Quick Session also works for games without session tracking: the time is simply 
 
 While a Quick Session is running, you show as playing that game in Online Now on the [Activity](/social/activity) page. You drop off Online Now while it's paused.
 
+### Sessions tracked by LilyPad
+
+When [LilyPad](/lilypad) is tracking a game, the Quick Session bar shows that too, with the LilyPad icon and its timer, so you can see it from your phone or another computer. It appears when the game starts and goes away when it closes. LilyPad logs the session itself when you close the game, and you can't start a Quick Session while it's running, since that would log the same play twice.
+
+To show it, LilyPad needs one of these settings turned on:
+
+- **Enable remote control from FrogLog** (on Steam Deck too). The bar also gets a **Pause** button for the session. While it's paused, the timer stops in FrogLog and in LilyPad, your "playing for" time in Online Now stops too, and the paused time isn't counted in the session LilyPad logs. Press **Resume** to carry on. If LilyPad doesn't answer, for example because your PC is asleep, the bar says so. Give the computer a **Device name** in LilyPad and the bar shows it, e.g. "Tracked by LilyPad on Gaming PC".
+- **Enable online presence on FrogLog** (**Mirror online presence to FrogLog** in the [Steam Deck plugin](/lilypad/steam-deck)). With only this one on, the bar shows the session but has no **Pause** button.
+
 ### Without a connection
 
 Quick Session keeps working if you lose your connection. You can start, pause, resume, stop and discard a session as usual, and a **No connection** bar shows at the bottom of the screen.

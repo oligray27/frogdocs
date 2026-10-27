@@ -31,11 +31,11 @@ Open LilyPad in the Quick Access Menu and use **Log in to FrogLog** with your Fr
 
 | Section | What's there |
 |---|---|
-| **Now Tracking** | The game being tracked and how long the session has run. **Stop tracking this session** ends a session tracked against the wrong game. |
+| **Now Tracking** | The game being tracked and how long the session has run. **Pause tracking** pauses it for a break (paused time isn't logged), and **Stop tracking this session** ends a session tracked against the wrong game. |
 | **Sessions to submit** | Sessions waiting for you to submit, when auto-submit is off |
 | **Pending Submissions** | Sessions that couldn't be sent. **Retry** or **Delete**. |
 | **New Games** | Games you've played that aren't in your FrogLog yet. See [New Games](/lilypad/new-games). |
-| **Settings** | **Auto-submit sessions**, **Session message**, **Mirror online presence to FrogLog** and **Record games not in FrogLog** |
+| **Settings** | **Auto-submit sessions**, **Session message**, **Mirror online presence to FrogLog**, **Enable remote control from FrogLog** (pause and resume the session from FrogLog's [Quick Session](/library/sessions) bar, with a **Device name** to show there) and **Record games not in FrogLog** |
 | **Account** | Log out |
 
 Toasts tell you when tracking starts, when a session has been submitted, and when you're playing a game that isn't in your FrogLog yet.
