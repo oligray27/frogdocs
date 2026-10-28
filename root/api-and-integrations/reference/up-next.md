@@ -19,6 +19,7 @@ Your [Up Next](/library/up-next) wishlist. In the API it's called the **wishlist
 | `genre`, `dev`, `studio_country` | |
 | `rel_date`, `rel_date_category` | See [release date precision](/api-and-integrations/conventions) |
 | `steam_app_id`, `igdb_slug`, `igdb_id` | |
+| `steam_link_confirmed` | Whether you'll play it on Steam. Defaults to `true`. If `false`, `steam_app_id` only identifies the store page, and moving the item into your games won't mark it as played on Steam |
 | `sort_order` | Position in your list |
 | `is_public` | |
 | `created_at` | |

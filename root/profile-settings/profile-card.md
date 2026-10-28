@@ -33,3 +33,11 @@ Tick **Generate colours from banner image** to have FrogLog pick colours to matc
 ## Avatar Decoration
 
 Add a frame or effect around your profile photo. Open the **Avatar Decoration** menu, search or browse, and pick one. Choose **None** to remove it.
+
+### Steam avatar frames
+
+You can also use any of the avatar frames from the Steam Points Shop. Switch the menu to the left of the search box from **From Wumpus** (the Discord-style decorations) to **From The G-Man**, then search by the frame's name or its game, or open **All Frames** to browse, and pick one. You don't need to own the frame on Steam.
+
+Browsing, frames are grouped by game. **Your Games** comes first, with frames from games in your library that are linked to Steam, then **Events** (frames from Steam sales and events), then the rest of the games A to Z.
+
+Steam frames are square, so your profile photo shows as a square while one is on.

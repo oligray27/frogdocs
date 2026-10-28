@@ -105,6 +105,7 @@ Selecting a game shows its details card, with:
 - **Edit**, which opens the [edit form](/library/editing-games).
 - **Add Session**, **Quick Session** and **View Sessions** for games that use [sessions](/library/sessions).
 - A **Steam** or **IGDB** link to the game's store or database page.
+- **Play**, for games you play on Steam or have set up with **Launch via Steam** in the [edit form](/library/editing-games), which opens the game in Steam on your computer. See [Steam](/platforms/steam).
 
 ![A game's details card](/assets/fl-library/detailscard.webp)
 

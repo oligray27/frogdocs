@@ -60,6 +60,7 @@ Games linked to Steam show their achievements under **Trophies**, with the ones 
 ## Steam extras
 
 - Games linked to Steam show a **Steam** button on their details card, linking to the store page. **Profile > Settings > Social Visibility > Show Steam Links** controls whether other users see these links on your profile.
+- Games you play on Steam also get a **Play** button, which launches the game in Steam (or offers to install it). Your browser may ask to open Steam the first time. It only appears on your own games, on a computer: not on a phone or tablet, and not on games whose Steam link is only to the store page, like a non-Steam copy. To launch a game Steam doesn't sell, or one you've added to Steam as a non-Steam game, fill in **Launch via Steam** in its [edit form](/library/editing-games). Turn the button off with **Profile > Settings > Display & Layout > Steam Play Button**.
 - New games are given Steam's official artwork where it exists, even if you're adding them for another platform.
 
 ## Unlinking

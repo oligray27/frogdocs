@@ -66,7 +66,7 @@ The checkboxes at the top of **Configure...**:
 | **Auto-submit live service sessions** | Logs live service sessions without asking |
 | **Enable online presence on FrogLog** | Shows what you're playing in Online Now on the [Activity](/social/activity) page |
 | **Enable remote control from FrogLog** | Shows the game you're playing in FrogLog's [Quick Session](/library/sessions) bar, where you can pause and resume it from any device |
-| **Device name** | The name the Quick Session bar shows for this computer, e.g. "Tracked by LilyPad on Gaming PC". Leave blank for none. |
+| **Device name** | The name the Quick Session bar shows for this computer, e.g. "via Gaming PC". Leave blank for none. Each FrogLog account that logs in here has its own. |
 | **Detect games not in your FrogLog library** | Records Steam and watched-folder games you haven't added yet, under [New Games](/lilypad/new-games) |
 | **Check for LilyPad updates automatically** | Checks for new versions on start and once a day |
 
