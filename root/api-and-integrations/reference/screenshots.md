@@ -17,6 +17,7 @@ Screenshots on your games. Each game can have up to 10, and you can pin up to 10
 | `id` | |
 | `game_id` | The game's ID, which may be a regular or a live service game (see below) |
 | `game_title` | |
+| `game_is_public` | Whether the screenshot's game is public. Only screenshots of public games can be shared. |
 | `file_url` | Path to the image. Add it to `https://api.froglog.co.uk`, for example `https://api.froglog.co.uk/uploads/screenshots/…`. |
 | `caption` | |
 | `spoiler`, `nsfw` | |
@@ -71,7 +72,7 @@ Deletes a screenshot.
 
 ## Media Showcase
 
-The showcase holds pinned screenshots and clips in one order. Each item has a `kind`, `"screenshot"` or `"clip"`, and IDs are only unique within a kind. Screenshots have `file_url`; clips have `video_url`, `poster_url` and `name`. Both have `game_title`, `parent_title`, `caption`, `spoiler`, `nsfw`, `pin_order`, `like_count` and `liked_by_me`.
+The showcase holds pinned screenshots and clips in one order. Each item has a `kind`, `"screenshot"` or `"clip"`, and IDs are only unique within a kind. Screenshots have `file_url`; clips have `video_url`, `poster_url` and `name`. Both have `game_title`, `parent_title`, `game_is_public`, `caption`, `spoiler`, `nsfw`, `pin_order`, `like_count` and `liked_by_me`.
 
 | Endpoint | Does |
 |---|---|
