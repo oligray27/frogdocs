@@ -14,21 +14,38 @@ If you've played a lot on Steam, PlayStation or Xbox, importing your history is 
 
 ## Searching
 
+Before you type anything, the page shows rows of game covers:
+
+- **Recommended for You**: games like the ones you've rated highly or played a lot, especially recently, that aren't in your library or Up Next.
+- **What People You Follow Are Playing**: games people you follow have played in the last two weeks that aren't in your library yet. Their avatars show in the top-left corner of each cover. Only games and sessions they've made public count.
+- **Popular Right Now**: the most popular games released in the last three months, based on what IGDB users are viewing, playing and want to play.
+- **Coming Soon**: the most anticipated games due out in the next four months, in release order. **Add to Up Next** on one to keep track of it until it's out.
+
+If one of your own rows has nothing in it yet, for example because you haven't rated or played any games, it moves to the bottom of the page.
+
+Swipe a row on a phone, or use its arrows on a computer. Start typing to swap the rows for your search results, and clear the search box to bring them back.
+
 Type all or part of a game's title. Results come from FrogLog's own game index, which is built from IGDB, so they include console, PC and older games.
 
 If you know a game's Steam app id, you can search for it directly, for example `appid:524220`.
 
-Each result shows the game's cover, release date, genre and developer. It also shows:
+Search results and the rows above both show games as covers. Each cover has:
 
-- **Add to Up Next**, which adds the game to your [wishlist](/library/up-next) in one click. The button changes to **Added to Up Next** if it's already there.
-- **Add to Games**, which opens the **Add New Game** form.
-- A **Steam** or **IGDB** link to the game's store or database page.
+- **Add**, which opens the **Add New Game** form.
+- A clock button, which adds the game to your [Up Next](/library/up-next) list in one click. It shows a tick if the game is already there.
+- An info button, which opens the game's details.
+
+The details show the game's cover and description, with:
+
+- Its genre, developer and release date.
 - A **Metacritic** badge with the game's Metascore. If nobody has looked the game up before, it shows **Metascore** instead: click it to look the score up.
 - An **HLTB** badge. Click it to see how long the game usually takes, from [HowLongToBeat](https://howlongtobeat.com). If nobody has looked the game up before, it's fetched when you click, which can take a few seconds.
 - A **Played by** badge when people you follow have the game, the same as on a game's [details card](/library).
-- An expand button that shows the full description.
+- **Add to Up Next**, **Add to Games**, and a **Steam** or **IGDB** link to the game's store or database page.
 
-![A search result card, showing the Add to Up Next and Add to Games buttons](/assets/fl-library-adding-games/searchresultcard.webp){width=80%}
+> **[Screenshot]** Search results as cover tiles, with one game's details open showing its badges and the Add to Up Next, Add to Games and Steam buttons.
+
+If a search finds nothing, try a shorter title, or add the game yourself with **Add Custom Game (Mod/Fork)** (see below).
 
 ## The Add New Game form
 
