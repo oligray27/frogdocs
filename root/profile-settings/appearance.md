@@ -18,6 +18,7 @@ Choose a theme from **Appearance**. It changes the colours of the whole site.
 |---|---|
 | **Light** | FrogLog's standard light look |
 | **Dark** | FrogLog's standard dark look |
+| **OLED** | True black, with thin borders between surfaces |
 | **NieR:Automata** | Inspired by NieR:Automata |
 | **Frogboxd** | Inspired by Letterboxd |
 | **FrogLog 2077** | Inspired by Cyberpunk 2077 |
