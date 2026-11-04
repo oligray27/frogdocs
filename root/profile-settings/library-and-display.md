@@ -48,5 +48,8 @@ The Games and Live Service sorts are greyed out while Unify is on, and the merge
 | **HowLongToBeat** | Show / Hide | Shows the HLTB badge, with how long a game usually takes, on details cards and search results |
 | **HowLongToBeat on Live Service** | Show / Hide | The same for live service games. Greyed out while **HowLongToBeat** is hidden. |
 | **Metacritic** | Show / Click to Reveal / Hide | How the Metascore badge on details cards and search results works. **Click to Reveal**, the default, keeps the score hidden until you click the badge, so a low score isn't the first thing you see. **Show** puts the score on the badge. |
+| **Tablet Mode** | On / Off | Uses the tablet layout on a computer or large screen: the side menu in place of the top and bottom bars, with your library beside the details card. Unfolded phones and small tablets get this layout automatically. The window needs to be at least 680 pixels wide and 480 tall. |
+
+**Tablet Mode** only changes the device you set it on, so it can be on for one computer and off for another. Every other setting here applies to your whole account.
 
 To choose which pages are in the bottom bar on a phone, see **Bottom Navigation (Mobile)** in [Profile](/profile-settings/profile).

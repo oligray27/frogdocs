@@ -109,18 +109,21 @@ Your running session, or `{ "active": null }`.
 
 When nothing is running here but [LilyPad](/lilypad), or another tracker using [PUT /users/me/now-playing](/api-and-integrations/reference/users-and-profiles), is tracking a game, `tracker` describes it: `game_id`, `game_type`, `title`, `started_at` and `platform` (`"lilypad"`, or the name the tracker sends). Otherwise it's `null`. That session belongs to the tracker, which logs it itself, so it can't be paused or stopped through these endpoints.
 
+The response also has `cover_url`: the cover image of the game being played (its hero image if it has no cover), or `null` when nothing is running.
+
 When it comes from a LilyPad with **Enable remote control from FrogLog** on, `tracker` also has `status` (`"tracking"` or `"paused"`), `paused_at` and `paused_seconds` (the same meaning as on a Quick Session), and `device` (`id` and `name`, the computer it's running on). FrogLog's Quick Session bar uses these to pause and resume it.
 
 ```json
 {
   "active": { "game_type": "game", "game_id": 12, "title": "Hades II", "session_tracking": true, "started_at": "2026-10-02T18:00:00.000Z", "source": "manual", "paused_at": null, "paused_seconds": 0 },
-  "tracker": null
+  "tracker": null,
+  "cover_url": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co2jm4.jpg"
 }
 ```
 
 ### GET /live-session/last-played
 
-The game you played most recently, as `{ "game": { "game_type", "game_id", "title" } }`, or `{ "game": null }`. Useful for a one-tap "carry on where I left off" button.
+The game you played most recently, as `{ "game": { "game_type", "game_id", "title", "last_session_hours", "cover_url" } }`, or `{ "game": null }`. `last_session_hours` is the length of that game's latest logged session, or `null` if it has none, and `cover_url` is the game's cover image (its hero image if it has no cover), or `null`. Useful for a one-tap "carry on where I left off" button.
 
 ### POST /live-session/start
 
