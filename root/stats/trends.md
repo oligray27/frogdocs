@@ -26,7 +26,7 @@ Click **Chart Settings** to open the settings drawer. Make your changes, then cl
 ### Chart Type
 
 - **Time**: a line chart over a period of time.
-- **Bar**: one bar per pen, showing all-time **Total Hours**.
+- **Bar**: one bar per pen, showing all-time **Total Hours**, with the total under it. Querying by User, each bar is stacked from that person's twelve biggest games and **Other** (the rest). Each game keeps one colour across everyone's bars, sections big enough show the game's name, and hovering a section shows that game's hours, the total and its share. Querying by Game, each bar is that game.
 
 ### Pens
 
