@@ -38,12 +38,13 @@ Returns an array of results, best match first. An empty `q` returns `[]`.
     "genres": [{ "id": 12, "name": "Role-playing (RPG)" }],
     "platforms": [{ "platform": { "id": 6, "name": "PC (Microsoft Windows)" } }],
     "released": "2020-09-17",
-    "rel_date_category": 0
+    "rel_date_category": 0,
+    "steam_tags": [{ "id": 1716, "name": "Roguelike" }]
   }
 ]
 ```
 
-`id` is the game's IGDB ID.
+`id` is the game's IGDB ID. `steam_tags` is up to ten of the game's Steam user tags, as on [Games](/api-and-integrations/reference/games), or `[]`.
 
 ## GET /search/fetch
 
