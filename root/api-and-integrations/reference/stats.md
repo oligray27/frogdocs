@@ -25,7 +25,7 @@ The response is large. The main parts:
 | `totalHours` | Hours across your games |
 | `avgRating`, `ratedCount` | Average rating (0–100) and how many games are rated |
 | `statusCounts` | `{ completed, inProgress, dnf, dormant, notStarted }` |
-| `topPlatforms`, `topDevelopers`, `topCountries`, `topGenres` | Top lists (see below) |
+| `topPlatforms`, `topDevelopers`, `topCountries`, `topGenres`, `topTags` | Top lists (see below). `topTags` counts each game under its top ten descriptive Steam tags, up to 100 tags. |
 | `availableYears` | Years you can pass as `year` |
 | `thisMonth`, `thisYear` | `{ total, completed, hours }` for games started recently. Only without `year`. |
 | `sessionHeatmap` | One entry per day with play: `{ day, hours, sessions }` |

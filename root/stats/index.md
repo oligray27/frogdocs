@@ -71,6 +71,8 @@ How many games you finished each month (for a single year) or each year (for All
 
 Four lists show where your games come from: **Platforms**, **Developers**, **Countries of Origin** and **Genres**. Each shows its top five, with the number of games and a percentage.
 
+A fifth list, **Steam Tags**, counts your games by the tags Steam players have given them, such as Farming Sim, Roguelite or Open World. These are finer than genres. Each game counts under its top ten tags, leaving out ones about how a game is played or sold (Singleplayer, Co-op, Indie, Free to Play and so on). Only games FrogLog can match to Steam have tags, and the list doesn't show if none of yours do. Tags come from Steam and can't be edited; your genres are unchanged.
+
 - **Table** / **Chart** switches between a list and a bar chart. FrogLog remembers your choice for each list.
 - **Show all** lists everything, not just the top five.
 - The expand button opens the list in a larger window, where you can also **exclude** values. For example, exclude "Indie" from Genres to see what else you play most. Percentages still include the excluded values. Exclusions reset when you leave the page.

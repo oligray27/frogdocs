@@ -26,7 +26,7 @@ Click **Chart Settings** to open the settings drawer. Make your changes, then cl
 ### Chart Type
 
 - **Time**: a line chart over a period of time.
-- **Bar**: one bar per line, showing all-time **Total Hours**.
+- **Bar**: one bar per pen, showing all-time **Total Hours**.
 
 ### Pens
 
@@ -39,10 +39,15 @@ For each pen, choose:
    - **Hours Played**: hours per day
    - **Sessions Count**: sessions per day
    - **Cumulative Hours**: a running total
-   - **Hours in Genre**: hours per day in one genre you pick
-   - **Hours on Platform**: hours per day on one platform you pick
+   - **Hours in Genre**: hours per day in games with any of the genres you tick
+   - **Hours on Platform**: hours per day on any of the platforms you tick
+   - **Hours with Steam Tag**: hours per day in games with any of the Steam tags you tick (see [Stats](/stats))
+
+   You can tick up to ten values for each. A game that has more than one of them counts its time once. Long lists have a search box at the bottom.
 
    When querying by Game, the choices are **Hours Played**, **Sessions Count** and **Cumulative Hours** for that game.
+
+   On a **Bar** chart, querying by User, the choices are **Total Hours (All Games)**, **Total Hours in Genre**, **Total Hours with Steam Tag** and **Total Hours on Platform**, with the same ticking and search. Querying by Game, a bar is always that game's Total Hours.
 
 Platforms marked with an asterisk, such as **PlayStation\* (any)**, combine every version of that platform, for example PS4 and PS5 together.
 

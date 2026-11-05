@@ -44,6 +44,7 @@ Your library of regular games. For live service games, see [Live Service](/api-a
 | `last_session_logged_at` | When the most recent session was logged, as a full timestamp. Use it to order games played on the same day. |
 | `like_count`, `liked_by_me`, `review_like_count`, `review_liked_by_me` | Likes on the game and its review |
 | `screenshot_count` | |
+| `steam_tags` | Up to ten of the game's Steam user tags, strongest first, as `{ id, name }`, leaving out ones about how a game is played or sold (Singleplayer, Co-op, Indie, Free to Play and so on). `[]` when the game has no Steam match. Read-only: genre is separate and unchanged. |
 
 ---
 
