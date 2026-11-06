@@ -71,11 +71,14 @@ How many games you finished each month (for a single year) or each year (for All
 
 Four lists show where your games come from: **Platforms**, **Developers**, **Countries of Origin** and **Genres**. Each shows its top five, with the number of games and a percentage, then the hours and their share of your total hours.
 
-A fifth list, **Steam Tags**, counts your games by the tags Steam players have given them, such as Farming Sim, Roguelite or Open World. These are finer than genres. Each game counts under its top ten tags, and a tag's percentage is its share of your games that have tags, leaving out ones about how a game is played or sold (Singleplayer, Co-op, Indie, Free to Play and so on). Only games FrogLog can match to Steam have tags, and the list doesn't show if none of yours do. Tags come from Steam and can't be edited; your genres are unchanged. The Steam Tags list also has a **Search tags** box beside the exclude box: choose one or more tags and the list shows just those. Its exclude box suggests the broad tags (Action, Adventure, Casual, RPG, Strategy, Simulation) that sit on most games.
+A fifth list, **Tags**, counts your games by the tags Steam players have given them, such as Farming Sim, Roguelite or Open World. These are finer than genres. Each game counts under its top ten tags, and a tag's percentage is its share of your games that have tags, leaving out ones about how a game is played or sold (Singleplayer, Co-op, Indie, Free to Play and so on). Only games FrogLog can match to Steam have tags, and the list doesn't show if none of yours do. Tags come from Steam and can't be edited; your genres are unchanged. The **?** beside the title explains where they come from (Genres has one too). The Tags exclude box suggests the broad tags (Action, Adventure, Casual, RPG, Strategy, Simulation) that sit on most games.
 
 - **Table** / **Chart** switches between a list and a bar chart. FrogLog remembers your choice for each list.
+- The sort button orders the list by **Most games** or **Most hours**. Sorted by hours, the chart shows hours too. FrogLog remembers this for each list as well.
 - **Show all** lists everything, not just the top five.
-- The expand button opens the list in a larger window, where you can also **exclude** values. For example, exclude "Indie" from Genres to see what else you play most. Percentages still include the excluded values. Exclusions reset when you leave the page.
+- The **Search** box shows only the values you choose, for example just Roguelike and Deckbuilding in Tags.
+- The **Excluded** box hides values. For example, exclude "Indie" from Genres to see what else you play most. Percentages still include the excluded values.
+- Searches and exclusions reset when you leave the page. In Chart view, the expand button opens the chart in a larger window with the same boxes.
 
 ![The Genres top list as a bar chart, with the exclude box open](/assets/fl-stats/chartexlclude.webp){width=50%}
 

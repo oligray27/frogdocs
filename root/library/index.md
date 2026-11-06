@@ -63,7 +63,7 @@ Type in the **Search games...** box to narrow the list by title.
 - **Status**: Completed, In Progress, Dormant, DNF or Not Started
 - **Rating**: one to five stars
 - **Release Year** and **Hours Played**: drag the slider to set a range
-- **Platform**, **Genre**, **Steam Tag**, **Developer** and **Country**: type to pick one or more. Steam Tag matches a game's top tags from Steam, so it only lists tags your games have.
+- **Platform**, **Genre**, **Tag**, **Developer** and **Country**: type to pick one or more. Tag matches a game's top tags from Steam, so it only lists tags your games have.
 
 **Clear All** resets every filter. If nothing matches, the table says so and offers a **Clear filters** button.
 
