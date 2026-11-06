@@ -22,7 +22,7 @@ If you appear offline or invisible on Steam, FrogLog can't see what you're playi
 
 ## Linking
 
-You can link Steam when you sign up, with **Sign Up with Steam** (see [Getting Started](/getting-started)), or at any time afterwards:
+Link Steam from the setup guide's **Imports & tracking** step, or at any time afterwards:
 
 1. Open your **Profile** and click **Link Steam**.
 2. Sign in on Steam's own page and confirm. FrogLog never sees your Steam password.
@@ -35,17 +35,13 @@ You can link Steam when you sign up, with **Sign Up with Steam** (see [Getting S
 3. Start the import. Large libraries can take a minute while FrogLog looks up each game.
 4. If any games are already in your library, choose what to do with each. See [Importing](/platforms).
 
-When it's done, FrogLog shows how many games were imported. Click **View Games** to see them.
-
-Signing up with Steam and ticking **Import my Steam Library** does the same thing.
+When it's done, FrogLog shows how many games were imported. Click **View Games** to see them. An import started from the setup guide says **Continue setup** instead, and returns you to the guide.
 
 ![The Import From Steam dialog](/assets/fl-platforms-steam/importfromsteam.webp){width=65%}
 
 ## Automatic tracking
 
-Turn on **Automatic Steam Session Tracking** in **Profile > Settings > Autonomous Tracking > Steam**. FrogLog then logs a session whenever you play a game on Steam, and adds games you haven't logged yet. See [How it works](/platforms).
-
-Signing up with Steam and ticking **Mirror my Steam activity on FrogLog** turns this on for you.
+Turn on **Automatic Steam Session Tracking** in **Profile > Settings > Autonomous Tracking > Steam**, or from the setup guide's **Imports & tracking** step. FrogLog then logs a session whenever you play a game on Steam, and adds games you haven't logged yet. See [How it works](/platforms).
 
 To show what you're playing without logging sessions, use **Mirror Steam In-Game Presence to FrogLog** instead.
 
@@ -60,6 +56,7 @@ Games linked to Steam show their achievements under **Trophies**, with the ones 
 ## Steam extras
 
 - Games linked to Steam show a **Steam** button on their details card, linking to the store page. **Profile > Settings > Social Visibility > Show Steam Links** controls whether other users see these links on your profile.
+- Games you play on Steam also get a **Play** button on a computer, which launches the game in Steam (or offers to install it). Your browser may ask to open Steam the first time. It only appears on your own games, not on a phone or tablet (the Android app has **Play on PC** instead), and not on games whose Steam link is only to the store page, like a non-Steam copy. Turn it off with **Profile > Settings > Display & Layout > Steam Play Button**.
 - To start a game on your PC from the Android app with **Play on PC**, FrogLog uses the game's Steam link. For a game Steam doesn't sell, or one you've added to Steam as a non-Steam game, set what LilyPad should run in its **Remote launch command** row on the PC (open the game's row in LilyPad's Games table and click the phone icon).
 - New games are given Steam's official artwork where it exists, even if you're adding them for another platform.
 

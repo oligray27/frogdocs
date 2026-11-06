@@ -13,40 +13,32 @@ This guide takes you from a new account to your first logged game.
 
 ## Create an account
 
-Go to [froglog.co.uk](https://froglog.co.uk) and click **Create Account**. There are two ways to sign up.
+Go to [froglog.co.uk](https://froglog.co.uk) and click **Create Account**.
 
-![The Create an account form, showing the Sign Up and Sign Up with Steam buttons](/assets/fl-getting-started/signup.webp){width=30%}
-
-### Sign up normally
+![The Create an account form](/assets/fl-getting-started/signup.webp){width=30%}
 
 1. Enter a username and password, then confirm the password.
 2. Click **Sign Up**.
 
-Your username is visible to other FrogLog users.
+Your username is visible to other FrogLog users. Steam, PlayStation, Xbox and Nintendo Switch are linked afterwards, in the setup guide.
 
-### Sign up with Steam
+## The setup guide
 
-If you play on Steam, this is the fastest way to fill your library.
+Right after you sign up, FrogLog walks you through a short setup guide. Every step can be changed later in Settings, and you can **Skip setup** at any point.
 
-1. Click **Sign Up with Steam** and sign in on Steam's own page. FrogLog never sees your Steam password.
-2. Back on FrogLog, your Steam name is filled in as your username. You can change it.
-3. Choose a password for your FrogLog account.
-4. Choose what to turn on:
-   - **Import my Steam Library** adds the games you've played on Steam to your FrogLog, with their hours.
-   - **Mirror my Steam activity on FrogLog** records your sessions automatically whenever you play on Steam.
-5. Click **Sign Up**.
+1. **Appearance:** pick a theme, choose whether to use the widescreen layout, and set your profile photo, background and bio.
+2. **Profile card:** your favourite games, theme audio, banner, profile colours and avatar decoration.
+3. **Your library:** unify Games and Live Service, the default table layout, rating mode, grouping replays, and whether your own actions show in your Activity.
+4. **Integrations:** HowLongToBeat, Metacritic, Steam title images, the Steam Play button and Steam store links.
+5. **Privacy & social:** whether your profile can be seen outside FrogLog, whether your theme and background are public, whether you see other people's themes and backgrounds, and whether their theme audio plays.
+6. **Imports & tracking:** link Steam, PlayStation, Xbox or Nintendo Switch, import your library, turn on automatic tracking and enable notifications.
+7. **Showcases:** an example of the pinned badges, trophies and media on your profile card. You pin your own later in Settings.
 
-![The sign-up form after Steam verification, with the Import my Steam Library and Mirror my Steam activity checkboxes](/assets/fl-getting-started/steamsignup.webp){width=60%}
-
-For the import and tracking to work, your Steam profile's game details must be public:
-
-1. On your Steam profile, click **Edit Profile**.
-2. Open the **Privacy Settings** tab.
-3. Set **Game details** to **Public**.
+You can run it again any time from **Profile > Settings > Logout & Other > Run Setup Guide**.
 
 ## Your empty FrogLog
 
-A new account opens on the **Games** page with the message "Your FrogLog is empty!" and three ways to get started:
+Once the setup guide is done (or skipped), a new account opens on the **Games** page with the message "Your FrogLog is empty!" and three ways to get started:
 
 ![The Games page for a new account, showing the "Your FrogLog is empty!" message and its three buttons](/assets/fl-getting-started/emtpylog.webp)
 
