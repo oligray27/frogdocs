@@ -79,6 +79,8 @@ Clears your presence, unless a Quick Session or automatic tracking session is ru
 | `GET /users/:username/lists` | Their public lists |
 | `GET /users/:username/lists/:id` | One public list, with `members` |
 
+`GET /users/public` is the signed-out directory: the same rows as the Discover tab, but only for people who have turned on [Profile Visible Outside FrogLog](/social/privacy), whoever is asking. It takes `q`, `limit` (up to 60) and `offset`, and returns `{ users, has_more }`. It needs no token, never includes online status, and is rate-limited per IP address like the other requests without a token.
+
 If someone has hidden their online status and sessions from you, their session fields come back empty.
 
 All of these except `GET /users` also work without a token, but only for people who have turned on [Profile Visible Outside FrogLog](/social/privacy). Anyone else is a `404`. Without a token, `now_playing` and `last_seen_at` are always empty, `liked_by_me` is always `false`, and `compareAs` on a list is ignored. Requests without a token are rate-limited per IP address.
