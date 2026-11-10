@@ -25,6 +25,12 @@ Up Next keeps whatever order you put it in, so you can use it as a play queue.
 
 Your order is the default sort, shown as **Custom order** in the toolbar's sort menu. You can also sort by **Title**, **Release date** or **Date added**, and the arrow button next to the menu flips the direction. Clicking **Reorder** switches back to **Custom order**.
 
+## Sharing your list
+
+Your Up Next list is private by default. To let other people see it, set **Profile > Settings > Social Visibility > Make Up Next Public** to **Public**.
+
+Anyone who can see your profile then gets an **Up Next** tab on it, showing your list in your order. Signed-in visitors can add a game from it to their own Up Next or library. When you add a game, it also shows in their [Activity](/social/activity) feed as **Added to wishlist**. Set it back to **Private** and the tab empties and those entries stop showing. [Invisible To](/social/privacy) still applies.
+
 ## Starting a game
 
 When you start playing something on your list:

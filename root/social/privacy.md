@@ -56,3 +56,4 @@ These settings in **Profile > Settings > Social Visibility** control whether oth
 | **Make Theme Public** | Whether people visiting your profile see your theme |
 | **Make Custom Background Public** | Whether people visiting your profile see your custom background |
 | **Show Steam Links** | Whether your games show links to their Steam store pages |
+| **Make Up Next Public** | Whether people who can see your profile can view your [Up Next](/library/up-next) list, and see when you add to it in their Activity feed. Private by default |

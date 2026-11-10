@@ -31,7 +31,7 @@ The **Feed** lists recent activity, newest first, with who did it and when:
 - **Gave up on a game** (DNF)
 - **Wrote a review**
 - **Logged a session**
-- **Added to wishlist** (Up Next)
+- **Added to wishlist** (Up Next), only for people who have made their Up Next list public
 - **Created a list**
 
 Use the two filters at the top to narrow it to particular people (**All users**) or particular kinds of activity (**All activity types**). The clear button resets both.

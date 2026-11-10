@@ -22,6 +22,8 @@ LilyPad is FrogLog's companion app for PC and Steam Deck. It notices when you st
 
 All three work the same way and log into the same FrogLog account.
 
+With the [Android app](/android-app), your phone can also start games on a PC running LilyPad, over your home network. You'll need LilyPad 0.6.7 or later.
+
 ## How it works
 
 1. **Log in** with your FrogLog username and password. LilyPad then sits in your system tray.

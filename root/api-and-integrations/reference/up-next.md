@@ -31,6 +31,10 @@ Your [Up Next](/library/up-next) wishlist. In the API it's called the **wishlist
 
 Your list, in your order.
 
+## GET /wishlist/user/:username
+
+Another user's list, in their order. Works without a key for profiles that are visible to you. Returns `{ "is_public": true, "items": [...] }`, or `{ "is_public": false, "items": [] }` when they haven't turned on **Make Up Next Public**. You always see your own. Each item has `id`, `title`, `description`, `img`, `cover_image`, `genre`, `dev`, `studio_country`, `rel_date`, `rel_date_category`, `steam_app_id`, `igdb_slug`, `igdb_id`, `created_at` and `steam_tags`. A profile you can't see returns `404`.
+
 ## POST /wishlist
 
 Adds a game to the top of the list. Send `title` and any other fields above. Returns the new item.
