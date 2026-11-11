@@ -17,6 +17,7 @@ Every game on FrogLog has its own page, shared by everyone. It shows the game's 
 - Click a game's cover on the **Search** page, or in **Games Like This** on another game's page.
 - Click **⋯** in a game's details, then **Game Page**. This works on your own games, someone else's, and your [Up Next](/library/up-next) list.
 - On the [Activity](/social/activity) page, click a game in **New From Friends**, or a game's name in the feed.
+- Without an account, click **Games** at the top of the FrogLog home page. It has the same search, with **Top on FrogLog**, **Popular Right Now** and **Coming Soon** rows, and every cover opens its game page.
 
 You don't need to be logged in to see a game page. Visitors who aren't logged in only see people who have chosen to share their profile outside FrogLog (see [Privacy](/social/privacy)).
 

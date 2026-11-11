@@ -46,6 +46,22 @@ Returns an array of results, best match first. An empty `q` returns `[]`.
 
 `id` is the game's IGDB ID. `steam_tags` is up to ten of the game's Steam user tags, as on [Games](/api-and-integrations/reference/games), or `[]`.
 
+## GET /search/public
+
+The same search without signing in, as used by the public Games page. It takes the same `q` and returns the same results, but is limited to 60 searches per 15 minutes from one address (`429` after that).
+
+## GET /search/public/discover/:section
+
+A row of games anyone can see, in the same shape as search results. Needs no sign-in. `section` is one of:
+
+| Section | Games |
+|---|---|
+| `frogrank` | FrogLog's top 20 games by [FrogRank](/social/game-pages) |
+| `popular` | Popular right now on IGDB |
+| `upcoming` | Coming soon |
+
+`404` for any other section.
+
 ## GET /search/fetch
 
 | Query | Notes |
