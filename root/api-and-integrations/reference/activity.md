@@ -71,9 +71,11 @@ New From Friends: up to 9 games the people you follow have started or played in 
 
 ```json
 [
-  { "title": "Hades II", "img": "https://…", "playerCount": 2, "players": [{ "username": "alex", "displayUsername": "Alex", "avatarUrl": null }] }
+  { "title": "Hades II", "img": "https://…", "igdbId": 278156, "inGames": false, "inUpNext": true, "playerCount": 2, "players": [{ "username": "alex", "displayUsername": "Alex", "avatarUrl": null }] }
 ]
 ```
+
+`igdbId` is null for a game with no IGDB match. `inGames` and `inUpNext` say whether the game is already in your own Games (or Live Service) and Up Next.
 
 ## GET /activity/highlights
 

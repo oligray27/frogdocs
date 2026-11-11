@@ -55,7 +55,7 @@ Games linked to Steam show their achievements under **Trophies**, with the ones 
 
 ## Steam extras
 
-- Games linked to Steam show a **Steam** button on their details card, linking to the store page. **Profile > Settings > Social Visibility > Show Steam Links** controls whether other users see these links on your profile.
+- Games linked to Steam have **View on Steam** in the **⋯** menu on their details card, linking to the store page. **Profile > Settings > Social Visibility > Show Steam Links** controls whether other users see these links on your profile.
 - Games you play on Steam also get a **Play** button on a computer, which launches the game in Steam (or offers to install it). Your browser may ask to open Steam the first time. It only appears on your own games, not on a phone or tablet (the Android app has **Play on PC** instead), and not on games whose Steam link is only to the store page, like a non-Steam copy. Turn it off with **Profile > Settings > Display & Layout > Steam Play Button**.
 - To start a game on your PC from the Android app with **Play on PC**, FrogLog uses the game's Steam link. For a game Steam doesn't sell, or one you've added to Steam as a non-Steam game, set what LilyPad should run in its **Remote launch command** row on the PC (open the game's row in LilyPad's Games table and click the phone icon).
 - New games are given Steam's official artwork where it exists, even if you're adding them for another platform.

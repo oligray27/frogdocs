@@ -49,7 +49,9 @@ Click the gear again when you're done.
 
 Covers are dimmed for games you haven't played, and show your avatar on the ones you have. The badge next to the list's name shows your played count.
 
-If a game in a list doesn't count as played even though you have it, FrogLog hasn't matched it to your library, usually because the titles differ. Click the wand button (**Fix Match**) on its cover and pick the right game from your library. To undo a manual match, click the **X** in the same place.
+Click a game you have to open it in your Games (hover over it for a button to its [game page](/social/game-pages)), or any other game to open its game page. Hover over a game you don't have (on a phone, look in its top corner) for **+** to add it to your Games and the clock button to add it to [Up Next](/library/up-next).
+
+If a game in someone else's list doesn't count as played even though you have it, FrogLog hasn't matched it to your library, usually because the titles differ. Hover over its cover, click the wand button (**Fix Match**) and pick the right game from your library. To undo a manual match, click the **X** in the same place.
 
 ## Comparing with someone else
 

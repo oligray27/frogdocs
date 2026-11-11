@@ -83,4 +83,4 @@ There are a few secrets hidden around FrogLog for you to find, and Highlights is
 
 ### New From Friends
 
-Under the highlights, **New From Friends** shows games the people you follow have started or played in the last 7 days, with their avatars. Use the arrows to scroll through, and click a game to open its [game page](/social/game-pages). If you don't follow anyone, this shows **New from You** instead.
+Under the highlights, **New From Friends** shows games the people you follow have started or played in the last 7 days, with their avatars. Use the arrows to scroll through, and click a game to open its [game page](/social/game-pages). Hover over a game that isn't in your Games (on a phone, look in its top corner) for **+** to add it and the clock button to add it to [Up Next](/library/up-next). If you don't follow anyone, this shows **New from You** instead.

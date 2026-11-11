@@ -105,7 +105,7 @@ Click **Forgot password?** on the sign-in page and enter one of the recovery cod
 
 ### How do I report someone?
 
-Use the flag button in the top right corner of their card on the Users page, or on their game, list, screenshot or clip. See [Reporting someone](/social/privacy#reporting-someone).
+Use the flag button in the top right corner of their card on the Users page, or on their list, screenshot or clip. For a game, click **⋯** in its details, then **Report**. See [Reporting someone](/social/privacy#reporting-someone).
 
 ### How do I get a copy of my data?
 

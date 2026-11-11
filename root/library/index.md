@@ -40,7 +40,7 @@ The **Games** and **Live Service** tabs at the top switch between your regular g
 Use the two layout buttons in the toolbar to switch between them:
 
 - **Table view** shows one row per game, with columns for hours, rating, status and dates.
-- **Grid view** shows cover art only. A slider sets how many covers fit on each row, and a dropdown sets the sort order.
+- **Grid view** shows cover art only. A slider sets how many covers fit on each row, and a dropdown sets the sort order. Click a cover to open the game's details. Hover over a cover (on a phone, look in its top corner) for buttons to start a **Quick Session**, **Edit** the game or open its [game page](/social/game-pages).
 
 You can choose which layout the Games page opens in under **Profile > Settings > Library Defaults > Default Table Layout**.
 
@@ -105,7 +105,11 @@ Selecting a game shows its details card, with:
 - **Trophies** and **Screenshots** buttons, when the game has them.
 - **Edit**, which opens the [edit form](/library/editing-games).
 - **Add Session**, **Quick Session** and **View Sessions** for games that use [sessions](/library/sessions).
-- A **Steam** or **IGDB** link to the game's store or database page.
+- A **⋯** button with more options:
+  - **Game Page** opens the game's [page](/social/game-pages).
+  - **Share** shares a link to the game.
+  - **View on Steam** or **View on IGDB** opens the game's store or database page.
+  - On someone else's game, **Report**.
 
 ![A game's details card](/assets/fl-library/detailscard.webp)
 

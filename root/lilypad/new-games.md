@@ -33,7 +33,7 @@ Adds the game to your FrogLog, with all its recorded sessions.
 
 LilyPad looks the game up and suggests a match. Click **Create** to accept it, or **Search Manually Instead** to search yourself. You can search by title, or by Steam app id, for example `appid:12345`. Pick the right result and click **Use Selected**.
 
-A game from one of your Non-Steam Games folders is added with the platform **PC (Non-Steam)** and trophies off. If the game is also sold on Steam, it still gets a **Steam** button linking to its store page, but it isn't counted as a Steam game. It becomes one if Steam auto-tracking sees you play it, if you import your Steam library with it in, or if you add **Steam** to its platforms in the edit form.
+A game from one of your Non-Steam Games folders is added with the platform **PC (Non-Steam)** and trophies off. If the game is also sold on Steam, it still gets a **View on Steam** link to its store page, but it isn't counted as a Steam game. It becomes one if Steam auto-tracking sees you play it, if you import your Steam library with it in, or if you add **Steam** to its platforms in the edit form.
 
 ### Map to Existing
 

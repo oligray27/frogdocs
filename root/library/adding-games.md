@@ -8,7 +8,9 @@ leafwiki_last_author_id: system
 ---
 # Adding Games
 
-Most games are added from **Search**. On a phone it's called **Add New** in the bottom bar.
+Most games are added from **Search**. It's called **Add New** in the navbar and bottom bar, and **Add New / Browse** in the phone menu.
+
+On a computer you can also search from any page: click the magnifying glass in the navbar to open a search box. Results drop down under it: click one to open its [game page](/social/game-pages), use **+** or the clock button to add it to your Games or [Up Next](/library/up-next), or press Enter (or click **See all results**) to open the full results on the Search page.
 
 If you've played a lot on Steam, PlayStation or Xbox, importing your history is quicker than adding games one at a time. See [Getting Started](/getting-started) for how to link a platform and import.
 
