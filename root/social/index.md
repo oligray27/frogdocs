@@ -14,6 +14,7 @@ FrogLog is more fun with friends. Follow people to see what they're playing, bro
 This section covers:
 
 - [Activity](/social/activity): what the people you follow have been up to
+- [Game Pages](/social/game-pages): every game's own page, with everyone who's played it
 - [Likes](/social/likes): liking games, sessions, reviews, screenshots and lists
 - [Notifications](/social/notifications): the bell and your Inbox
 - [Privacy](/social/privacy): what other people can see, and hiding from specific users

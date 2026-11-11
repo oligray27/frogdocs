@@ -29,21 +29,16 @@ Type all or part of a game's title. Results come from FrogLog's own game index, 
 
 If you know a game's Steam app id, you can search for it directly, for example `appid:524220`.
 
-Search results and the rows above both show games as covers. Each cover has:
+Search results and the rows above both show games as covers. Click a cover to open the game's [game page](/social/game-pages), with its details, who on FrogLog has played it, reviews, screenshots and more.
 
-- **Add**, which opens the **Add New Game** form.
+Hover over a cover for two buttons in its top corner. On a phone they're always there.
+
+- **+**, which opens the **Add New Game** form. It shows a tick once you've added the game.
 - A clock button, which adds the game to your [Up Next](/library/up-next) list in one click. It shows a tick if the game is already there.
-- An info button, which opens the game's details.
 
-The details show the game's cover and description, with:
+> **[Screenshot]** Search results as cover tiles, with one cover highlighted and its + and Up Next buttons showing.
 
-- Its genre, developer and release date.
-- A **Metacritic** badge with the game's Metascore. If nobody has looked the game up before, it shows **Metascore** instead: click it to look the score up.
-- An **HLTB** badge. Click it to see how long the game usually takes, from [HowLongToBeat](https://howlongtobeat.com). If nobody has looked the game up before, it's fetched when you click, which can take a few seconds.
-- A **Played by** badge when people you follow have the game, the same as on a game's [details card](/library).
-- **Add to Up Next**, **Add to Games**, and a **Steam** or **IGDB** link to the game's store or database page.
-
-> **[Screenshot]** Search results as cover tiles, with one game's details open showing its badges and the Add to Up Next, Add to Games and Steam buttons.
+Going back to Search from a game page shows the same results, scrolled to where you were.
 
 If a search finds nothing, try a shorter title, or add the game yourself with **Add Custom Game (Mod/Fork)** (see below).
 

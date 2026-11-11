@@ -19,6 +19,7 @@ Go to [froglog.co.uk](https://froglog.co.uk) and click **Create Account**.
 
 1. Enter a username and password, then confirm the password.
 2. Click **Sign Up**.
+3. Save your recovery codes with **Copy** or **Download**, tick **I've saved these codes**, and click **Continue**. FrogLog doesn't ask for your email, so these codes are the only way to get back in if you forget your password. See [Recovery Codes](/profile-settings/account#recovery-codes).
 
 Your username is visible to other FrogLog users. Steam, PlayStation, Xbox and Nintendo Switch are linked afterwards, in the setup guide.
 

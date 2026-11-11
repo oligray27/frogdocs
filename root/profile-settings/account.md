@@ -8,11 +8,27 @@ leafwiki_last_author_id: system
 ---
 # Account
 
-The **Logout & Other** section of your settings has three buttons.
+The **Logout & Other** section of your settings is where you log out, export your data, manage your recovery codes, or delete your account.
 
 ## Logout
 
 Logs you out on this device. Your other devices stay logged in.
+
+## Recovery Codes
+
+FrogLog doesn't ask for your email, so recovery codes are the only way back into your account if you forget your password. You get 8 when you sign up, and each one works once.
+
+Click **Recovery Codes** to see how many you have left. To make a new set, enter your **Current Password** and click **Replace Codes** (or **Make Codes** if you don't have any yet). Your old codes stop working straight away. Use **Copy** or **Download** to save the new ones somewhere safe, like a password manager, because they won't be shown again.
+
+If your account has no recovery codes left (or never had any, because it was made before they were added), FrogLog asks you to set some up when you open the site. Click **Set Up Now** to make them there and then, **Not Now** to be asked again next time, or **Don't ask again**.
+
+### Using a recovery code
+
+1. On the sign-in page, click **Forgot password?**
+2. Enter your **Username**, one of your recovery codes, and a new password twice.
+3. Click **Set New Password**.
+
+You're signed in with the new password, and FrogLog tells you how many codes you have left. That code can't be used again.
 
 ## Export Data
 

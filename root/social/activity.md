@@ -36,6 +36,8 @@ The **Feed** lists recent activity, newest first, with who did it and when:
 
 Use the two filters at the top to narrow it to particular people (**All users**) or particular kinds of activity (**All activity types**). The clear button resets both.
 
+Click a game's name to open its [game page](/social/game-pages), or anywhere else on the row to open the entry it's about, such as the game in that person's FrogLog or their list. Click a person's name to see their profile card.
+
 You can [like](/social/likes) sessions straight from the feed.
 
 Your own activity is included. To see only other people's, set **Profile > Settings > Social Visibility > Show My Own Activity** to **Hide**.
@@ -81,4 +83,4 @@ There are a few secrets hidden around FrogLog for you to find, and Highlights is
 
 ### New From Friends
 
-Under the highlights, **New From Friends** shows games the people you follow have started or played in the last 7 days, with their avatars. Use the arrows to scroll through. If you don't follow anyone, this shows **New from You** instead.
+Under the highlights, **New From Friends** shows games the people you follow have started or played in the last 7 days, with their avatars. Use the arrows to scroll through, and click a game to open its [game page](/social/game-pages). If you don't follow anyone, this shows **New from You** instead.

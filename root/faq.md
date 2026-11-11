@@ -99,6 +99,14 @@ By default, everyone on FrogLog. You can make individual games, sessions and lis
 
 Custom backgrounds only show on desktop, so the button is greyed out on phones. See [Appearance](/profile-settings/appearance).
 
+### I forgot my password
+
+Click **Forgot password?** on the sign-in page and enter one of the recovery codes you saved when you signed up. FrogLog doesn't have your email, so without a code it can't reset your password for you. If you're still signed in somewhere, make a fresh set of codes now in **Profile > Settings > Logout & Other**. See [Recovery Codes](/profile-settings/account#recovery-codes).
+
+### How do I report someone?
+
+Use the flag button in the top right corner of their card on the Users page, or on their game, list, screenshot or clip. See [Reporting someone](/social/privacy#reporting-someone).
+
 ### How do I get a copy of my data?
 
 Use **Export Data** in **Profile > Settings > Logout & Other**. See [Account](/profile-settings/account).

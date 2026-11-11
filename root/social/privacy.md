@@ -49,6 +49,21 @@ People aren't told when you add them. If you're invisible to someone, following 
 
 ![The Invisible To setting, with one user added in Online & Sessions mode](/assets/fl-social-privacy/invisibleto.webp){width=60%}
 
+## Reporting someone
+
+If someone's profile, game, review, session note, list, screenshot or clip breaks the rules (spam, harassment, explicit content, unmarked spoilers, impersonation), you can report it to FrogLog's admins. You need to be logged in.
+
+- **A profile:** the flag button in the top right corner of their card on the Users page.
+- **A game or its review:** the flag button beside the like button in the game's details.
+- **A session:** expand it in their sessions list, then click **Report**.
+- **A list:** the flag button on the list.
+- **A screenshot or clip:** open it, then click the flag beside the share and close buttons.
+- **On a [game page](/social/game-pages):** the flag on a review, or on a screenshot or clip once it's open.
+
+Pick a reason, add anything that would help in the box below it, and click **Send Report**. The person you reported isn't told, and nobody sees who sent a report except the admins. You can only report a thing once until an admin has looked at it.
+
+If you'd also like to stop someone seeing you, add them to your [Invisible To](#invisible-to) list.
+
 ## Your profile's look
 
 These settings in **Profile > Settings > Social Visibility** control whether other people see your profile's customisations (see [Appearance](/profile-settings/appearance)):

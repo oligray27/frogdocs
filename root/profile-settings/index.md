@@ -35,6 +35,6 @@ To find a setting without knowing its section, type in **Search settings…** (a
 | **Display & Layout** | Rating style, widescreen layout, the navigation bars | [Library & Display](/profile-settings/library-and-display) |
 | **Social Visibility** | What other people see of you, whether people without an account can see your profile, and what you see of them | [Privacy](/social/privacy) and [Social](/social) |
 | **Notifications** | Push notifications on this device, which kinds you get, and your other devices | [Notifications](/social/notifications) |
-| **Logout & Other** | Log out, export your data, or delete your account | [Account](/profile-settings/account) |
+| **Logout & Other** | Log out, export your data, manage recovery codes, or delete your account | [Account](/profile-settings/account) |
 
 Settings save to your account as soon as you change them, and follow you to any device you log in on.
