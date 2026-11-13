@@ -67,6 +67,8 @@ Everyone who has the game in their FrogLog: you first, then the people you follo
 
 **Reviews** lists everyone's written reviews, newest first. Long ones are shortened: click **Show more** to read the rest.
 
+**Lists** shows the public [lists](/library/lists) the game is in, the most liked first, with each list's first five covers and who made it. Click one to open it.
+
 **Screenshots** and **Clips** show everyone's, with who uploaded each in the corner. Click one to view it. Screenshots and clips marked as a spoiler or NSFW aren't shown on game pages.
 
 Use the flag on a review, screenshot or clip to report it to FrogLog's admins.

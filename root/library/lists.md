@@ -25,6 +25,17 @@ Use **Search lists...** to find a list by name.
 2. Enter a **Name**, for example "Kingdom Hearts Collection", and an optional **Description**.
 3. Click **Create**.
 
+## Importing a list
+
+To bring in a list from a spreadsheet or another site, click the import button next to **Create List**.
+
+1. Paste one title per line, or click **Choose File** to pick a CSV or text file. FrogLog finds the title column (one headed Title, Name or Game) and a year column if there is one. If it picks the wrong columns, change **Title Column** and **Year Column**. A year helps it tell an original from its remake.
+2. Click **Find Matches**. FrogLog matches each title to a game. Titles it matched exactly need no attention; the rest are marked **Check** or **No Match**, and **To Check** shows just those. Use the menu under each title to pick a different game, add the title as a custom game (just the name, for games FrogLog doesn't know, as with **Add Game**'s custom entry), or **Skip** to leave it out.
+3. Choose **New List** (with a name, optional description and whether it's public) or **Add to a List** to add the games to one of your lists.
+4. Click **Import**. Games already on the list are skipped, and games you already have are linked to your copy.
+
+You can import up to 300 titles at a time.
+
 ## Editing lists
 
 Click the gear button (**Edit lists**) in the toolbar to turn on editing. Each of your lists then shows:
@@ -46,6 +57,8 @@ While editing, you can also:
 Click the gear again when you're done.
 
 ## What you've played
+
+Each list shows three rows of covers. A longer list ends its third row with **Show More** (and how many more there are): click it to see the rest, and **Show Less** at the end to fold it up again. While editing, every game is shown.
 
 Covers are dimmed for games you haven't played, and show your avatar on the ones you have. The badge next to the list's name shows your played count.
 
