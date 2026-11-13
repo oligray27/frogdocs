@@ -73,7 +73,7 @@ Use the flag on a review, screenshot or clip to report it to FrogLog's admins.
 
 ## More in the series, and Games Like This
 
-**More in …** (for example **More in The Elder Scrolls**) shows the other games in the game's series, oldest first. Re-releases of the game you're looking at, such as a Special Edition, are left out.
+**More in the … Series** (for example **More in the Elder Scrolls Series**) shows the other games in the game's series, oldest first, beside **Games Like This** on a wide screen. Re-releases of the game you're looking at, such as a Special Edition, are left out.
 
 **Games Like This** shows games similar to this one.
 
