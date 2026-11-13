@@ -30,7 +30,7 @@ Right after you sign up, FrogLog walks you through a short setup guide. Every st
 1. **Appearance:** pick a theme, choose whether to use the widescreen layout, and set your profile photo, background and bio.
 2. **Profile card:** your favourite games, theme audio, banner, profile colours and avatar decoration.
 3. **Your library:** unify Games and Live Service, the default table layout, rating mode, grouping replays, and whether your own actions show in your Activity.
-4. **Integrations:** HowLongToBeat, Metacritic, Steam title images, the Steam Play button and Steam store links.
+4. **Integrations:** HowLongToBeat, Online Consensus (Metacritic and Steam), Steam title images, the Steam Play button and Steam store links.
 5. **Privacy & social:** whether your profile can be seen outside FrogLog, whether other people can view your [Up Next](/library/up-next) list, whether your theme and background are public, whether you see other people's themes and backgrounds, and whether their theme audio plays.
 6. **Imports & tracking:** link Steam, PlayStation, Xbox or Nintendo Switch. Linking an account turns on its automatic tracking and presence (you can switch either off in the same step) and opens its import straight away, except Switch, which has no import.
 7. **Notifications:** turn on push notifications for this device, choose which kinds you get, and see (and remove) the other devices you've turned them on for. This is the same as Settings > Notifications.

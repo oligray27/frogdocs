@@ -77,7 +77,7 @@ Clears your presence, unless a Quick Session or automatic tracking session is ru
 | `GET /users/:username/live-service/:id/sessions` | A live service game's public sessions |
 | `GET /users/:username/stats` | Their [stats](/api-and-integrations/reference/stats) |
 | `GET /users/:username/lists` | Their public lists |
-| `GET /users/:username/lists/:id` | One public list, with `members` |
+| `GET /users/:username/lists/:id` | One public list, with `members`. Also has `owner_username`, `owner_label` and `owner_avatar_url` for whoever made it. |
 
 `GET /users/public` is the signed-out directory: the same rows as the Discover tab, but only for people who have turned on [Profile Visible Outside FrogLog](/social/privacy), whoever is asking. It takes `q`, `limit` (up to 60) and `offset`, and returns `{ users, has_more }`. It needs no token, never includes online status, and is rate-limited per IP address like the other requests without a token.
 

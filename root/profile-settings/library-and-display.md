@@ -47,7 +47,7 @@ The Games and Live Service sorts are greyed out while Unify is on, and the merge
 | **Steam Play Button** | Show / Hide | Shows a **Play** button on your games' details cards that opens them in Steam. See [Steam](/platforms/steam) |
 | **HowLongToBeat** | Show / Hide | Shows the HLTB badge, with how long a game usually takes, on details cards and search results |
 | **HowLongToBeat on Live Service** | Show / Hide | The same for live service games. Greyed out while **HowLongToBeat** is hidden. |
-| **Metacritic** | Show / Click to Reveal / Hide | How the Metascore badge on details cards and search results works. **Click to Reveal**, the default, keeps the score hidden until you click the badge, so a low score isn't the first thing you see. **Show** puts the score on the badge. |
+| **Online Consensus** | Show / Click to Reveal / Hide | How the Online Consensus badge (the Metascore and the Steam rating) on details cards, game pages and search results works. **Click to Reveal**, the default, keeps the scores hidden until you click the badge, so a low score isn't the first thing you see. **Show** puts both scores on the badge. |
 | **Tablet Mode** | On / Off | Uses the tablet layout on a computer or large screen: the side menu in place of the top and bottom bars, with your library beside the details card. Unfolded phones and small tablets get this layout automatically. The window needs to be at least 680 pixels wide and 480 tall. |
 
 **Tablet Mode** only changes the device you set it on, so it can be on for one computer and off for another. Every other setting here applies to your whole account.

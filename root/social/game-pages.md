@@ -25,7 +25,7 @@ On a phone, use **Back** at the top of the page to return to where you came from
 
 ## The top of the page
 
-The game's cover, title, genres, developer and release date, with its Steam tags and **Consensus** (with the Steam logo): click it to see the game's Steam rating (such as **Very Positive**), the share of positive reviews and how many there are. When you're logged in, its **Metacritic** score and **HLTB** time are there too.
+The game's cover, title, genres, developer and release date, with its Steam tags and **Online Consensus**: click it to see the game's Steam rating (such as **Very Positive**), the share of positive reviews and how many there are, and, when you're logged in, its Metascore too (see [Your Library](/library)). When you're logged in, its **HLTB** time is there as well.
 If the game isn't in your Games yet:
 
 - **Add to Games** opens the **Add New Game** form, the same as on Search (see [Adding Games](/library/adding-games)).
