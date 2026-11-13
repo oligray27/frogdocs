@@ -20,7 +20,7 @@ The [Badge Catalogue](/badges/catalogue) lists every badge and what it takes.
 
 Most badges are **ladders** with five tiers: **Bronze**, **Silver**, **Gold**, **Diamond** and **Platinum**. You earn them in order, and each tier needs more than the last. For example, the Library ladder starts at 50 games logged and tops out at 1,000.
 
-Each ladder's card shows your current tier and a progress bar towards the next one. Genre ladders, which count the games you've logged in a particular genre, have their own **Genres** section.
+Each ladder's card shows your current tier and a progress bar towards the next one. Genre ladders, which count the games you've logged of a particular kind, from their genres and Steam tags, have their own **Genres** section, grouped by theme (Shooters, RPGs, Horror and so on).
 
 ### One-offs
 

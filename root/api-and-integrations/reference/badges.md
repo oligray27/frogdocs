@@ -41,7 +41,7 @@ Every badge, with your progress.
 }
 ```
 
-- `ladders` are tiered badges. `tier` is your current tier (`0` for none yet), `value` is your current count, and `next` is `null` once you reach Platinum. `section` is `"ladders"` or `"genres"`.
+- `ladders` are tiered badges. `tier` is your current tier (`0` for none yet), `value` is your current count, and `next` is `null` once you reach Platinum. `section` is `"ladders"` or `"genres"`. Genre ladders also have a `theme` (`"Shooters"`, `"Horror"` and so on, `null` elsewhere), and come in theme order.
 - `badges` are the one-offs, grouped by `group`: `moments`, `connections`, `commemorative` and `secrets`. Secret badges only appear once you've earned them.
 - `secrets_remaining` is how many secret badges you haven't found yet.
 

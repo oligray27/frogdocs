@@ -36,22 +36,101 @@ For ladders, the numbers are what you need to reach each tier. For example, **Li
 
 ## Genres
 
-| Badge | Counts | Bronze | Silver | Gold | Diamond | Platinum |
-|---|---|---|---|---|---|---|
-| **It's Dangerous to Go Alone** | Adventure games you've logged. | 15 | 40 | 80 | 150 | 300 |
-| **Rip and Tear** | Shooter games you've logged. | 10 | 25 | 50 | 100 | 200 |
-| **You're Finally Awake** | Role-playing games you've logged. | 10 | 25 | 50 | 100 | 200 |
-| **Jimbo Says Hi** | Indie games you've logged. | 5 | 15 | 30 | 60 | 120 |
-| **It's-a Me** | Platform games you've logged. | 5 | 15 | 30 | 60 | 120 |
-| **The Factory Must Grow** | Simulator games you've logged. | 5 | 15 | 30 | 60 | 120 |
-| **The Cake Is a Lie** | Puzzle games you've logged. | 5 | 15 | 30 | 60 | 120 |
-| **Jackpot!** | Hack and slash games you've logged. | 5 | 15 | 30 | 60 | 120 |
-| **Armchair General** | Strategy and tactics games you've logged. | 5 | 15 | 30 | 60 | 120 |
-| **Blue Shelled** | Racing games you've logged. | 3 | 10 | 20 | 40 | 80 |
-| **The Big Leagues** | Sport games you've logged. | 3 | 10 | 20 | 40 | 80 |
-| **Get Over Here!** | Fighting games you've logged. | 3 | 10 | 20 | 40 | 80 |
+Genre ladders count the games you've logged of a particular kind. They look at a game's genres and its Steam tags (its top 10 descriptive ones, the same ones [Stats](/stats) counts) together, so one game can count towards several ladders, and some ladders need two things at once, such as a shooter that's also military. Games without Steam tags, mostly ones that aren't on Steam, still count towards the ladders that take genres. Replays don't count twice.
 
-A game counts towards a genre ladder if that genre is one of its genres, so one game can count towards several. **Armchair General** includes real-time strategy, turn-based strategy and tactical games. There's no ladder for Action, as it isn't used consistently across games.
+### Foundations
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **Rip and Tear** | Shooter genre, or a shooter tag (Shooter, FPS, Third-Person Shooter and the like) | 10 | 25 | 50 | 100 | 200 |
+| **You're Finally Awake** | Role-playing genre, or an RPG tag (RPG, Action RPG, JRPG, CRPG and the like) | 10 | 25 | 50 | 100 | 200 |
+
+### Shooters
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **Press F to Pay Respects** | A shooter, with Military, War, World War II, World War I, Cold War, Tactical | 3 | 10 | 20 | 40 | 80 |
+| **Wake Up, Mr. Freeman** | A shooter, with Sci-fi, Space, Aliens, Futuristic, Cyberpunk | 5 | 15 | 30 | 60 | 120 |
+| **Eyes Up, Guardian** | Looter Shooter | 3 | 5 | 10 | 25 | 50 |
+| **Heroes Never Die** | Hero Shooter, Arena Shooter, Extraction Shooter | 3 | 5 | 10 | 25 | 50 |
+
+### RPGs
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **Me? Gongaga** | JRPG | 3 | 10 | 20 | 40 | 80 |
+| **A Roll of the Dice** | CRPG, Party-Based RPG, Tactical RPG | 3 | 5 | 10 | 25 | 50 |
+| **Wind's Howling** | An RPG, with Open World | 10 | 25 | 50 | 100 | 200 |
+| **Git Gud** | Souls-like | 5 | 15 | 30 | 60 | 120 |
+| **Stay Awhile and Listen** | Dungeon Crawler, Loot, Hack and Slash, with an RPG | 3 | 10 | 20 | 40 | 80 |
+
+### Action
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **Jackpot!** | Spectacle fighter, Character Action Game, Hack and Slash, Beat 'em up, Hack and slash/Beat 'em up (genre), but not Souls-like | 10 | 25 | 50 | 100 | 200 |
+| **Kept You Waiting, Huh?** | Stealth, Assassins, Ninja | 5 | 15 | 30 | 60 | 120 |
+| **With Great Power** | Superhero, Comic Book | 3 | 5 | 10 | 25 | 50 |
+| **Viewpoint Synchronised** | Open World, Sandbox | 10 | 25 | 50 | 100 | 200 |
+
+### Horror
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **Here's Johnny!** | Horror, Survival Horror, Psychological Horror, Lovecraftian, Action/Horror (genre) | 10 | 25 | 50 | 100 | 200 |
+| **Jill Sandwich** | Survival Horror | 3 | 10 | 20 | 40 | 80 |
+| **In My Restless Dreams** | Psychological Horror, Lovecraftian | 3 | 10 | 20 | 40 | 80 |
+| **War Never Changes** | Zombies, Post-apocalyptic | 5 | 15 | 30 | 60 | 120 |
+
+### Building
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **Prepared for the End** | Open World Survival Craft, Base Building, Crafting, with Survival, Open World Survival Craft | 3 | 5 | 10 | 25 | 50 |
+| **The Factory Must Grow** | City Builder, Management, Colony Sim, Automation, Resource Management, Economy, Factory builder (genre), Building, but not Survival | 3 | 5 | 10 | 25 | 50 |
+| **Cleared for Takeoff** | Driving, Trains, Flight, Automobile Sim, Space Sim, trucking, Vehicular Combat, with Simulation, Simulator (genre), Simulation (genre) | 3 | 5 | 10 | 25 | 50 |
+| **Eat, Sleep, Farm, Repeat** | Cozy, Relaxing, Wholesome, Life Sim, Farming Sim, Cute, Family Friendly, but not Horror, Gore | 3 | 10 | 20 | 40 | 80 |
+
+### Strategy
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **Armchair General** | Strategy, Tactical or turn-based/real-time strategy genre, or a Strategy, Tactical, RTS, Turn-Based Strategy, Grand Strategy, 4X or Wargame tag, but not shooters | 3 | 5 | 10 | 25 | 50 |
+
+### Story
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **Would You Kindly** | Story Rich | 10 | 25 | 50 | 100 | 200 |
+| **This Action Will Have Consequences** | Choices Matter in its top 3 tags, or Choose Your Own Adventure, Interactive Fiction or Episodic, and no RPG tag | 3 | 5 | 10 | 25 | 50 |
+| **Objection!** | Walking Simulator, Point & Click, Visual Novel, Point-and-click (genre), Visual novel (genre), Detective, Mystery | 3 | 10 | 20 | 40 | 80 |
+
+### Worlds
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **I Want to Believe** | Sci-fi, Space, Cyberpunk, Aliens, Futuristic, Robots | 10 | 25 | 50 | 100 | 200 |
+| **Hey, Listen!** | Fantasy, Magic, Mythology, Dragons | 10 | 25 | 50 | 100 | 200 |
+| **Fear the Old Blood** | Dark Fantasy | 3 | 10 | 20 | 40 | 80 |
+| **Historical** | Historical, Medieval, Alternate History, World War II, World War I | 5 | 15 | 30 | 60 | 120 |
+| **It's Over 9000!** | Anime | 3 | 10 | 20 | 40 | 80 |
+| **You Fight Like a Dairy Farmer** | Funny, Comedy, Memes | 3 | 10 | 20 | 40 | 80 |
+
+### Classics
+
+| Badge | What counts | Bronze | Silver | Gold | Diamond | Platinum |
+|---|---|---|---|---|---|---|
+| **It's-a Me** | Platform (genre), Platformer (genre), Platformer, 2D Platformer, 3D Platformer, Precision Platformer, Puzzle Platformer | 10 | 25 | 50 | 100 | 200 |
+| **A Miserable Little Pile of Secrets** | Metroidvania | 3 | 5 | 10 | 25 | 50 |
+| **Just One More Run** | Roguelike, Roguelite, Action Roguelike, Roguelike Deckbuilder, Bullet Heaven | 3 | 5 | 10 | 25 | 50 |
+| **The Cake Is a Lie** | Puzzle (genre), Puzzle, but not Puzzle Platformer | 5 | 15 | 30 | 60 | 120 |
+| **Blue Shelled** | Racing (genre), Racing, Driving, but not Vehicular Combat | 3 | 5 | 10 | 25 | 50 |
+| **The Big Leagues** | Sport (genre), Sports (genre), Sports, Golf, Football (Soccer), Skateboarding, Basketball | 3 | 10 | 20 | 40 | 80 |
+| **Get Over Here!** | Fighting (genre), Fighting, 2D Fighter, 3D Fighter, Martial Arts | 3 | 5 | 10 | 25 | 50 |
+| **Insert Coin** | Arcade (genre), Arcade, Bullet Hell, Shoot 'Em Up, Retro | 3 | 10 | 20 | 40 | 80 |
+| **Jimbo Says Hi** | Card & Board Game (genre), Card Game, Deckbuilding, Card Battler, Tabletop, Board Game | 3 | 5 | 10 | 25 | 50 |
+| **Full Combo** | Music (genre), Rhythm, Music | 3 | 5 | 10 | 25 | 50 |
+| **Leeroy Jenkins** | Massively Multiplayer (genre), Massively Multiplayer, MMORPG | 3 | 5 | 10 | 25 | 50 |
 
 ## Moments
 
@@ -84,3 +163,7 @@ A game counts towards a genre ladder if that genre is one of its genres, so one 
 ## Secrets
 
 There are also a few secret badges, hidden around FrogLog for you to find. They stay hidden, even on your own Badges page, until you earn them, and the page shows how many are still out there.
+
+## Icon credits
+
+Badge icons come from [Lucide](https://lucide.dev) and [Lucide Extended](https://icon-sets.iconify.design/lucide-extended/) (ISC), [Akar Icons](https://icon-sets.iconify.design/akar-icons/), [andrsrxn/icons](https://icon-sets.iconify.design/andrsrxn/), [IconOven](https://icon-sets.iconify.design/iconoven/), [coolicons](https://icon-sets.iconify.design/coolicons/) and [Boxicons](https://icon-sets.iconify.design/boxicons/) (MIT), [Basil](https://icon-sets.iconify.design/basil/) by Craftwork and [Streamline Flex](https://icon-sets.iconify.design/streamline-flex/) by Streamline (CC BY 4.0), and [Font Awesome 4](https://icon-sets.iconify.design/fa/) by Dave Gandy (SIL Open Font License). The Hollow Knight icon is traced from [Icons8](https://icons8.com).
