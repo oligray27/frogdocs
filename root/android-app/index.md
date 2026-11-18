@@ -8,7 +8,7 @@ leafwiki_last_author_id: system
 ---
 # Android App
 
-The FrogLog Android app is the FrogLog website in its own app, with a few extras you can't get in a browser: home screen widgets, push notifications that work like they do on a computer, and **Play on PC**, which starts a game on your PC from your phone.
+The FrogLog Android app is the FrogLog website in its own app, with a few extras you can't get in a browser: home screen widgets, push notifications that work like they do on a computer, **Play on Phone**, which opens a game on your phone and times it, and **Play on PC**, which starts a game on your PC from your phone.
 
 [Download the Android app](https://github.com/oligray27/froglog-android/releases/latest)
 
@@ -40,6 +40,26 @@ Press and hold your home screen, choose **Widgets**, and look for **FrogLog**. T
 | **Remote Start** | Games you played recently that your PC can start, with a button to start each one (see below) |
 
 When you add a widget, you pick its theme from the same list as the website. Each widget keeps its own theme, and on Android 12 and later you can change it later from the widget's settings option. On a Samsung Galaxy Z Flip, the widgets are also available for the cover screen: turn them on in **Settings > Cover screen > Widgets** on the phone.
+
+## Playing games on your phone
+
+### Play on Phone
+
+Link a game to its Android app and it gets a **Play on Phone** button on its details card. Tapping it starts a [Quick Session](/library/sessions#quick-session) and opens the game.
+
+To link a game, open its details card, tap **Edit**, then **Link Android App**. You'll see the apps on your phone, with the closest matches to the game's name first, then your other games, then everything else. Tap the right one and it's linked straight away. The link is saved to your account, so it works on any phone you sign in on that has the app installed. To change or remove it, tap the same button (it now shows the app's name).
+
+The button only shows when the linked app is installed on the phone you're using, and it's dimmed while you already have a session running. If the game can also be started on your PC, the two buttons are combined: **Play on**, then a PC button and a phone button.
+
+The first time you play a game this way, it gets a green **Mobile** tag in its platforms. If you remove the tag, it isn't added again.
+
+### The running session notification
+
+A Quick Session you start on your phone, whether from a game's card, **Play on Phone** or the **Current Activity** widget, shows in your notifications with buttons to **Pause**, **Resume** and **Stop**. It shows the game's app icon if the game is linked for **Play on Phone**, and otherwise its cover. **Stop** opens the app at the usual stop menu, so you can save it, add notes or discard it. Sessions started anywhere else (the website on a computer, LilyPad, or a platform like Steam) don't get the notification.
+
+The notification goes by itself when the session ends, including when you stop it somewhere else. It isn't cleared by **Clear all**, but you can swipe it away, and then it stays away for that session unless you pause or resume it.
+
+Turn it off in **Profile > Settings > Notifications > Running Session**. That setting only applies to the phone you change it on. The first time it's needed, Android asks whether FrogLog can show notifications. If you refuse, it can't appear until you allow notifications for FrogLog in your phone's settings.
 
 ## Starting games on your PC
 

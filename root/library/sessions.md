@@ -82,6 +82,8 @@ Quick Session also works for games without session tracking: the time is simply 
 
 While a Quick Session is running, you show as playing that game in Online Now on the [Activity](/social/activity) page. You drop off Online Now while it's paused.
 
+In the [Android app](/android-app#playing-games-on-your-phone), a Quick Session you start on your phone also shows in your notifications, with buttons to pause, resume and stop it, and **Play on Phone** starts one and opens the game's app in a single tap.
+
 ### Sessions tracked by LilyPad
 
 When [LilyPad](/lilypad) is tracking a game, the Quick Session bar shows that too, with the LilyPad icon and its timer, so you can see it from your phone or another computer. It appears when the game starts and goes away when it closes. LilyPad logs the session itself when you close the game. While it's running, the **Quick Session** buttons are greyed out with "Already online", since a Quick Session would log the same play twice. The same goes while a linked platform's [automatic tracking](/platforms) is logging a session for you.
