@@ -1,5 +1,10 @@
 ---
 leafwiki_id: fl-stats-year-in-review
+leafwiki_title: Year in Review
+leafwiki_created_at: "2026-11-18T17:11:22.261562902Z"
+leafwiki_updated_at: "2026-11-18T17:11:22.261562902Z"
+leafwiki_creator_id: system
+leafwiki_last_author_id: system
 ---
 # Year in Review
 
