@@ -75,7 +75,7 @@ If you've played a lot already, importing is quicker than adding games one at a 
 
 ![The bottom of the profile card, showing the Link Steam, Link PSN, Link Switch and Link Xbox buttons](/assets/fl-getting-started/profilecard.webp)
 
-To have FrogLog record your sessions automatically from then on, turn on tracking for that platform under **Settings > Autonomous Tracking** on your profile. Nintendo Switch can be linked for automatic tracking too, though it has no import.
+Linking a platform also turns on automatic tracking for it, so FrogLog records your sessions from then on. You can turn that off under **Settings > Autonomous Tracking** on your profile, for example if you track that platform with LilyPad instead. Nintendo Switch can be linked for automatic tracking too, though it has no import.
 
 [Platforms & Automatic Tracking](/platforms) explains importing and tracking in full, with a step-by-step page for each platform.
 

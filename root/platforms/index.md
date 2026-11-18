@@ -41,7 +41,7 @@ On a phone, tap the button itself instead: a menu opens with **Import Games** an
 | **Automatic session tracking** | Watches what you're playing and logs a session for you when you stop, adding new games to your library as needed | **Profile > Settings > Autonomous Tracking** |
 | **Presence mirroring** | Shows other FrogLog users what you're playing right now, without logging anything | **Profile > Settings > Autonomous Tracking** |
 
-You can use any combination. Most people import once, then turn on automatic tracking.
+You can use any combination. Linking a platform turns on automatic tracking and presence mirroring, so most people just import once after linking.
 
 ## Importing
 
@@ -76,7 +76,7 @@ Open **Profile > Settings > Autonomous Tracking** and pick a platform's tab. Eac
 | **Mirror [platform] In-Game Presence to FrogLog** | **On** to show what you're playing, without logging sessions |
 | **Public Sessions** | Whether the games and sessions automatic tracking creates are **Public** or **Private** by default |
 
-The settings are greyed out until that platform is linked.
+The settings are greyed out until that platform is linked. Linking a platform for the first time turns on its automatic session tracking and presence mirroring for you. If you already track that platform with LilyPad, turn them off again, because running both can log the same session twice.
 
 ![The Autonomous Tracking settings, showing the platform tabs and the four settings](/assets/fl-platforms/platformtracking.webp){width=75%}
 

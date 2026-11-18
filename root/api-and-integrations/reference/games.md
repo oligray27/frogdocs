@@ -138,6 +138,7 @@ Sessions for one game. For all your sessions at once, see [Sessions](/api-and-in
 | `notes` | string | |
 | `is_public`, `spoiler` | boolean | |
 | `sync_ref` | string | Your own ID, if you sent one |
+| `source` | string | Where the session came from: `manual`, `quick_session`, `lilypad`, `api` (logged with an API key), `steam`, `psn`, `xbox`, `switch`, `import`, `pre_tracked` or `mirror`. `null` for sessions logged before this field was added (November 2026) |
 | `created_at` | timestamp | |
 | `like_count`, `liked_by_me` | | Only in `GET` |
 

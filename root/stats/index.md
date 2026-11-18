@@ -15,6 +15,7 @@ This section covers:
 
 - [Comparing Stats](/stats/comparing): putting your stats side by side with someone else's
 - [Trends](/stats/trends): charting playtime over time, for you, friends or a single game
+- [Year in Review](/stats/year-in-review): your whole year on one page, ready each 1 January
 
 ## Choosing what to look at
 
