@@ -20,13 +20,15 @@ You can also change your photo by clicking it on your profile card.
 
 ## Username
 
-Click **Change Username**, enter a **New Username**, and save. Usernames must be unique.
+Click **Change Username**, enter a **New Username**, and save. Usernames are 3 to 20 characters (letters, numbers and underscores) and unique whatever the capitals. See [Username and password rules](/getting-started#username-and-password-rules).
+
+Your followers and the nicknames people have given you carry over to the new name. Mentions of your old name in session notes and captions don't, so they stop linking to you.
 
 If you use [LilyPad](/lilypad), log in to it with your new username.
 
 ## Password
 
-Click **Change Password**, then enter your **Current Password**, a **New Password**, and the new password again under **Confirm New Password**.
+Click **Change Password**, then enter your **Current Password**, a **New Password**, and the new password again under **Confirm New Password**. The new password needs at least 8 characters and has to be hard to guess. See [Username and password rules](/getting-started#username-and-password-rules).
 
 ## Bio
 

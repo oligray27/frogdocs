@@ -31,6 +31,7 @@ Authorization: Bearer flk_your_key_here
 - Send request bodies as JSON, with `Content-Type: application/json`.
 - The only exception is uploading a screenshot, which uses `multipart/form-data`.
 - IDs in paths are numbers, for example `/games/42`.
+- Usernames in paths and queries match in any case: `/users/oli/stats` and `/users/OLI/stats` are the same person. Responses give the name as its owner spells it.
 
 ## Responses
 

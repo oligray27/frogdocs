@@ -17,11 +17,18 @@ Go to [froglog.co.uk](https://froglog.co.uk) and click **Create Account**.
 
 ![The Create an account form](/assets/fl-getting-started/signup.webp){width=30%}
 
-1. Enter a username and password, then confirm the password.
+1. Enter a username and password, then confirm the password. See [Username and password rules](/getting-started#username-and-password-rules) below.
 2. Click **Sign Up**.
 3. Save your recovery codes with **Copy** or **Download**, tick **I've saved these codes**, and click **Continue**. FrogLog doesn't ask for your email, so these codes are the only way to get back in if you forget your password. See [Recovery Codes](/profile-settings/account#recovery-codes).
 
 Your username is visible to other FrogLog users. Steam, PlayStation, Xbox and Nintendo Switch are linked afterwards, in the setup guide.
+
+### Username and password rules
+
+- **Usernames** are 3 to 20 characters: letters, numbers and underscores. They keep the capitals you choose, but FrogLog otherwise ignores case: if `FrogFan` exists, `frogfan` is taken, you can sign in as `frogfan`, and profile links work with any capitals. Names that look official (containing "froglog", "admin" or "moderator") or are offensive aren't allowed.
+- **Passwords** need at least 8 characters and have to be hard to guess. There's no rule about capitals or symbols. Instead, FrogLog turns down common passwords, ones built from your username, and ones that have turned up in a known data breach. A few unrelated words, like `lamp velvet orbit`, works well, as does anything a password manager makes. When a password is turned down, the message says why.
+
+The same rules apply when you change your username or password later.
 
 ## The setup guide
 
