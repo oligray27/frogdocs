@@ -26,7 +26,7 @@ Your username is visible to other FrogLog users. Steam, PlayStation, Xbox and Ni
 ### Username and password rules
 
 - **Usernames** are 3 to 20 characters: letters, numbers and underscores. They keep the capitals you choose, but FrogLog otherwise ignores case: if `FrogFan` exists, `frogfan` is taken, you can sign in as `frogfan`, and profile links work with any capitals. Names that look official (containing "froglog", "admin" or "moderator") or are offensive aren't allowed.
-- **Passwords** need at least 8 characters and have to be hard to guess. There's no rule about capitals or symbols. Instead, FrogLog turns down common passwords, ones built from your username, and ones that have turned up in a known data breach. A few unrelated words, like `lamp velvet orbit`, works well, as does anything a password manager makes. When a password is turned down, the message says why.
+- **Passwords** need at least 8 characters. There's no rule about capitals, numbers or symbols. Instead, FrogLog turns down common passwords (like `Password1!`), ones built from your username, and ones that have turned up in a known data breach. If a password is too common, the checklist says why. A few unrelated words, like `lamp velvet orbit`, works well, as does anything a password manager makes. A bar and a short checklist under the password fill in as you type, and **Sign Up** works once every item is ticked. The eye button shows what you've typed.
 
 The same rules apply when you change your username or password later.
 
