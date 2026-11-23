@@ -54,7 +54,7 @@ To bring in a list from a spreadsheet or another site, click the import button n
 1. Paste one title per line, or click **Choose File** to pick a CSV or text file. FrogLog finds the title column (one headed Title, Name or Game) and a year column if there is one. If it picks the wrong columns, change **Title Column** and **Year Column**. A year helps it tell an original from its remake.
 2. Click **Find Matches**. FrogLog matches each title to a game. Titles it matched exactly need no attention; the rest are marked **Check** or **No Match**, and **To Check** shows just those. Use the menu under each title to pick a different game, add the title as a custom game (just the name, for games FrogLog doesn't know, as with **Add Game**'s custom entry), or **Skip** to leave it out.
 3. Choose **New List** (with a name, optional description and whether it's public) or **Add to a List** to add the games to one of your lists.
-4. Click **Import**. Games already on the list are skipped, and games you already have are linked to your copy. The list's page then opens.
+4. Click **Import**. Games already on the list are skipped, and so is a game that appears more than once in your file. A message says how many were skipped. Games you already have are linked to your copy. The list's page then opens.
 
 You can import up to 300 titles at a time.
 
