@@ -26,7 +26,7 @@ The app is free and open source.
 
 - **It matches your theme.** The bars at the top and bottom of the screen take on the colour of your FrogLog theme.
 - **Back goes back.** The system back button steps back through the pages you've visited. From the Games page it closes the app.
-- **Notifications.** Turn them on in **Profile > Settings > Notifications**, exactly as on the website. See [Notifications](/social/notifications).
+- **Notifications.** Turn them on in **Profile > Settings > Notifications**, exactly as on the website. See [Notifications](/social/notifications). They pop up at the top of the screen, and on a Samsung phone they follow your pop-up style, so they appear as brief pop-ups if that's what you've chosen. To stop them popping up, turn off pop-ups for FrogLog's **Notifications** category in your phone's notification settings.
 
 ## Widgets
 
