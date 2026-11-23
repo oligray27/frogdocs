@@ -178,12 +178,13 @@ Stops the running session and saves it. All fields are optional:
 | `spoiler` | Default `false` |
 | `is_public` | Default `true` |
 | `stopped_at` | Timestamp to stop at, if not now. It can't be earlier than the session's start or later than now. |
+| `time_zone` | IANA time zone name, such as `Europe/London`, used to work out the session's date. Default (and the fallback for a name it doesn't recognise) `Europe/London`. |
 
 ```json
 { "hours": 1.25, "game_type": "game", "game_id": 12, "title": "Hades II", "session": { "id": 502, "...": "..." } }
 ```
 
-`hours` runs from `started_at` to the stop time, minus any time spent paused. A session that's still paused when you submit it ends when it was paused. The saved session is dated by the day it stopped, and shows in followers' Activity feed from the time it stopped.
+`hours` runs from `started_at` to the stop time, minus any time spent paused. A session that's still paused when you submit it ends when it was paused. The saved session is dated by the day it must have started (the stop time minus `hours`, in `time_zone`), so a 90-minute session stopped at 01:00 is dated the day before. It shows in followers' Activity feed from the time it stopped.
 
 If the game doesn't log sessions, the hours are added to its `hours_played` instead. `404` if nothing is running.
 

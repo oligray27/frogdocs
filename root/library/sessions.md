@@ -15,6 +15,8 @@ Every [live service game](/library/live-service-games) uses sessions. For regula
 
 With session tracking on, the game's hours are the total of all its sessions. You can't type in **Hours Played** directly.
 
+A session is dated by the day it started. If you finish a 90-minute session at 1am, it must have started the day before, so that's the date it gets. This applies to Quick Sessions, LilyPad and platform tracking. When you add a session by hand, the date starts at today and moves back a day if the hours you enter are more than today has had so far. Pick a date yourself and it stays put.
+
 ## Adding a session by hand
 
 1. Select the game and click **Add Session** on its details card.
@@ -97,7 +99,7 @@ To show it, LilyPad needs one of these settings turned on:
 
 Quick Session keeps working if you lose your connection. You can start, pause, resume, stop and discard a session as usual, and a **No connection** bar shows at the bottom of the screen.
 
-FrogLog keeps those changes on your device, even if you close the app, and sends them once you're back online. Each one keeps the time it really happened, so a session played entirely offline logs the same hours as one played online. It's dated by the day you stopped it, even if it's sent the next day. A message confirms once your sessions have gone through.
+FrogLog keeps those changes on your device, even if you close the app, and sends them once you're back online. Each one keeps the time it really happened, so a session played entirely offline logs the same hours as one played online. It's dated by the day it started, even if it's sent the next day. A message confirms once your sessions have gone through.
 
 If a change can't be saved when it's sent, for example because a different session was started on another device in the meantime, a notice appears in the Quick Session bar.
 
